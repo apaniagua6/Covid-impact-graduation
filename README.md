@@ -1,5 +1,4 @@
-# Covid-impact-graduation
-Impact of COVID-19 on school graduation rates.
+# Impact of COVID-19 on school graduation rates.
 
 
 The pandemic has impacted educational activities with several countries shifting to online or hybrid models of education. As a result, students in specific demographic groups (under-represented minorities, low-income students, etc.) are dropping out of high school. 
