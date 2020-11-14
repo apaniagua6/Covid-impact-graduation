@@ -16,13 +16,15 @@ The following are the sources of the datasets that are used for our analysis.
 
 2. https://nces.ed.gov/programs/digest/current_tables.asp  - Provides high level statistics on high school to college graduation and job prospects. Dropout rates, employment based on graduation levels, years .
 
-3. Hindawi study - Outcomes  for students in UK e-learning study (age level, region, assessment score, final outcome)
+3.  [Washington State Graduation Rates 2014-2019](https://data.wa.gov/browse?q=Report%20Card%20Graduation&sortBy=relevance) - Provides Report Card Graduation data for the 2014-19 school year through the most current year of graduation data available for Washington state. This data is disaggregated by the school, district, and state levels and includes counts and graduation rates of students by the following groups: grade level, gender, race/ethnicity, and student programs and special characteristics. 
 
-4. USA aggregation of school drop out rates
+4. Hindawi study - Outcomes  for students in UK e-learning study (age level, region, assessment score, final outcome)
 
-5. https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19-and-student-learning-in-the-united-states-the-hurt-could-last-a-lifetime - COVID learning loss prediction model for low income/minority students
+5. USA aggregation of school drop out rates
+
+6. https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19-and-student-learning-in-the-united-states-the-hurt-could-last-a-lifetime - COVID learning loss prediction model for low income/minority students
 Washington State Graduation Rate - using Washington state as a control; we assume that washington state is more integrated across zip codes & school districts (2014-2019, dropout & year by demographics “studentgroup” & county/district level)
 
-6. LA Youth Center data for dropout rates ages 14-21 (but only 2016-2017)
+7. LA Youth Center data for dropout rates ages 14-21 (but only 2016-2017)
 
-7. American Community Survey is an ongoing survey by the US Census that collects data January through December to provide communities with information for their decision-making. Table Table 219.75 is particularly relevant, as it includes the percentage of high school dropouts among persons 16 to 24 years old (status dropout rate) and percentage distribution of status dropouts, by labor force status and years of school completed from 1970 to 2018.
+8. American Community Survey is an ongoing survey by the US Census that collects data January through December to provide communities with information for their decision-making. Table Table 219.75 is particularly relevant, as it includes the percentage of high school dropouts among persons 16 to 24 years old (status dropout rate) and percentage distribution of status dropouts, by labor force status and years of school completed from 1970 to 2018.
