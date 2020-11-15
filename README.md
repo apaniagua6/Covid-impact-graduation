@@ -28,3 +28,83 @@ Washington State Graduation Rate - using Washington state as a control; we assum
 7. LA Youth Center data for dropout rates ages 14-21 (but only 2016-2017)
 
 8. American Community Survey is an ongoing survey by the US Census that collects data January through December to provide communities with information for their decision-making. Table Table 219.75 is particularly relevant, as it includes the percentage of high school dropouts among persons 16 to 24 years old (status dropout rate) and percentage distribution of status dropouts, by labor force status and years of school completed from 1970 to 2018.
+
+
+# Regions 
+Census Bureau Regions. [See Map in PDF format](./readmefiles/census_regions.pdf) 
+
+A check next to a state represents that we obtained the high school enrollment rate for that state. 
+
+
+### Northeast
+- [ ] Connecticut	(09)
+- [ ] Maine 	(23)
+- [ ] Massachusetts (25)
+- [ ] New Hampshire 	(33)
+- [ ] Rhode Island 	(44)
+- [ ] Vermont 	(50)
+- [ ] New Jersey	(34)
+- [ ] New York	(36)
+- [ ] Pennsylvania	(42)
+## Midwest
+- [ ] Indiana (18)
+- [ ] Illinois (17)
+- [ ] Michigan	(26)
+- [ ] Ohio (	39)
+- [ ] Wisconsin	(55)
+- [ ] Iowa	 (19) 	 
+- [ ] Nebraska	(31)
+- [ ] Kansas 	(20) 
+- [ ] North Dakota	(38)
+- [ ] Minnesota	(27) 
+- [ ] South Dakota	(46)
+- [ ] Missouri	(29)
+
+## South
+- [ ] Delaware	(10)
+- [ ] District of Columbia	(11)
+- [ ] Florida 	(12)
+- [ ] Georgia	(13)
+- [ ] Maryland 	(24)
+- [ ] North Carolina (37)
+- [ ] South Carolina (45)
+- [ ] Virginia (51)
+- [ ] West Virginia	 (54)
+- [ ] Alabama	(01)
+- [ ] Mississippi	(28)
+- [ ] Tennessee	(47)
+- [ ] Arkansas	(05)
+- [ ] Louisiana	(22)
+- [ ] Oklahoma	(40)
+- [x] Texas	 (48)
+
+### West
+- [ ] Arizona	 ( 04)
+- [ ] Colorado	(08)
+- [ ] Idaho	 (16)
+- [ ] New Mexico	(35)
+- [ ] Montana	(30)
+- [ ] Utah	 (49)
+- [ ] Nevada (32)
+- [ ] Wyoming (56)
+- [ ] Alaska 	(02)
+- [ ] California	(06)
+- [ ] Hawaii	 (15)
+- [ ] Oregon	 (41)
+- [ ] Washington	(53)
+
+
+
+# Contribution Guidelines 
+These are general guidelines on how to make changes to this repository. 
+
+1. Clone the Repository 
+2. Create a Branch
+3. Add your data sets
+4. Create your own notebook for data_exploration ex. abe_scratch.ipynb
+5. Work on your data exploration notebook
+6. git commmit
+7. git push origin master
+8. Create a pull request via github.com
+9. Someone reviews your pull request. 
+10. Merge this branch into master
