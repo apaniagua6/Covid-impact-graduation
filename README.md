@@ -36,7 +36,7 @@ Census Bureau Regions. [See Map in PDF format](./readmefiles/census_regions.pdf)
 A check next to a state represents that we obtained the high school enrollment rate for that state. 
 
 
-### Northeast
+## Northeast
 - [ ] Connecticut	(09)
 - [ ] Maine 	(23)
 - [ ] Massachusetts (25)
@@ -78,7 +78,7 @@ A check next to a state represents that we obtained the high school enrollment r
 - [ ] Oklahoma	(40)
 - [x] Texas	 (48)
 
-### West
+## West
 - [ ] Arizona	 ( 04)
 - [ ] Colorado	(08)
 - [ ] Idaho	 (16)
