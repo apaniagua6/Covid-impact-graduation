@@ -1,0 +1,1036 @@
+School Year,LEA TYPE,LEA Name,School Name,Total K-12,K,Grade_1,Grade_2,Grade_3,Grade_4,Grade_5,Grade_6,Grade_7,Grade_8,Grade_9,Grade_10,Grade_11,Grade_12,Female,Male,American Indian,AfAm/Black,Asian,Hispanic,Multiple Race,Pacific Islander,White,Economically Disadvantaged,English Learner,Student With a Disability,Homeless,Preschool
+2020,District,Alpine District,Alpine Online School,112,11,7,9,10,12,12,18,15,18,0,0,0,0,55,57,0,1,1,4,3,1,102,16,0,9,0,0
+2020,District,Alpine District,Alpine School,639,72,93,77,104,88,99,106,0,0,0,0,0,0,317,322,0,3,16,30,35,0,555,64,10,65,0,32
+2020,District,Alpine District,American Fork High,2393,0,0,0,0,0,0,0,0,0,67,795,822,709,1186,1207,3,18,20,196,74,19,2063,334,35,169,0,0
+2020,District,Alpine District,American Fork Jr High,1983,0,0,0,0,0,0,1,663,652,667,0,0,0,933,1050,9,7,15,168,72,18,1694,402,40,191,3,0
+2020,District,Alpine District,Aspen School,412,51,49,53,49,79,63,68,0,0,0,0,0,0,197,215,4,1,2,53,26,9,317,128,23,54,0,3
+2020,District,Alpine District,Barratt School,483,56,55,65,77,73,78,79,0,0,0,0,0,0,216,267,3,4,2,32,21,4,417,87,9,52,0,30
+2020,District,Alpine District,Belmont School,799,110,155,143,89,111,105,86,0,0,0,0,0,0,400,399,8,6,15,66,43,19,642,194,27,80,0,49
+2020,District,Alpine District,Black Ridge School,1140,144,153,181,161,170,165,166,0,0,0,0,0,0,546,594,5,11,10,64,34,6,1010,149,16,78,2,6
+2020,District,Alpine District,Bonneville School,560,85,77,75,72,88,76,87,0,0,0,0,0,0,260,300,2,5,11,127,22,25,368,281,82,72,0,55
+2020,District,Alpine District,Brookhaven School,1349,227,229,212,183,182,165,151,0,0,0,0,0,0,684,665,6,8,8,158,76,13,1080,218,21,123,1,12
+2020,District,Alpine District,Canyon View Jr High,1183,0,0,0,0,0,0,1,401,407,374,0,0,0,518,665,6,11,14,317,48,21,766,462,94,126,1,0
+2020,District,Alpine District,Cascade School,721,72,120,104,120,100,98,107,0,0,0,0,0,0,332,389,1,3,22,82,50,15,548,182,32,57,0,4
+2020,District,Alpine District,Cedar Ridge School,780,86,111,93,117,120,120,133,0,0,0,0,0,0,415,365,0,0,6,36,30,4,704,102,3,76,0,30
+2020,District,Alpine District,Cedar Valley High,1990,0,0,0,0,0,0,0,1,0,610,590,489,300,975,1015,4,11,14,239,79,23,1620,546,40,196,7,0
+2020,District,Alpine District,Cedar Valley School,96,10,18,16,14,12,13,13,0,0,0,0,0,0,36,60,0,0,0,3,4,0,89,29,1,17,0,0
+2020,District,Alpine District,Centennial Elementary,748,119,83,95,108,113,113,117,0,0,0,0,0,0,350,398,3,12,7,160,35,15,516,274,63,114,0,41
+2020,District,Alpine District,Central School,515,74,76,68,67,81,61,88,0,0,0,0,0,0,225,290,1,3,1,73,21,1,415,244,42,47,0,37
+2020,District,Alpine District,Cherry Hill School,723,94,114,103,99,104,111,98,0,0,0,0,0,0,364,359,2,2,4,257,35,18,405,366,122,72,0,38
+2020,District,Alpine District,Dan W. Peterson,232,1,8,7,7,6,4,3,5,9,8,11,7,156,92,140,0,4,6,34,6,4,178,95,15,232,0,5
+2020,District,Alpine District,Deerfield School,617,67,66,80,91,82,111,120,0,0,0,0,0,0,299,318,1,4,4,33,24,5,546,46,1,34,0,72
+2020,District,Alpine District,Dry Creek School,1041,158,172,149,166,135,134,127,0,0,0,0,0,0,506,535,0,8,7,60,36,10,920,129,20,70,0,44
+2020,District,Alpine District,Eagle Valley School,753,123,128,95,111,97,96,103,0,0,0,0,0,0,382,371,2,4,3,85,48,18,593,288,16,80,0,48
+2020,District,Alpine District,Eaglecrest School,999,122,137,145,129,158,143,165,0,0,0,0,0,0,482,517,2,6,5,52,42,9,883,121,8,107,0,47
+2020,District,Alpine District,Foothill School,592,67,75,87,85,78,92,108,0,0,0,0,0,0,275,317,3,4,9,43,18,11,504,116,13,79,0,38
+2020,District,Alpine District,Forbes School,453,54,72,60,58,60,69,80,0,0,0,0,0,0,213,240,2,5,0,69,20,11,346,176,23,73,1,1
+2020,District,Alpine District,Fox Hollow School,698,94,110,89,113,102,88,102,0,0,0,0,0,0,319,379,1,4,4,63,30,13,583,112,14,75,0,3
+2020,District,Alpine District,Freedom School,905,113,118,123,113,133,152,153,0,0,0,0,0,0,437,468,3,6,4,37,18,5,832,112,2,70,1,30
+2020,District,Alpine District,Frontier Middle School,1307,0,0,0,0,0,0,0,676,631,0,0,0,0,653,654,3,15,4,153,52,19,1061,377,23,137,2,0
+2020,District,Alpine District,Geneva School,304,41,43,40,42,39,52,47,0,0,0,0,0,0,146,158,1,5,3,159,14,7,115,224,106,38,1,59
+2020,District,Alpine District,Greenwood School,743,121,94,121,91,96,112,108,0,0,0,0,0,0,360,383,3,2,6,164,40,14,514,378,119,98,9,67
+2020,District,Alpine District,Grovecrest School,730,89,90,88,118,101,119,125,0,0,0,0,0,0,368,362,0,7,0,38,30,3,652,156,8,79,0,3
+2020,District,Alpine District,Harvest School,969,136,145,126,141,134,154,133,0,0,0,0,0,0,500,469,0,3,1,145,43,6,771,156,20,92,0,60
+2020,District,Alpine District,Hidden Hollow School,988,147,128,145,129,151,156,132,0,0,0,0,0,0,497,491,1,0,0,99,60,10,818,281,23,107,0,51
+2020,District,Alpine District,Highland School,774,66,90,101,125,126,124,142,0,0,0,0,0,0,340,434,0,3,15,18,35,8,695,111,4,90,0,1
+2020,District,Alpine District,Horizon School,120,2,1,3,1,7,4,1,6,4,4,4,7,76,51,69,1,4,5,9,2,4,95,30,4,120,0,3
+2020,District,Alpine District,Lake Mountain Middle,1266,0,0,0,0,0,0,0,436,449,381,0,0,0,616,650,2,8,4,119,77,5,1051,188,24,115,0,0
+2020,District,Alpine District,Lakeridge Jr High,1226,0,0,0,0,0,0,0,450,404,372,0,0,0,610,616,7,13,14,357,55,27,753,516,127,121,4,0
+2020,District,Alpine District,Legacy School,745,90,120,112,96,96,121,110,0,0,0,0,0,0,364,381,1,5,3,58,25,3,650,117,11,66,1,89
+2020,District,Alpine District,Lehi High,1617,0,0,0,0,0,0,0,0,0,50,558,549,460,829,788,7,16,7,148,47,10,1382,229,23,136,0,0
+2020,District,Alpine District,Lehi Jr High,1332,0,0,0,0,0,0,0,679,653,0,0,0,0,639,693,3,3,8,94,60,17,1147,207,23,109,0,0
+2020,District,Alpine District,Lehi School,609,83,88,92,86,87,98,75,0,0,0,0,0,0,277,332,2,7,1,73,20,2,504,175,31,58,0,26
+2020,District,Alpine District,Liberty Hills Elementary,511,84,83,62,76,66,71,69,0,0,0,0,0,0,250,261,0,3,12,56,38,12,390,69,9,42,0,3
+2020,District,Alpine District,Lindon School,663,104,82,81,87,95,104,110,0,0,0,0,0,0,307,356,0,5,4,65,38,5,546,143,36,85,0,26
+2020,District,Alpine District,Lone Peak High,2537,0,0,0,0,0,0,0,0,0,45,836,816,840,1252,1285,4,17,23,120,95,15,2263,166,9,151,0,0
+2020,District,Alpine District,Manila School,643,69,88,81,99,99,99,108,0,0,0,0,0,0,308,335,2,3,0,53,20,5,560,93,7,48,0,1
+2020,District,Alpine District,Meadow School,783,113,89,131,112,101,122,115,0,0,0,0,0,0,354,429,5,3,4,43,16,13,699,124,4,66,0,7
+2020,District,Alpine District,Mount Mahogany School,820,124,129,108,122,110,128,99,0,0,0,0,0,0,413,407,4,7,4,201,35,10,559,423,101,111,2,7
+2020,District,Alpine District,Mountain Ridge Jr High,1194,0,0,0,0,0,0,2,377,417,398,0,0,0,606,588,3,7,14,74,43,7,1046,126,8,77,1,0
+2020,District,Alpine District,Mountain Trails School,770,131,106,112,111,102,88,120,0,0,0,0,0,0,390,380,4,2,3,78,26,2,655,282,16,89,3,35
+2020,District,Alpine District,Mountain View High,1244,0,0,0,0,0,0,0,0,0,0,450,438,356,589,655,6,15,18,427,38,28,712,494,140,124,2,0
+2020,District,Alpine District,North Point School,669,98,92,111,89,87,93,99,0,0,0,0,0,0,328,341,2,2,4,62,18,4,577,111,17,49,0,27
+2020,District,Alpine District,Northridge School,689,82,100,92,114,97,96,108,0,0,0,0,0,0,326,363,0,5,2,55,22,5,600,174,19,74,0,9
+2020,District,Alpine District,Oak Canyon Jr High,1414,0,0,0,0,0,0,0,483,464,465,2,0,0,668,746,7,11,12,130,51,12,1191,305,44,135,0,0
+2020,District,Alpine District,Orchard School,710,92,115,103,101,105,99,95,0,0,0,0,0,0,339,371,1,2,8,174,27,7,491,209,51,49,0,46
+2020,District,Alpine District,Orem High,1299,0,0,0,0,0,0,0,0,0,28,409,420,442,679,620,5,9,12,288,44,51,890,380,77,79,0,0
+2020,District,Alpine District,Orem Jr High,1031,0,0,0,0,0,0,0,382,334,315,0,0,0,527,504,7,6,13,364,43,29,569,550,143,134,1,0
+2020,District,Alpine District,Orem School,705,109,90,95,90,102,112,107,0,0,0,0,0,0,332,373,1,5,7,128,31,12,521,264,69,112,0,49
+2020,District,Alpine District,Pleasant Grove High,2239,0,0,0,0,0,0,0,0,0,56,739,758,686,1109,1130,5,20,13,244,74,29,1854,437,59,172,4,0
+2020,District,Alpine District,Pleasant Grove Jr High,1420,0,0,0,0,0,0,1,482,470,467,0,0,0,723,697,1,9,7,184,52,13,1154,410,59,143,2,0
+2020,District,Alpine District,Polaris High School,122,0,0,0,0,0,0,0,0,0,1,7,53,61,60,62,0,0,1,55,4,2,60,68,21,25,1,0
+2020,District,Alpine District,Polaris West High,100,0,0,0,0,0,0,0,0,0,0,4,34,62,35,65,0,1,1,15,2,0,81,43,3,11,0,0
+2020,District,Alpine District,Pony Express School,965,162,148,139,142,117,111,146,0,0,0,0,0,0,483,482,1,6,5,82,54,11,806,258,12,141,0,73
+2020,District,Alpine District,Ridgeline School,927,101,115,150,132,132,149,148,0,0,0,0,0,0,454,473,1,3,8,42,40,6,827,55,10,111,0,64
+2020,District,Alpine District,River Rock School,903,141,127,141,141,137,108,108,0,0,0,0,0,0,445,458,0,4,4,40,46,0,809,61,2,86,0,54
+2020,District,Alpine District,Riverview School,958,92,144,155,140,157,121,149,0,0,0,0,0,0,461,497,1,3,7,94,48,15,790,188,27,96,0,29
+2020,District,Alpine District,Rocky Mountain School,618,50,102,89,101,93,82,101,0,0,0,0,0,0,305,313,0,5,1,114,22,6,470,168,60,70,0,34
+2020,District,Alpine District,Sage Hills School,1152,176,156,161,173,155,170,161,0,0,0,0,0,0,557,595,0,8,10,89,65,25,955,172,16,117,0,29
+2020,District,Alpine District,Saratoga Shores School,888,93,116,116,121,145,144,153,0,0,0,0,0,0,413,475,3,3,6,33,49,12,782,79,6,84,0,43
+2020,District,Alpine District,Sego Lily School,718,98,84,84,90,113,126,123,0,0,0,0,0,0,348,370,0,6,9,45,20,11,627,145,18,63,0,55
+2020,District,Alpine District,Sharon School,379,62,53,60,36,55,64,49,0,0,0,0,0,0,167,212,4,4,7,237,9,1,117,288,175,67,0,44
+2020,District,Alpine District,Shelley School,866,121,118,132,115,125,133,122,0,0,0,0,0,0,433,433,2,4,6,53,21,4,776,139,14,78,0,3
+2020,District,Alpine District,Skyridge High School,2989,0,0,0,0,0,0,0,0,10,771,746,729,733,1520,1469,13,25,32,245,102,55,2517,433,43,185,3,0
+2020,District,Alpine District,Snow Springs School,850,143,122,99,127,113,128,118,0,0,0,0,0,0,402,448,4,4,15,60,21,17,729,141,13,143,0,52
+2020,District,Alpine District,Springside School,903,160,139,123,127,115,110,129,0,0,0,0,0,0,431,472,2,1,3,59,41,3,794,142,8,61,0,7
+2020,District,Alpine District,Summit High,72,0,0,0,0,0,0,0,0,0,6,11,27,28,37,35,0,2,0,15,7,1,47,54,2,20,2,0
+2020,District,Alpine District,Suncrest School,362,65,50,49,44,52,51,51,0,0,0,0,0,0,172,190,2,0,3,217,13,15,112,279,154,37,1,56
+2020,District,Alpine District,Thunder Ridge School,751,105,114,122,98,102,111,99,0,0,0,0,0,0,344,407,0,7,5,60,37,5,637,110,9,96,1,61
+2020,District,Alpine District,Timberline Middle,1442,0,0,0,0,0,0,0,494,480,468,0,0,0,741,701,0,11,17,61,71,2,1280,100,8,99,0,0
+2020,District,Alpine District,Timpanogos High,1519,0,0,0,0,0,0,0,0,1,40,485,480,513,743,776,9,13,17,360,55,7,1058,511,122,131,2,0
+2020,District,Alpine District,Traverse Mountain School,710,85,95,99,91,126,90,124,0,0,0,0,0,0,361,349,1,5,12,33,18,14,627,75,8,49,0,89
+2020,District,Alpine District,Valley View School,421,59,50,64,63,55,61,69,0,0,0,0,0,0,204,217,0,0,2,21,6,6,386,118,8,53,2,47
+2020,District,Alpine District,Vineyard School,1104,198,164,166,159,146,129,142,0,0,0,0,0,0,532,572,6,13,10,203,55,28,789,353,109,119,0,72
+2020,District,Alpine District,Vista Heights Middle,1213,0,0,0,0,0,0,0,444,397,372,0,0,0,611,602,2,7,7,112,52,18,1015,211,22,109,0,0
+2020,District,Alpine District,Westfield School,648,55,87,69,86,96,125,130,0,0,0,0,0,0,317,331,2,9,1,32,17,1,586,50,6,53,3,36
+2020,District,Alpine District,Westlake High,2401,0,0,0,0,0,0,0,0,0,45,819,766,771,1229,1172,6,32,14,218,107,26,1998,405,30,215,1,0
+2020,District,Alpine District,Westmore School,464,62,75,57,71,61,65,73,0,0,0,0,0,0,213,251,0,6,6,148,19,16,269,263,86,64,0,40
+2020,District,Alpine District,Willowcreek Middle,2002,0,0,0,0,0,0,0,681,685,636,0,0,0,991,1011,4,8,12,170,64,12,1732,318,25,164,0,0
+2020,District,Alpine District,Windsor School,571,85,96,88,77,83,62,80,0,0,0,0,0,0,281,290,4,4,3,269,11,2,278,312,169,57,8,58
+2020,District,Beaver District,Beaver High,468,0,0,0,0,0,0,0,58,75,92,85,96,62,213,255,0,0,0,77,3,0,388,148,16,70,0,0
+2020,District,Beaver District,Beaver Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,36
+2020,District,Beaver District,Belknap School,493,67,73,57,66,74,73,83,0,0,0,0,0,0,216,276,3,0,4,74,7,1,404,226,18,72,0,0
+2020,District,Beaver District,Milford High,212,0,0,0,0,0,0,0,33,29,40,36,34,40,107,105,2,0,1,44,4,3,158,80,13,21,0,0
+2020,District,Beaver District,Milford School,226,27,37,29,33,31,32,37,0,0,0,0,0,0,115,111,4,1,0,50,4,7,160,113,13,35,0,0
+2020,District,Beaver District,Minersville School,105,14,14,13,10,19,15,20,0,0,0,0,0,0,50,55,0,1,0,15,0,0,89,55,1,16,0,0
+2020,District,Beaver District,Minersville School,20,0,0,0,0,0,0,0,11,9,0,0,0,0,7,13,0,0,0,1,0,0,19,6,0,3,0,0
+2020,District,Box Elder District,Bear River High,1036,0,0,0,0,0,0,0,0,0,0,392,353,291,509,527,4,6,6,85,8,2,925,328,10,107,11,0
+2020,District,Box Elder District,Bear River Middle,781,0,0,0,0,0,0,0,0,391,390,0,0,0,358,423,5,3,2,75,8,6,682,283,22,78,6,0
+2020,District,Box Elder District,Box Elder High,1545,0,0,0,0,0,0,0,0,0,0,568,483,494,765,780,13,9,7,171,27,12,1306,449,42,131,7,0
+2020,District,Box Elder District,Box Elder Middle,1093,0,0,0,0,0,0,0,0,564,529,0,0,0,528,564,4,2,3,114,27,4,939,348,22,91,3,0
+2020,District,Box Elder District,Century School,496,80,81,79,89,77,90,0,0,0,0,0,0,0,233,263,2,0,0,39,1,0,454,146,14,68,7,1
+2020,District,Box Elder District,Dale Young Community High,116,0,0,0,0,0,0,0,0,0,1,2,27,86,45,71,1,1,0,14,4,1,95,63,0,45,1,0
+2020,District,Box Elder District,Discovery School,457,74,74,75,80,73,81,0,0,0,0,0,0,0,218,239,3,6,0,67,8,1,372,193,17,69,3,52
+2020,District,Box Elder District,Fielding School,450,72,95,66,76,68,73,0,0,0,0,0,0,0,223,227,3,1,0,27,4,1,414,154,8,54,0,49
+2020,District,Box Elder District,Foothill School,515,66,76,79,79,112,103,0,0,0,0,0,0,0,235,280,3,2,3,48,13,1,445,217,9,55,1,0
+2020,District,Box Elder District,Garland School,706,103,106,124,126,113,134,0,0,0,0,0,0,0,347,359,1,5,1,69,7,1,622,255,16,92,8,10
+2020,District,Box Elder District,Grouse Creek Elementary,2,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0
+2020,District,Box Elder District,Grouse Creek Secondary,3,0,0,0,0,0,0,0,0,2,0,1,0,0,1,2,0,0,0,0,0,0,3,3,0,0,0,0
+2020,District,Box Elder District,Harris Intermediate,841,0,0,0,0,0,0,406,435,0,0,0,0,0,407,434,2,5,5,86,7,1,735,334,32,79,3,0
+2020,District,Box Elder District,Lake View School,597,91,110,96,101,101,98,0,0,0,0,0,0,0,312,285,8,1,1,145,6,2,434,299,52,68,13,2
+2020,District,Box Elder District,Mckinley School,499,92,91,78,80,76,82,0,0,0,0,0,0,0,243,256,0,0,6,91,9,2,391,251,33,61,0,81
+2020,District,Box Elder District,Mountain View School,327,58,54,39,53,65,58,0,0,0,0,0,0,0,142,185,3,1,1,43,3,1,275,182,13,67,5,1
+2020,District,Box Elder District,North Park School,504,87,97,77,67,89,87,0,0,0,0,0,0,0,241,263,2,2,7,71,14,4,404,236,23,73,2,5
+2020,District,Box Elder District,Out of State School,4,0,0,1,0,1,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0
+2020,District,Box Elder District,Out of State School,11,0,0,0,0,0,0,0,0,1,1,4,1,4,6,5,0,0,0,0,0,0,11,0,0,0,0,0
+2020,District,Box Elder District,Park Valley Elementary,23,3,4,4,5,1,4,2,0,0,0,0,0,0,13,10,0,0,0,0,0,0,23,7,0,1,0,0
+2020,District,Box Elder District,Park Valley Secondary,17,0,0,0,0,0,0,0,5,4,2,6,0,0,12,5,0,0,0,0,0,0,17,4,0,1,0,0
+2020,District,Box Elder District,Snowville School,24,2,7,5,5,2,3,0,0,0,0,0,0,0,13,11,0,0,0,0,0,0,24,16,0,7,0,0
+2020,District,Box Elder District,Three Mile Creek School,562,0,0,138,138,137,149,0,0,0,0,0,0,0,271,291,2,0,3,39,6,0,512,108,9,60,1,0
+2020,District,Box Elder District,Willard School,245,124,121,0,0,0,0,0,0,0,0,0,0,0,117,128,1,1,0,14,3,0,226,37,3,29,1,56
+2020,District,Box Elder District,Young Intermediate,1060,0,0,0,0,0,0,525,535,0,0,0,0,0,533,527,12,1,3,129,16,8,891,401,39,92,8,0
+2020,District,Cache District,Birch Creek School,591,101,82,79,88,98,77,66,0,0,0,0,0,0,293,298,4,6,1,42,11,5,522,266,13,102,1,55
+2020,District,Cache District,Cache High,152,0,0,0,0,0,0,0,0,1,0,12,38,101,59,93,2,2,0,38,2,2,106,77,5,67,0,0
+2020,District,Cache District,Cache Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,61
+2020,District,Cache District,Canyon School,705,94,100,113,113,87,101,97,0,0,0,0,0,0,339,366,11,6,3,123,16,5,541,340,85,89,5,22
+2020,District,Cache District,Cedar Ridge School,797,98,107,112,109,123,119,129,0,0,0,0,0,0,401,396,4,3,9,40,19,5,717,158,12,90,0,0
+2020,District,Cache District,Green Canyon High School,1443,0,0,0,0,0,0,0,0,0,379,384,348,332,708,735,8,9,18,154,17,6,1231,342,41,114,3,0
+2020,District,Cache District,Greenville School,530,65,72,79,82,67,77,88,0,0,0,0,0,0,289,241,5,3,6,63,12,3,438,197,31,58,0,29
+2020,District,Cache District,Heritage School,704,81,109,96,111,114,95,98,0,0,0,0,0,0,337,367,4,0,4,85,15,0,596,193,37,92,3,24
+2020,District,Cache District,Lewiston School,478,77,60,65,69,74,66,67,0,0,0,0,0,0,238,240,4,1,0,58,8,1,406,224,30,65,2,30
+2020,District,Cache District,Lincoln School,470,57,76,65,76,58,61,77,0,0,0,0,0,0,204,266,4,0,0,93,5,4,364,261,73,71,5,0
+2020,District,Cache District,Millville School,466,60,70,64,56,78,61,77,0,0,0,0,0,0,210,256,5,0,2,52,11,0,396,196,17,77,3,30
+2020,District,Cache District,Mountain Crest High,1453,0,0,0,0,0,0,0,0,0,370,395,357,331,713,740,5,13,7,157,13,10,1248,430,28,161,9,0
+2020,District,Cache District,Mountainside School,429,53,49,67,65,63,66,66,0,0,0,0,0,0,198,231,1,0,4,20,8,4,392,117,8,60,0,27
+2020,District,Cache District,Nibley School,443,66,60,67,67,63,65,55,0,0,0,0,0,0,210,233,4,0,2,79,10,2,346,170,43,85,2,67
+2020,District,Cache District,North Cache Middle School,1157,0,0,0,0,0,0,0,622,535,0,0,0,0,560,597,6,8,4,89,21,2,1027,403,25,130,4,0
+2020,District,Cache District,North Park School,432,71,62,55,63,58,70,53,0,0,0,0,0,0,224,208,0,7,2,45,19,7,352,120,26,72,9,59
+2020,District,Cache District,Providence School,724,82,112,100,108,110,111,101,0,0,0,0,0,0,354,370,5,2,7,34,10,7,659,159,8,62,0,0
+2020,District,Cache District,Ridgeline High School,1638,0,0,0,0,0,0,0,0,0,448,424,383,383,855,783,5,4,11,119,29,8,1462,383,23,145,5,0
+2020,District,Cache District,River Heights School,525,86,77,77,65,71,80,69,0,0,0,0,0,0,257,268,2,3,5,29,7,2,477,128,10,72,6,25
+2020,District,Cache District,Sky View High,1390,0,0,0,0,0,0,0,0,0,351,397,325,317,700,690,3,8,8,126,25,2,1218,432,27,146,0,0
+2020,District,Cache District,South Cache Middle School,1029,0,0,0,0,0,0,0,508,521,0,0,0,0,487,542,6,6,6,110,14,5,882,380,32,145,2,0
+2020,District,Cache District,Spring Creek Middle School,795,0,0,0,0,0,0,0,371,424,0,0,0,0,416,379,2,6,10,73,15,2,687,214,25,73,0,0
+2020,District,Cache District,Summit School,719,110,92,103,105,95,114,100,0,0,0,0,0,0,368,351,11,4,1,96,17,1,589,336,48,89,18,28
+2020,District,Cache District,Sunrise School,762,95,98,109,116,116,118,110,0,0,0,0,0,0,406,356,3,3,8,41,19,4,684,179,6,86,1,0
+2020,District,Cache District,Wellsville School,574,83,77,61,82,79,92,100,0,0,0,0,0,0,272,302,10,5,3,23,12,2,519,109,8,69,0,0
+2020,District,Cache District,White Pine School,396,67,58,49,58,58,50,56,0,0,0,0,0,0,212,184,4,0,0,18,4,1,369,166,7,73,0,25
+2020,District,Canyons District,Albion Middle,936,0,0,0,0,0,0,319,321,296,0,0,0,0,455,481,1,10,9,57,48,1,810,108,15,78,13,0
+2020,District,Canyons District,Alta High,2290,0,0,0,0,0,0,0,0,0,567,602,607,514,1151,1139,5,27,51,247,100,32,1828,354,59,167,40,2
+2020,District,Canyons District,Alta View School,644,128,107,103,94,110,102,0,0,0,0,0,0,0,289,355,2,4,9,118,31,4,476,155,33,69,16,0
+2020,District,Canyons District,Altara School,483,82,64,71,97,91,78,0,0,0,0,0,0,0,250,233,1,6,11,58,16,3,388,103,25,55,11,0
+2020,District,Canyons District,Bell View School,310,76,56,44,50,44,40,0,0,0,0,0,0,0,165,145,1,2,5,69,15,10,208,138,23,62,21,0
+2020,District,Canyons District,Bella Vista School,254,47,42,38,34,47,46,0,0,0,0,0,0,0,118,136,6,1,4,44,18,1,180,74,28,37,8,0
+2020,District,Canyons District,Brighton High,2126,0,0,0,0,0,0,0,0,0,562,557,513,494,1033,1093,3,20,27,191,131,15,1739,278,46,146,49,0
+2020,District,Canyons District,Brookwood School,441,69,63,74,79,80,76,0,0,0,0,0,0,0,208,233,0,0,3,33,21,0,384,21,6,36,2,0
+2020,District,Canyons District,Butler Middle,950,0,0,0,0,0,0,327,316,307,0,0,0,0,430,520,5,11,15,114,68,10,727,195,38,96,29,0
+2020,District,Canyons District,Butler School,641,111,114,108,99,113,96,0,0,0,0,0,0,0,315,326,0,6,6,50,35,4,540,84,16,44,4,0
+2020,District,Canyons District,Canyon View School,462,81,87,67,74,81,72,0,0,0,0,0,0,0,245,217,1,5,6,37,21,6,386,74,10,36,12,0
+2020,District,Canyons District,Canyons Transition Academy,60,0,0,0,0,0,0,0,0,0,0,0,0,60,20,40,0,0,3,5,3,0,49,59,5,59,2,0
+2020,District,Canyons District,Copperview School,409,73,87,64,66,63,56,0,0,0,0,0,0,0,198,211,6,14,0,250,13,10,116,409,207,58,55,28
+2020,District,Canyons District,Corner Canyon High,2351,0,0,0,0,0,0,0,0,0,610,564,590,587,1123,1228,5,20,50,197,97,10,1972,174,42,149,35,0
+2020,District,Canyons District,Crescent School,459,72,71,65,72,76,103,0,0,0,0,0,0,0,218,241,0,15,13,96,20,5,310,127,59,80,19,0
+2020,District,Canyons District,Diamond Ridge High School,103,0,0,0,0,0,0,0,0,0,0,5,42,56,46,57,1,2,0,31,5,2,62,54,12,15,6,0
+2020,District,Canyons District,Draper Park Middle,1609,0,0,0,0,0,0,521,570,518,0,0,0,0,776,833,0,25,24,128,81,9,1342,187,51,126,17,0
+2020,District,Canyons District,Draper School,705,100,106,114,123,132,130,0,0,0,0,0,0,0,350,355,1,3,19,56,42,5,579,95,26,66,13,0
+2020,District,Canyons District,East Midvale School,552,99,102,94,81,78,98,0,0,0,0,0,0,0,279,273,5,69,10,192,38,12,226,552,139,75,95,24
+2020,District,Canyons District,East Sandy School,447,64,80,79,68,78,78,0,0,0,0,0,0,0,205,242,2,4,9,62,15,2,353,136,40,57,12,0
+2020,District,Canyons District,Eastmont Middle,722,0,0,0,0,0,0,230,241,251,0,0,0,0,342,380,3,7,8,85,30,12,577,188,27,117,14,0
+2020,District,Canyons District,Edgemont School,369,48,64,51,56,71,79,0,0,0,0,0,0,0,182,187,2,5,7,64,21,7,263,148,30,93,8,0
+2020,District,Canyons District,Entrada,29,0,0,0,1,0,1,1,0,4,7,7,4,4,10,19,0,3,0,10,2,1,13,19,1,3,2,0
+2020,District,Canyons District,Goldminer's Daughter,13,3,0,4,0,4,0,2,0,0,0,0,0,0,5,8,0,0,0,2,0,1,10,2,0,0,2,0
+2020,District,Canyons District,Granite School,379,52,56,70,68,64,69,0,0,0,0,0,0,0,198,181,0,3,4,28,5,0,339,44,9,67,10,0
+2020,District,Canyons District,Hillcrest High,2194,0,0,0,0,0,0,0,0,0,635,525,512,522,1082,1112,11,50,155,573,100,30,1275,786,227,212,144,0
+2020,District,Canyons District,Indian Hills Middle,1202,0,0,0,0,0,0,395,391,416,0,0,0,0,576,626,1,21,17,112,48,9,994,196,25,139,20,0
+2020,District,Canyons District,Jordan High,1996,0,0,0,0,0,0,0,0,0,500,530,511,455,1014,982,5,28,33,519,118,45,1248,700,163,205,67,2
+2020,District,Canyons District,Jordan Valley School,103,3,6,11,8,10,6,4,4,7,4,6,4,30,34,69,0,1,7,13,8,3,71,42,0,103,6,0
+2020,District,Canyons District,Lone Peak School,688,100,102,108,111,119,148,0,0,0,0,0,0,0,344,344,0,3,15,21,39,9,601,55,18,49,14,0
+2020,District,Canyons District,Midvale Middle,945,0,0,0,0,0,0,335,318,292,0,0,0,0,451,494,10,44,46,457,37,24,327,943,289,143,112,0
+2020,District,Canyons District,Midvale School,709,103,113,118,125,114,136,0,0,0,0,0,0,0,357,352,7,32,2,433,26,20,189,709,340,74,119,30
+2020,District,Canyons District,Midvalley School,419,66,72,63,76,70,72,0,0,0,0,0,0,0,198,221,9,12,14,131,27,7,219,252,87,46,65,0
+2020,District,Canyons District,Mt. Jordan Middle,933,0,0,0,0,0,0,299,305,329,0,0,0,0,474,459,3,14,24,291,41,18,542,407,129,151,42,0
+2020,District,Canyons District,Oak Hollow School,662,89,99,115,102,134,123,0,0,0,0,0,0,0,341,321,3,10,12,68,29,2,538,105,32,53,6,0
+2020,District,Canyons District,Oakdale School,389,64,59,63,56,74,73,0,0,0,0,0,0,0,202,187,4,3,11,52,26,10,283,91,20,35,15,0
+2020,District,Canyons District,Park Lane School,394,69,57,73,57,63,75,0,0,0,0,0,0,0,174,220,1,6,3,23,19,1,341,71,9,88,3,0
+2020,District,Canyons District,Peruvian Park School,572,74,97,98,99,91,113,0,0,0,0,0,0,0,279,293,0,3,42,63,37,2,425,127,33,35,8,0
+2020,District,Canyons District,Quail Hollow School,484,69,82,80,84,81,88,0,0,0,0,0,0,0,234,250,1,2,14,21,22,1,423,63,9,66,6,0
+2020,District,Canyons District,Ridgecrest School,528,73,89,81,100,97,88,0,0,0,0,0,0,0,247,281,5,7,18,78,72,10,338,148,41,39,10,0
+2020,District,Canyons District,Sandy School,577,94,97,93,82,100,111,0,0,0,0,0,0,0,295,282,2,7,11,231,18,12,296,322,128,85,51,30
+2020,District,Canyons District,Silver Mesa School,635,89,97,101,119,116,113,0,0,0,0,0,0,0,308,327,0,7,5,72,26,8,517,124,20,105,9,0
+2020,District,Canyons District,South Park Academy,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0
+2020,District,Canyons District,Special Ed Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,350
+2020,District,Canyons District,Sprucewood School,387,69,68,63,53,72,62,0,0,0,0,0,0,0,204,183,0,7,7,49,15,2,307,91,19,38,4,0
+2020,District,Canyons District,Sunrise School,692,92,106,124,121,113,136,0,0,0,0,0,0,0,306,386,0,4,43,36,51,8,550,93,18,64,9,0
+2020,District,Canyons District,Union Middle,822,0,0,0,0,0,0,291,286,245,0,0,0,0,406,416,3,10,20,185,47,10,547,342,79,111,51,0
+2020,District,Canyons District,Willow Canyon School,420,65,71,73,68,69,74,0,0,0,0,0,0,0,196,224,2,8,8,60,28,3,311,84,26,82,11,0
+2020,District,Canyons District,Willow Springs School,683,95,125,106,97,124,136,0,0,0,0,0,0,0,334,349,1,8,11,80,32,1,550,138,41,63,10,0
+2020,District,Carbon District,Bruin Point School,102,19,13,15,18,20,17,0,0,0,0,0,0,0,47,55,0,0,0,21,1,0,80,77,2,24,0,17
+2020,District,Carbon District,Carbon High,1005,0,0,0,0,0,0,0,0,0,243,284,228,250,506,499,5,3,5,147,8,1,836,321,26,140,3,0
+2020,District,Carbon District,Castle Heights School,476,74,92,88,75,78,69,0,0,0,0,0,0,0,213,263,12,1,3,47,4,0,409,173,3,73,0,0
+2020,District,Carbon District,Castle Valley Center,50,15,3,4,2,2,4,2,3,4,1,3,5,2,15,35,0,0,0,8,3,0,39,30,0,50,0,52
+2020,District,Carbon District,Creekview School,476,64,76,81,80,75,100,0,0,0,0,0,0,0,235,241,2,2,0,67,7,1,397,174,11,64,0,34
+2020,District,Carbon District,Helper Middle,187,0,0,0,0,0,0,64,73,50,0,0,0,0,99,88,6,0,0,24,0,2,155,81,4,37,5,0
+2020,District,Carbon District,Mont Harmon Middle,645,0,0,0,0,0,0,211,218,216,0,0,0,0,313,332,5,2,2,92,5,2,537,268,22,86,0,0
+2020,District,Carbon District,Sally Mauro School,278,30,58,42,49,48,51,0,0,0,0,0,0,0,142,136,3,0,0,29,4,0,242,126,2,55,1,35
+2020,District,Carbon District,Wellington School,253,41,44,38,41,42,47,0,0,0,0,0,0,0,111,142,4,4,1,36,3,0,205,136,5,48,0,29
+2020,District,Daggett District,Flaming Gorge School,19,3,3,5,4,2,2,0,0,0,0,0,0,0,7,12,0,0,0,0,0,0,19,1,0,3,0,0
+2020,District,Daggett District,Manila High,97,0,0,0,0,0,0,0,18,18,18,12,20,11,38,59,1,0,0,6,2,0,88,20,0,11,0,0
+2020,District,Daggett District,Manila School,73,7,13,6,13,10,11,13,0,0,0,0,0,0,35,38,1,0,0,2,2,0,68,23,1,10,0,11
+2020,District,Davis District,Adams School,576,78,79,90,82,78,81,88,0,0,0,0,0,0,280,296,1,1,6,80,21,2,465,138,25,75,3,52
+2020,District,Davis District,Adelaide School,470,62,73,60,54,76,62,83,0,0,0,0,0,0,234,236,4,11,2,157,11,17,268,209,111,75,22,34
+2020,District,Davis District,Antelope School,711,96,126,97,96,102,100,94,0,0,0,0,0,0,330,381,7,30,8,133,23,9,501,284,37,120,15,35
+2020,District,Davis District,Bluff Ridge School,922,109,121,141,127,132,140,152,0,0,0,0,0,0,468,454,4,1,6,68,29,4,810,95,9,88,18,55
+2020,District,Davis District,Boulton School,493,72,83,60,66,66,72,74,0,0,0,0,0,0,235,258,1,4,4,53,21,7,403,103,18,85,2,50
+2020,District,Davis District,Bountiful High,1440,0,0,0,0,0,0,0,0,0,0,468,492,480,711,729,1,20,23,146,29,34,1187,226,34,125,17,0
+2020,District,Davis District,Bountiful Jr High,641,0,0,0,0,0,0,0,215,213,213,0,0,0,316,325,1,8,4,45,13,15,555,142,11,73,21,0
+2020,District,Davis District,Bountiful School,526,76,106,85,85,63,48,63,0,0,0,0,0,0,250,276,2,6,5,53,24,30,406,142,48,70,9,1
+2020,District,Davis District,Buffalo Point School,929,129,125,130,132,131,138,144,0,0,0,0,0,0,459,470,2,4,5,75,27,8,808,98,12,77,5,32
+2020,District,Davis District,Canyon Creek School,835,114,116,123,131,121,112,118,0,0,0,0,0,0,418,417,1,4,13,29,11,1,776,41,10,99,3,58
+2020,District,Davis District,Centennial Jr High,946,0,0,0,0,0,0,0,314,342,290,0,0,0,436,510,0,10,5,28,15,0,888,31,1,52,2,0
+2020,District,Davis District,Centerville Jr High,1011,0,0,0,0,0,0,0,345,336,330,0,0,0,518,493,4,6,13,69,47,13,859,172,21,107,13,0
+2020,District,Davis District,Centerville School,385,43,50,41,55,59,71,66,0,0,0,0,0,0,174,211,0,1,1,38,18,7,320,77,18,54,9,10
+2020,District,Davis District,Central Davis Jr High,995,0,0,0,0,0,0,0,328,327,340,0,0,0,487,508,8,12,8,144,41,20,762,313,38,133,28,0
+2020,District,Davis District,Clearfield High,2016,0,0,0,0,0,0,0,0,0,0,720,659,637,968,1048,9,37,39,326,51,21,1533,493,78,239,62,0
+2020,District,Davis District,Clinton School,480,74,84,71,61,68,61,61,0,0,0,0,0,0,223,257,1,2,8,57,20,14,378,131,28,92,12,53
+2020,District,Davis District,Columbia School,601,84,92,83,76,103,83,80,0,0,0,0,0,0,282,319,2,2,0,20,7,3,567,88,4,69,4,53
+2020,District,Davis District,Cook School,863,135,114,118,126,115,120,135,0,0,0,0,0,0,413,450,3,8,7,83,23,10,729,161,28,110,14,59
+2020,District,Davis District,Creekside School,688,77,98,88,97,106,107,115,0,0,0,0,0,0,335,353,3,10,1,91,22,1,560,146,47,101,12,52
+2020,District,Davis District,Crestview School,377,58,62,49,38,58,55,57,0,0,0,0,0,0,170,207,3,6,3,123,13,7,222,183,66,66,21,20
+2020,District,Davis District,Davis High,2120,0,0,0,0,0,0,0,0,0,0,764,680,676,1043,1077,9,22,28,122,33,11,1895,193,21,184,23,0
+2020,District,Davis District,Doxey School,305,35,39,41,45,37,63,45,0,0,0,0,0,0,143,162,1,4,2,45,15,2,236,150,17,75,14,36
+2020,District,Davis District,Eagle Bay School,525,64,70,81,71,68,83,88,0,0,0,0,0,0,257,268,0,3,4,32,4,2,480,23,4,62,0,37
+2020,District,Davis District,East Layton School,641,95,102,97,84,92,76,95,0,0,0,0,0,0,321,320,1,10,2,47,24,6,551,113,8,121,5,35
+2020,District,Davis District,Ellison Park School,936,123,138,125,138,134,130,148,0,0,0,0,0,0,472,464,4,4,14,99,30,3,782,142,42,84,16,59
+2020,District,Davis District,Endeavour School,890,94,114,124,126,142,170,120,0,0,0,0,0,0,419,471,0,8,6,26,14,0,836,22,2,77,1,1
+2020,District,Davis District,Fairfield Jr High,993,0,0,0,0,0,0,0,366,321,306,0,0,0,482,511,3,17,11,114,17,7,824,196,27,116,27,0
+2020,District,Davis District,Family Enrichment Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,146
+2020,District,Davis District,Farmington High,1879,0,0,0,0,0,0,0,0,0,1,664,679,535,939,940,3,14,11,75,35,4,1737,104,16,127,17,0
+2020,District,Davis District,Farmington Jr High,1242,0,0,0,0,0,0,0,419,410,413,0,0,0,648,594,3,5,10,54,31,4,1135,76,9,101,5,0
+2020,District,Davis District,Farmington School,524,73,65,68,76,64,85,93,0,0,0,0,0,0,263,261,1,1,5,21,18,2,476,64,7,73,2,4
+2020,District,Davis District,Foxboro School,824,120,121,137,111,119,118,98,0,0,0,0,0,0,403,421,4,15,17,137,23,51,577,210,103,87,19,46
+2020,District,Davis District,Fremont School,299,42,42,49,37,33,49,47,0,0,0,0,0,0,128,171,1,4,1,75,13,10,195,125,25,61,5,19
+2020,District,Davis District,H C Burton School,743,88,86,86,99,114,140,130,0,0,0,0,0,0,371,372,0,7,8,34,25,5,664,85,10,58,6,3
+2020,District,Davis District,Heritage School,905,117,110,130,156,123,125,144,0,0,0,0,0,0,406,499,1,4,10,29,24,3,834,41,6,106,2,48
+2020,District,Davis District,Hill Field School,528,102,83,83,73,78,45,64,0,0,0,0,0,0,242,286,0,40,2,69,27,5,385,73,9,88,0,21
+2020,District,Davis District,Holbrook School,503,69,70,73,81,70,74,66,0,0,0,0,0,0,245,258,0,4,3,37,14,4,441,71,12,61,9,56
+2020,District,Davis District,Holt School,462,62,53,67,72,69,75,64,0,0,0,0,0,0,221,241,2,5,5,125,28,11,286,187,64,70,39,34
+2020,District,Davis District,Kay's Creek Elementary,663,102,78,104,86,101,90,102,0,0,0,0,0,0,319,344,0,13,6,27,9,1,607,23,5,71,0,15
+2020,District,Davis District,Kaysville Jr High,1057,0,0,0,0,0,0,0,368,365,324,0,0,0,505,552,3,9,7,59,24,5,950,148,5,102,6,0
+2020,District,Davis District,Kaysville School,589,76,79,92,97,83,87,75,0,0,0,0,0,0,274,315,2,5,3,32,19,2,526,91,6,78,0,54
+2020,District,Davis District,King School,523,80,58,72,64,71,87,91,0,0,0,0,0,0,260,263,7,10,5,83,10,16,392,205,35,95,14,32
+2020,District,Davis District,Knowlton School,675,81,88,102,88,103,99,114,0,0,0,0,0,0,329,346,3,6,2,23,30,5,606,60,4,79,1,50
+2020,District,Davis District,Lakeside School,877,100,130,107,118,143,126,153,0,0,0,0,0,0,422,455,2,2,12,62,21,6,772,132,8,126,3,54
+2020,District,Davis District,Layton High,2051,0,0,0,0,0,0,0,0,0,0,765,664,622,1000,1051,9,29,18,227,65,28,1675,359,53,234,32,0
+2020,District,Davis District,Layton School,533,69,65,79,77,70,75,98,0,0,0,0,0,0,254,279,3,1,3,109,14,3,400,146,42,89,14,32
+2020,District,Davis District,Legacy Jr High,1165,0,0,0,0,0,0,0,381,409,375,0,0,0,557,608,0,12,15,73,37,3,1025,131,10,100,14,0
+2020,District,Davis District,Lincoln School,773,107,110,110,120,92,118,116,0,0,0,0,0,0,379,394,8,27,17,261,36,18,406,344,164,129,38,34
+2020,District,Davis District,Meadowbrook School,432,63,63,63,75,53,55,60,0,0,0,0,0,0,226,206,9,8,12,88,22,19,274,171,56,85,6,36
+2020,District,Davis District,Millcreek Jr High,690,0,0,0,0,0,0,0,244,213,233,0,0,0,305,385,2,5,12,79,23,12,557,119,23,77,19,0
+2020,District,Davis District,Morgan School,697,88,109,94,82,121,87,116,0,0,0,0,0,0,329,368,0,2,2,39,10,5,639,73,7,64,3,0
+2020,District,Davis District,Mountain High,169,0,0,0,0,0,0,0,0,0,0,1,41,127,93,76,4,2,0,39,4,3,117,67,8,17,9,0
+2020,District,Davis District,Mountain View School,787,103,120,91,120,124,126,103,0,0,0,0,0,0,368,419,1,7,23,104,41,3,608,148,46,76,8,62
+2020,District,Davis District,Mueller Park Jr High,1130,0,0,0,0,0,0,0,413,364,353,0,0,0,531,599,3,21,15,112,30,22,927,190,48,114,14,0
+2020,District,Davis District,Muir School,723,89,91,120,106,107,120,90,0,0,0,0,0,0,355,368,4,2,2,34,15,8,658,75,8,65,2,3
+2020,District,Davis District,North Davis Jr High,988,0,0,0,0,0,0,0,345,300,343,0,0,0,464,524,11,22,14,269,35,15,622,521,83,148,53,0
+2020,District,Davis District,North Layton Jr High,1107,0,0,0,0,0,0,0,386,357,364,0,0,0,567,540,4,20,23,276,47,14,723,363,84,150,35,0
+2020,District,Davis District,Northridge High,1868,0,0,0,0,0,0,0,0,0,0,663,584,621,908,960,6,35,37,356,70,22,1342,457,102,261,53,0
+2020,District,Davis District,Oak Hills School,476,57,67,56,70,87,62,77,0,0,0,0,0,0,220,256,0,0,3,25,12,3,433,39,6,62,1,0
+2020,District,Davis District,Odyssey School,582,90,73,79,76,92,79,93,0,0,0,0,0,0,286,296,1,4,5,35,24,11,502,55,15,64,1,81
+2020,District,Davis District,Online School,47,6,1,7,5,10,8,10,0,0,0,0,0,0,20,27,0,1,0,5,1,1,39,13,0,5,0,0
+2020,District,Davis District,Orchard School,727,90,91,111,93,109,116,117,0,0,0,0,0,0,357,370,2,7,23,76,27,24,568,98,52,73,13,48
+2020,District,Davis District,Parkside School,541,78,87,74,78,77,74,73,0,0,0,0,0,0,255,286,0,4,5,90,18,1,423,132,29,42,5,14
+2020,District,Davis District,Reading School,504,67,59,70,66,87,73,82,0,0,0,0,0,0,242,262,1,5,5,24,11,7,451,42,6,62,2,2
+2020,District,Davis District,Renaissance Academy,338,0,1,0,1,2,0,1,3,9,17,15,25,264,117,221,2,5,2,45,9,2,273,143,16,281,8,0
+2020,District,Davis District,Sand Springs School,1004,119,152,162,134,153,147,137,0,0,0,0,0,0,483,521,0,15,14,59,19,4,893,80,3,93,3,3
+2020,District,Davis District,Shoreline Junior High,1077,0,0,0,0,0,0,0,380,361,336,0,0,0,517,560,2,11,6,53,20,5,980,81,6,93,3,0
+2020,District,Davis District,Snow Horse School,658,62,76,83,90,110,101,136,0,0,0,0,0,0,304,354,0,3,7,16,9,3,620,26,3,76,0,1
+2020,District,Davis District,South Clearfield School,550,81,75,84,80,66,79,85,0,0,0,0,0,0,266,284,8,21,11,133,12,21,344,271,46,122,18,73
+2020,District,Davis District,South Davis Jr High,1060,0,0,0,0,0,0,0,357,368,335,0,0,0,503,557,3,9,15,146,37,39,811,231,65,107,16,0
+2020,District,Davis District,South Weber School,817,104,111,127,114,129,124,108,0,0,0,0,0,0,372,445,3,8,1,54,15,0,736,83,8,79,6,28
+2020,District,Davis District,Stewart School,669,95,93,91,100,98,103,89,0,0,0,0,0,0,339,330,0,3,11,30,23,5,597,78,10,65,6,2
+2020,District,Davis District,Sunset Jr High,964,0,0,0,0,0,0,0,329,345,290,0,0,0,456,508,1,6,11,129,31,11,775,266,34,130,30,0
+2020,District,Davis District,Sunset School,333,49,35,41,49,56,46,57,0,0,0,0,0,0,152,181,2,3,5,70,12,5,236,162,18,65,31,0
+2020,District,Davis District,Syracuse High,2240,0,0,0,0,0,0,0,0,0,0,796,716,728,1112,1128,11,18,32,214,53,29,1883,356,39,241,13,0
+2020,District,Davis District,Syracuse Jr High,1318,0,0,0,0,0,0,0,461,430,427,0,0,0,622,696,1,20,20,104,53,13,1107,203,22,156,12,0
+2020,District,Davis District,Syracuse School,937,119,129,124,122,151,160,132,0,0,0,0,0,0,450,487,3,9,14,77,36,3,795,149,12,133,10,3
+2020,District,Davis District,Taylor School,409,60,64,59,54,68,50,54,0,0,0,0,0,0,205,204,8,2,5,23,14,3,354,70,22,57,6,53
+2020,District,Davis District,Tolman School,420,67,66,63,62,59,55,48,0,0,0,0,0,0,202,218,0,3,0,24,13,4,376,93,6,72,7,53
+2020,District,Davis District,Vae View School,366,54,52,52,56,41,52,59,0,0,0,0,0,0,169,197,5,14,4,133,14,10,186,194,65,74,14,42
+2020,District,Davis District,Valley View School,482,65,59,59,53,77,77,92,0,0,0,0,0,0,227,255,3,3,1,18,13,9,435,44,6,56,7,0
+2020,District,Davis District,Viewmont High,1455,0,0,0,0,0,0,0,0,0,0,502,475,478,737,718,1,7,24,101,27,10,1285,228,22,166,17,0
+2020,District,Davis District,Wasatch School,462,59,68,59,66,69,78,63,0,0,0,0,0,0,222,240,4,6,3,126,22,2,299,243,80,72,12,49
+2020,District,Davis District,West Bountiful School,663,90,93,93,76,108,94,109,0,0,0,0,0,0,340,323,0,3,8,51,11,10,580,94,14,66,16,1
+2020,District,Davis District,West Clinton School,734,116,105,103,105,103,103,99,0,0,0,0,0,0,349,385,4,4,9,76,25,5,611,138,21,109,5,22
+2020,District,Davis District,West Point Jr High,1342,0,0,0,0,0,0,0,452,458,432,0,0,0,650,692,4,9,16,133,52,12,1116,209,15,151,16,0
+2020,District,Davis District,West Point School,945,130,129,142,135,143,136,130,0,0,0,0,0,0,453,492,8,13,5,66,13,5,835,79,10,119,16,39
+2020,District,Davis District,Whitesides School,379,55,62,53,52,51,52,54,0,0,0,0,0,0,178,201,2,7,0,45,12,7,306,173,10,62,9,33
+2020,District,Davis District,Windridge School,604,96,84,81,75,77,98,93,0,0,0,0,0,0,305,299,0,3,1,18,6,1,575,54,3,57,1,18
+2020,District,Davis District,Woods Cross High,1512,0,0,0,0,0,0,0,0,0,0,545,506,461,740,772,4,17,24,158,37,54,1218,249,73,122,26,0
+2020,District,Davis District,Woods Cross School,561,83,68,67,81,84,80,98,0,0,0,0,0,0,291,270,3,4,4,86,20,13,431,140,46,97,22,20
+2020,District,Duchesne District,Altamont High,274,0,0,0,0,0,0,0,46,40,47,41,54,46,138,136,4,3,0,11,2,0,254,69,4,28,2,0
+2020,District,Duchesne District,Altamont School,340,50,51,46,49,47,47,50,0,0,0,0,0,0,173,167,3,2,0,18,9,0,308,112,10,61,4,0
+2020,District,Duchesne District,Centennial School,535,89,101,87,74,89,95,0,0,0,0,0,0,0,264,271,43,2,1,66,32,0,391,268,15,119,3,0
+2020,District,Duchesne District,Con Amore School,41,6,2,3,1,1,1,2,6,4,1,4,4,6,14,27,6,0,0,2,3,0,30,28,0,41,1,67
+2020,District,Duchesne District,Duchesne High,352,0,0,0,0,0,0,0,59,69,49,61,53,61,163,189,6,1,1,22,9,1,312,120,4,52,4,0
+2020,District,Duchesne District,Duchesne School,417,54,65,55,56,63,56,68,0,0,0,0,0,0,194,223,8,2,1,30,9,0,367,175,12,62,2,15
+2020,District,Duchesne District,East School,310,49,42,45,66,48,60,0,0,0,0,0,0,0,143,167,45,0,4,21,21,4,215,177,11,65,4,83
+2020,District,Duchesne District,Kings Peak School,511,82,92,69,86,97,85,0,0,0,0,0,0,0,247,264,16,3,3,21,14,3,451,120,4,62,0,0
+2020,District,Duchesne District,Myton School,120,20,17,24,19,21,19,0,0,0,0,0,0,0,58,62,11,0,1,23,8,1,76,77,3,19,7,0
+2020,District,Duchesne District,Neola School,149,16,33,31,16,35,18,0,0,0,0,0,0,0,76,73,4,0,0,2,6,0,137,61,0,22,0,0
+2020,District,Duchesne District,Roosevelt Jr High,905,0,0,0,0,0,0,313,310,282,0,0,0,0,449,456,78,4,3,64,35,2,719,354,12,148,3,0
+2020,District,Duchesne District,Tabiona High,85,0,0,0,0,0,0,0,8,19,12,14,13,19,40,45,0,0,0,2,1,0,82,24,0,19,1,0
+2020,District,Duchesne District,Tabiona School,93,16,21,13,9,7,15,12,0,0,0,0,0,0,56,37,0,0,1,2,3,0,87,34,0,11,4,0
+2020,District,Duchesne District,Union High,1032,0,0,0,0,0,0,0,0,0,289,275,255,213,522,510,118,4,2,62,30,3,813,329,7,138,10,0
+2020,District,Emery District,Book Cliff School,93,9,17,12,20,11,14,10,0,0,0,0,0,0,46,47,0,0,0,50,1,0,42,71,12,15,1,29
+2020,District,Emery District,Canyon View Jr High,232,0,0,0,0,0,0,79,73,80,0,0,0,0,109,123,0,0,0,11,2,0,219,87,6,49,4,0
+2020,District,Emery District,Castle Dale School,165,14,35,30,20,29,37,0,0,0,0,0,0,0,73,92,0,0,0,3,1,0,161,74,0,33,0,0
+2020,District,Emery District,Cleveland School,122,33,19,21,19,21,9,0,0,0,0,0,0,0,62,60,0,0,1,1,1,0,119,44,0,30,2,18
+2020,District,Emery District,Cottonwood School,130,10,20,28,15,28,29,0,0,0,0,0,0,0,52,78,2,0,0,5,0,0,123,71,0,35,5,22
+2020,District,Emery District,Emery High,629,0,0,0,0,0,0,0,0,0,172,171,151,135,321,308,1,3,0,34,4,0,587,285,5,103,7,0
+2020,District,Emery District,Ferron School,196,31,36,24,32,34,39,0,0,0,0,0,0,0,84,112,3,0,0,0,0,0,193,101,0,37,0,42
+2020,District,Emery District,Green River High,87,0,0,0,0,0,0,0,11,17,11,13,20,15,46,41,0,2,1,48,1,0,35,59,20,20,10,0
+2020,District,Emery District,Huntington School,233,36,39,31,41,41,45,0,0,0,0,0,0,0,107,126,0,0,0,29,2,0,202,97,4,40,2,27
+2020,District,Emery District,San Rafael Middle School,254,0,0,0,0,0,0,82,100,72,0,0,0,0,103,151,3,0,0,9,0,0,242,118,1,53,5,0
+2020,District,Garfield District,Antimony School,8,1,1,0,2,1,2,1,0,0,0,0,0,0,3,5,0,0,0,0,0,0,8,7,0,0,0,0
+2020,District,Garfield District,Boulder School,12,5,2,0,2,1,2,0,0,0,0,0,0,0,8,4,0,0,1,2,2,0,7,7,1,1,0,5
+2020,District,Garfield District,Bryce Valley High,143,0,0,0,0,0,0,0,30,20,28,24,24,17,60,83,4,0,0,26,0,0,113,76,23,14,0,0
+2020,District,Garfield District,Bryce Valley School,137,19,15,23,23,14,26,17,0,0,0,0,0,0,63,74,10,0,0,23,0,1,103,89,26,20,3,26
+2020,District,Garfield District,Escalante High,67,0,0,0,0,0,0,0,19,10,9,13,12,4,39,28,0,0,2,2,0,0,63,33,1,9,0,0
+2020,District,Garfield District,Escalante School,79,12,14,9,10,15,9,10,0,0,0,0,0,0,36,43,0,0,0,4,0,0,75,52,2,14,0,22
+2020,District,Garfield District,Panguitch High,155,0,0,0,0,0,0,0,0,0,44,43,28,40,77,78,3,1,0,7,1,0,143,70,2,19,1,0
+2020,District,Garfield District,Panguitch Middle,85,0,0,0,0,0,0,0,40,45,0,0,0,0,36,49,1,1,0,4,0,1,78,37,0,9,1,0
+2020,District,Garfield District,Panguitch School,213,30,32,25,26,34,29,37,0,0,0,0,0,0,111,102,4,0,1,12,4,0,192,99,2,25,0,32
+2020,District,Grand District,C R Sundwall Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,65
+2020,District,Grand District,Grand County High,486,0,0,0,0,0,0,0,0,0,123,123,121,119,227,259,26,1,7,80,2,0,370,113,18,71,0,0
+2020,District,Grand District,Grand County Middle,239,0,0,0,0,0,0,0,127,112,0,0,0,0,127,112,13,1,0,45,5,1,174,80,24,33,0,0
+2020,District,Grand District,Helen M. Knight School,773,101,105,99,121,112,118,117,0,0,0,0,0,0,394,379,41,2,3,145,13,1,568,287,68,129,0,0
+2020,District,Granite District,Academy Park School,458,69,63,61,61,59,76,69,0,0,0,0,0,0,222,236,6,19,4,213,9,26,181,334,157,72,2,42
+2020,District,Granite District,Arcadia School,520,63,73,69,68,72,89,86,0,0,0,0,0,0,238,282,5,36,8,183,9,30,249,349,149,76,9,31
+2020,District,Granite District,Beehive School,574,77,90,71,70,102,59,105,0,0,0,0,0,0,271,303,8,24,10,267,8,51,206,374,240,56,4,43
+2020,District,Granite District,Bennion Jr High,1129,0,0,0,0,0,0,0,401,381,347,0,0,0,556,573,11,31,41,245,9,46,746,471,81,92,17,0
+2020,District,Granite District,Bennion School,541,74,69,73,89,77,74,85,0,0,0,0,0,0,280,261,6,16,17,106,13,27,356,236,93,82,4,0
+2020,District,Granite District,Bonneville Jr High,620,0,0,0,0,0,0,221,184,215,0,0,0,0,280,340,8,17,25,131,13,13,413,263,76,71,5,0
+2020,District,Granite District,Calvin S. Smith School,748,94,111,109,113,98,108,115,0,0,0,0,0,0,355,393,3,12,46,87,22,13,565,229,48,74,1,43
+2020,District,Granite District,Carl Sandburg School,255,44,31,35,38,30,40,37,0,0,0,0,0,0,120,135,2,13,14,85,10,16,115,184,74,31,6,22
+2020,District,Granite District,Churchill Jr High,603,0,0,0,0,0,0,201,199,203,0,0,0,0,318,285,3,9,18,29,8,6,530,63,4,26,0,0
+2020,District,Granite District,Copper Hills School,492,75,65,56,63,80,76,77,0,0,0,0,0,0,227,265,2,9,6,180,9,10,276,311,111,91,0,0
+2020,District,Granite District,Cottonwood High,1711,0,0,0,0,0,0,0,0,0,496,452,412,351,826,885,43,134,121,478,43,50,842,914,334,184,15,0
+2020,District,Granite District,Cottonwood School,512,67,80,77,69,74,64,81,0,0,0,0,0,0,253,259,0,10,8,14,5,0,475,55,16,20,0,0
+2020,District,Granite District,Crestview School,650,80,86,81,104,97,106,96,0,0,0,0,0,0,333,317,1,9,16,33,6,3,582,107,36,54,0,0
+2020,District,Granite District,Cyprus High,2581,0,0,0,0,0,0,0,0,0,687,685,635,574,1241,1340,33,62,53,1038,22,83,1290,1287,378,337,25,0
+2020,District,Granite District,David Gourley School,637,89,77,100,74,97,101,99,0,0,0,0,0,0,288,349,9,19,6,343,7,50,203,499,305,63,20,41
+2020,District,Granite District,Diamond Ridge School,743,96,105,110,118,105,114,95,0,0,0,0,0,0,381,362,7,21,11,158,19,33,494,250,126,67,1,0
+2020,District,Granite District,Douglas T. Orchard School,536,75,60,72,74,85,82,88,0,0,0,0,0,0,254,282,2,23,12,197,8,37,257,304,176,92,3,0
+2020,District,Granite District,Eastwood School,295,51,54,53,45,41,51,0,0,0,0,0,0,0,153,142,2,4,11,19,7,1,251,42,9,24,1,0
+2020,District,Granite District,Eisenhower Jr High,1218,0,0,0,0,0,0,0,415,412,391,0,0,0,573,645,18,65,50,525,18,45,497,761,251,175,12,0
+2020,District,Granite District,Elk Run Elementary,706,84,99,97,100,99,104,123,0,0,0,0,0,0,361,345,5,18,5,341,11,15,311,450,244,92,3,39
+2020,District,Granite District,Evergreen Jr High,726,0,0,0,0,0,0,0,241,247,238,0,0,0,378,348,6,23,27,131,7,10,522,256,74,57,2,0
+2020,District,Granite District,Fox Hills School,698,80,100,111,91,97,106,113,0,0,0,0,0,0,340,358,8,26,20,171,10,17,446,342,130,89,8,0
+2020,District,Granite District,Gearld Wright School,706,99,96,95,98,101,90,127,0,0,0,0,0,0,338,368,10,11,27,253,5,30,370,292,195,65,0,43
+2020,District,Granite District,Granger High,3170,0,0,0,0,0,0,0,0,0,887,811,804,668,1536,1634,62,136,143,1913,19,224,673,2115,820,398,47,0
+2020,District,Granite District,Granger School,840,113,126,116,108,115,139,123,0,0,0,0,0,0,400,440,5,56,46,504,15,59,155,689,496,76,9,90
+2020,District,Granite District,Granite Connection High,579,1,3,5,7,2,5,4,9,19,20,40,158,306,293,286,22,33,10,256,6,28,224,345,125,191,17,0
+2020,District,Granite District,Granite Park Jr High,589,0,0,0,0,0,0,0,310,279,0,0,0,0,298,291,13,70,54,290,28,28,106,539,238,72,23,0
+2020,District,Granite District,Granite Technical Institute,147,0,0,0,0,0,0,0,0,0,0,0,0,147,59,88,0,10,6,30,1,6,94,41,24,145,1,0
+2020,District,Granite District,Harry S. Truman School,369,57,43,52,52,48,63,54,0,0,0,0,0,0,171,198,6,23,16,135,2,30,157,202,111,75,2,77
+2020,District,Granite District,Hartvigsen School,75,0,7,12,8,9,11,7,10,11,0,0,0,0,29,46,0,1,1,28,0,7,38,52,32,69,1,0
+2020,District,Granite District,Headstart Preschool Special Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,7
+2020,District,Granite District,Hillsdale School,701,91,98,86,95,98,113,120,0,0,0,0,0,0,341,360,5,21,32,462,4,65,112,602,456,66,6,76
+2020,District,Granite District,Hillside School,590,67,74,96,78,81,89,105,0,0,0,0,0,0,280,310,5,17,49,169,6,30,314,352,203,48,0,22
+2020,District,Granite District,Howard R. Driggs School,587,83,91,84,72,73,98,86,0,0,0,0,0,0,294,293,0,5,13,11,4,3,551,62,19,39,0,31
+2020,District,Granite District,Hunter High,2559,0,0,0,0,0,0,0,0,0,659,683,619,598,1302,1257,24,67,139,1172,17,191,949,1308,400,289,26,0
+2020,District,Granite District,Hunter Jr High,816,0,0,0,0,0,0,0,415,401,0,0,0,0,391,425,14,16,28,369,10,37,342,485,190,111,3,0
+2020,District,Granite District,Hunter School,501,90,62,51,66,64,84,84,0,0,0,0,0,0,249,252,3,25,10,235,12,26,190,320,159,59,9,60
+2020,District,Granite District,Jackling School,350,48,54,42,53,47,57,49,0,0,0,0,0,0,182,168,2,19,10,183,1,20,115,263,136,35,1,0
+2020,District,Granite District,James E. Moss School,567,90,87,89,86,59,89,67,0,0,0,0,0,0,282,285,19,87,106,141,19,14,181,486,304,60,6,38
+2020,District,Granite District,Jim Bridger School,467,66,72,71,58,59,71,70,0,0,0,0,0,0,224,243,0,14,5,181,5,29,233,298,185,54,4,39
+2020,District,Granite District,John C. Fremont School,430,71,60,63,55,62,58,61,0,0,0,0,0,0,207,223,6,37,22,141,6,40,178,276,174,67,13,58
+2020,District,Granite District,John F. Kennedy Jr High,693,0,0,0,0,0,0,0,347,346,0,0,0,0,345,348,12,25,20,348,5,55,228,464,171,79,10,0
+2020,District,Granite District,Kearns High,2265,0,0,0,0,0,0,0,0,0,627,612,568,458,1093,1172,27,67,61,1005,13,117,975,1226,324,259,36,0
+2020,District,Granite District,Kearns Jr High,565,0,0,0,0,0,0,0,302,263,0,0,0,0,280,285,5,12,13,304,6,20,205,438,160,97,11,0
+2020,District,Granite District,Lake Ridge School,478,73,67,62,69,66,75,66,0,0,0,0,0,0,232,246,5,6,9,166,7,30,255,289,142,69,3,0
+2020,District,Granite District,Lincoln School,604,91,97,85,74,88,93,76,0,0,0,0,0,0,294,310,12,102,104,234,9,15,128,525,363,53,4,71
+2020,District,Granite District,Magna School,608,97,85,71,90,74,98,93,0,0,0,0,0,0,288,320,7,19,6,195,11,46,324,433,151,81,4,39
+2020,District,Granite District,Mill Creek School,398,48,56,69,56,55,62,52,0,0,0,0,0,0,210,188,6,21,17,159,8,9,178,276,149,42,1,71
+2020,District,Granite District,Monroe School,608,75,84,90,78,84,92,105,0,0,0,0,0,0,302,306,10,31,20,408,5,23,111,535,354,62,1,38
+2020,District,Granite District,Morningside School,563,49,100,94,106,111,103,0,0,0,0,0,0,0,268,295,7,16,45,14,20,4,457,72,31,37,2,0
+2020,District,Granite District,Neil Armstrong Academy,721,99,96,94,102,109,110,111,0,0,0,0,0,0,335,386,9,34,50,135,16,75,402,280,119,82,1,74
+2020,District,Granite District,Oakridge School,397,65,46,52,63,85,86,0,0,0,0,0,0,0,200,197,0,6,32,9,15,0,335,24,16,24,0,0
+2020,District,Granite District,Oakwood School,447,84,71,63,76,84,69,0,0,0,0,0,0,0,237,210,1,8,13,27,7,5,386,79,16,42,0,56
+2020,District,Granite District,Olympus High,1574,0,0,0,0,0,0,0,0,0,0,555,511,508,806,768,7,28,59,121,13,7,1339,297,75,91,5,0
+2020,District,Granite District,Olympus Jr High,895,0,0,0,0,0,0,0,295,297,303,0,0,0,425,470,4,22,17,36,8,8,800,113,17,47,0,0
+2020,District,Granite District,Philo T. Farnsworth School,550,77,83,76,76,74,92,72,0,0,0,0,0,0,249,301,9,29,25,204,12,54,217,399,199,109,2,44
+2020,District,Granite District,Pioneer School,555,69,85,73,79,82,69,98,0,0,0,0,0,0,270,285,9,32,25,283,9,64,133,428,232,51,7,38
+2020,District,Granite District,Pleasant Green School,448,48,50,64,67,67,76,76,0,0,0,0,0,0,202,246,9,8,5,155,3,24,244,268,108,85,0,42
+2020,District,Granite District,Plymouth School,697,100,97,91,87,99,112,111,0,0,0,0,0,0,361,336,5,40,6,371,7,31,237,507,327,65,9,39
+2020,District,Granite District,Redwood School,569,83,77,83,84,75,81,86,0,0,0,0,0,0,264,305,19,59,17,330,7,50,87,481,343,74,20,52
+2020,District,Granite District,Robert Frost School,378,48,47,47,50,56,55,75,0,0,0,0,0,0,169,209,9,3,29,142,7,22,166,246,118,54,5,35
+2020,District,Granite District,Rolling Meadows School,571,77,78,91,87,74,87,77,0,0,0,0,0,0,285,286,8,15,31,265,9,34,209,439,239,50,2,74
+2020,District,Granite District,Roosevelt School,324,46,44,35,43,47,59,50,0,0,0,0,0,0,160,164,9,62,19,136,9,18,71,261,171,41,9,34
+2020,District,Granite District,Rosecrest School,406,46,55,56,50,61,71,67,0,0,0,0,0,0,200,206,3,12,11,33,6,8,333,88,17,42,7,37
+2020,District,Granite District,Scott M Matheson Jr High,1202,0,0,0,0,0,0,0,616,586,0,0,0,0,567,635,11,36,20,469,6,41,619,665,218,187,7,0
+2020,District,Granite District,Silver Hills School,414,46,70,53,52,57,66,70,0,0,0,0,0,0,186,228,7,14,23,221,3,22,124,281,206,67,0,102
+2020,District,Granite District,Skyline High,2138,0,0,0,0,0,0,0,0,0,582,568,522,466,1091,1046,7,19,157,114,39,10,1792,203,34,84,1,0
+2020,District,Granite District,South Kearns School,346,41,45,48,57,49,52,54,0,0,0,0,0,0,164,182,6,2,2,193,1,20,122,293,147,81,2,67
+2020,District,Granite District,Spring Lane School,380,50,70,55,63,66,76,0,0,0,0,0,0,0,196,184,7,13,33,40,17,9,261,125,56,27,2,21
+2020,District,Granite District,Stansbury School,848,107,127,112,125,131,124,122,0,0,0,0,0,0,408,440,12,32,6,536,15,60,187,710,472,80,11,69
+2020,District,Granite District,Taylorsville High,1876,0,0,0,0,0,0,0,0,0,0,669,667,540,888,988,26,69,94,658,12,67,950,808,229,167,21,0
+2020,District,Granite District,Taylorsville School,447,73,73,47,67,56,57,74,0,0,0,0,0,0,234,213,7,21,37,179,10,16,177,334,141,59,1,38
+2020,District,Granite District,Thomas Jefferson Jr High,710,0,0,0,0,0,0,0,369,341,0,0,0,0,348,362,11,14,25,277,16,38,329,382,140,86,3,0
+2020,District,Granite District,Thomas W. Bacchus School,428,64,63,51,56,60,67,67,0,0,0,0,0,0,207,221,11,7,6,206,3,18,177,219,153,34,5,0
+2020,District,Granite District,Twin Peaks School,329,47,53,51,48,66,64,0,0,0,0,0,0,0,167,162,5,13,29,95,3,24,160,197,111,47,2,37
+2020,District,Granite District,Upland Terrace School,470,84,86,65,70,88,77,0,0,0,0,0,0,0,231,239,1,7,19,22,3,2,416,80,25,74,0,37
+2020,District,Granite District,Valley Crest School,570,63,96,65,90,79,80,97,0,0,0,0,0,0,287,283,2,23,40,247,6,41,211,301,235,38,8,40
+2020,District,Granite District,Valley Jr High,720,0,0,0,0,0,0,0,382,338,0,0,0,0,340,380,12,28,34,362,8,46,230,511,187,99,6,0
+2020,District,Granite District,Vista School,606,72,85,78,115,80,91,85,0,0,0,0,0,0,306,300,6,16,24,239,11,29,281,322,163,54,0,42
+2020,District,Granite District,Wasatch Jr High,840,0,0,0,0,0,0,220,321,299,0,0,0,0,433,407,3,13,98,46,13,10,657,129,25,63,0,0
+2020,District,Granite District,West Kearns School,724,81,99,104,117,111,102,110,0,0,0,0,0,0,347,377,9,15,13,384,4,29,270,570,347,111,15,66
+2020,District,Granite District,West Lake Jr High,918,0,0,0,0,0,0,0,494,424,0,0,0,0,431,487,14,30,36,525,7,66,240,688,287,150,9,0
+2020,District,Granite District,West Valley School,685,85,119,99,103,96,85,98,0,0,0,0,0,0,303,382,8,12,38,266,18,37,306,377,215,91,2,41
+2020,District,Granite District,Westbrook School,483,75,59,59,70,64,66,90,0,0,0,0,0,0,228,255,9,10,16,163,10,20,255,238,133,57,5,35
+2020,District,Granite District,Western Hills School,342,46,42,49,48,52,55,50,0,0,0,0,0,0,170,172,7,5,5,163,2,33,127,281,141,41,8,36
+2020,District,Granite District,Whittier School,495,93,71,56,76,58,74,67,0,0,0,0,0,0,256,239,7,11,11,186,5,27,248,309,156,113,10,59
+2020,District,Granite District,William Penn School,654,90,95,92,90,96,92,99,0,0,0,0,0,0,320,334,7,19,23,68,16,5,516,169,59,48,0,0
+2020,District,Granite District,Woodrow Wilson School,510,76,73,70,70,71,77,73,0,0,0,0,0,0,250,260,12,56,80,201,20,8,133,446,277,65,15,206
+2020,District,Granite District,Woodstock School,496,72,93,90,93,83,65,0,0,0,0,0,0,0,236,260,2,13,36,57,10,8,370,131,48,51,3,52
+2020,District,Granite District,Youth Educational Support School,48,0,0,0,0,0,0,0,2,6,8,10,12,10,11,37,1,3,1,23,1,1,18,27,5,15,0,0
+2020,District,Iron District,Canyon View High,1192,0,0,0,0,0,0,0,0,0,315,321,290,266,589,603,35,5,2,116,12,2,1020,417,21,136,23,0
+2020,District,Iron District,Canyon View Middle,975,0,0,0,0,0,0,317,344,314,0,0,0,0,467,508,25,2,4,80,26,7,831,434,22,110,14,0
+2020,District,Iron District,Cedar City High,1303,0,0,0,0,0,0,0,0,0,370,316,313,304,655,648,26,12,11,116,37,12,1089,377,33,167,23,0
+2020,District,Iron District,Cedar East School,528,83,100,95,78,95,77,0,0,0,0,0,0,0,256,272,11,1,5,119,21,5,366,283,48,61,19,0
+2020,District,Iron District,Cedar Middle,1135,0,0,0,0,0,0,385,371,379,0,0,0,0,542,593,30,7,12,111,17,6,952,415,38,103,34,0
+2020,District,Iron District,Cedar North School,532,97,89,85,76,108,77,0,0,0,0,0,0,0,262,270,9,6,4,63,25,5,420,250,32,65,17,0
+2020,District,Iron District,Cedar South School,460,73,79,72,71,73,92,0,0,0,0,0,0,0,233,227,15,5,7,24,6,3,400,127,20,28,2,0
+2020,District,Iron District,Enoch School,551,78,98,87,96,99,93,0,0,0,0,0,0,0,253,298,9,3,0,44,24,1,470,273,12,66,14,0
+2020,District,Iron District,Escalante Valley School,119,15,14,15,16,20,19,20,0,0,0,0,0,0,63,56,2,0,0,55,1,0,61,87,41,22,9,16
+2020,District,Iron District,Fiddlers Canyon School,540,105,81,94,106,89,65,0,0,0,0,0,0,0,258,282,23,1,2,67,22,4,421,262,20,48,13,0
+2020,District,Iron District,Iron County Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,230
+2020,District,Iron District,Iron Springs School,660,110,112,102,119,103,114,0,0,0,0,0,0,0,303,357,17,1,3,50,11,2,576,246,7,61,19,0
+2020,District,Iron District,Parowan High,379,0,0,0,0,0,0,0,64,63,71,74,57,50,187,192,3,0,0,18,8,1,349,135,2,37,6,0
+2020,District,Iron District,Parowan School,406,72,54,49,55,63,61,52,0,0,0,0,0,0,189,217,1,1,3,18,12,1,370,218,5,55,8,0
+2020,District,Iron District,Southwest Educational Academy,107,0,0,0,0,0,0,0,0,2,4,13,35,53,39,68,9,1,0,14,2,1,80,54,3,29,2,0
+2020,District,Iron District,Three Peaks Pre School,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,153
+2020,District,Iron District,Three Peaks School,657,107,114,95,117,111,113,0,0,0,0,0,0,0,326,331,10,1,2,73,23,5,543,324,30,72,32,0
+2020,District,Jordan District,Bastian School,923,141,132,148,128,135,124,115,0,0,0,0,0,0,461,462,6,12,11,139,46,16,693,208,50,110,10,0
+2020,District,Jordan District,Bingham High,2477,0,0,0,0,0,0,0,0,0,0,832,854,791,1267,1210,2,18,77,246,115,63,1956,296,44,144,35,0
+2020,District,Jordan District,Blackridge School,1039,136,149,142,147,133,160,172,0,0,0,0,0,0,514,525,0,9,9,73,39,10,899,84,24,96,1,0
+2020,District,Jordan District,Bluffdale School,796,95,118,119,101,125,112,126,0,0,0,0,0,0,387,409,3,8,2,66,27,3,687,123,19,85,13,0
+2020,District,Jordan District,Butterfield Canyon School,918,114,141,125,134,137,144,123,0,0,0,0,0,0,461,457,2,2,7,64,36,5,802,90,14,104,6,0
+2020,District,Jordan District,Columbia School,649,94,73,100,91,95,94,102,0,0,0,0,0,0,320,329,11,5,14,322,36,15,246,421,198,96,75,0
+2020,District,Jordan District,Copper Canyon School,676,84,80,86,92,116,98,120,0,0,0,0,0,0,313,363,6,6,6,125,35,24,474,254,51,106,19,0
+2020,District,Jordan District,Copper Hills High,2749,0,0,0,0,0,0,0,0,0,0,964,939,846,1432,1317,6,33,53,609,134,51,1863,651,152,273,67,0
+2020,District,Jordan District,Copper Mountain Middle,1029,0,0,0,0,0,0,0,344,331,354,0,0,0,525,504,4,9,23,165,47,23,758,246,62,73,19,0
+2020,District,Jordan District,Daybreak School,848,101,139,114,113,135,120,126,0,0,0,0,0,0,383,465,0,10,15,80,47,20,676,171,36,117,9,0
+2020,District,Jordan District,Eastlake School,957,102,134,144,147,151,131,148,0,0,0,0,0,0,442,515,2,21,18,90,52,5,769,117,14,84,3,0
+2020,District,Jordan District,Elk Meadows School,777,119,105,84,116,108,125,120,0,0,0,0,0,0,375,402,1,10,13,72,22,7,652,116,22,114,13,0
+2020,District,Jordan District,Elk Ridge Middle,1160,0,0,0,0,0,0,0,352,415,393,0,0,0,564,596,0,13,28,137,52,25,905,204,22,108,16,0
+2020,District,Jordan District,Falcon Ridge School,723,96,104,88,107,101,126,101,0,0,0,0,0,0,334,389,1,14,14,212,30,18,434,240,126,85,18,0
+2020,District,Jordan District,Foothills School,1025,134,154,123,164,146,164,140,0,0,0,0,0,0,472,553,3,4,10,99,46,11,852,152,25,91,2,0
+2020,District,Jordan District,Fort Herriman Middle,1519,0,0,0,0,0,0,0,530,484,505,0,0,0,759,760,2,9,13,117,53,12,1313,149,22,111,14,0
+2020,District,Jordan District,Fox Hollow School,1150,150,164,147,171,163,175,180,0,0,0,0,0,0,585,565,5,22,16,207,54,20,826,198,87,91,25,0
+2020,District,Jordan District,Golden Fields School,866,128,134,122,105,134,124,119,0,0,0,0,0,0,435,431,4,10,16,84,47,4,701,67,18,96,5,0
+2020,District,Jordan District,Hayden Peak School,781,101,91,97,107,110,129,146,0,0,0,0,0,0,373,408,2,3,12,151,42,19,552,204,74,110,17,0
+2020,District,Jordan District,Heartland School,515,63,66,81,65,85,76,79,0,0,0,0,0,0,223,292,3,14,17,173,31,21,256,333,147,111,50,0
+2020,District,Jordan District,Herriman High,2194,0,0,0,0,0,0,0,0,0,0,637,685,872,1064,1130,4,25,28,250,91,34,1762,319,73,142,39,0
+2020,District,Jordan District,Herriman School,933,113,142,146,127,141,134,130,0,0,0,0,0,0,459,474,0,1,7,103,26,9,787,135,16,129,1,0
+2020,District,Jordan District,Joel P. Jensen Middle,896,0,0,0,0,0,0,0,295,308,293,0,0,0,441,455,7,8,13,365,46,22,435,503,136,127,75,0
+2020,District,Jordan District,Jordan Hills School,565,66,75,64,89,99,84,88,0,0,0,0,0,0,289,276,3,0,9,89,16,14,434,145,41,65,18,0
+2020,District,Jordan District,Jordan Ridge School,806,81,118,107,137,123,113,127,0,0,0,0,0,0,359,447,2,2,30,66,38,10,658,105,15,92,5,0
+2020,District,Jordan District,Kauri Sue Hamilton,221,17,14,11,15,9,9,11,20,13,19,12,19,52,71,150,0,8,10,30,14,2,157,93,10,217,5,0
+2020,District,Jordan District,Majestic School,246,38,37,33,34,26,37,41,0,0,0,0,0,0,115,131,1,7,2,144,7,10,75,202,102,34,52,0
+2020,District,Jordan District,Midas Creek School,912,134,103,126,133,132,145,139,0,0,0,0,0,0,427,485,1,8,11,61,39,8,784,99,12,142,4,0
+2020,District,Jordan District,Monte Vista School,900,84,132,112,125,136,136,175,0,0,0,0,0,0,451,449,0,5,25,70,47,9,744,79,16,84,15,0
+2020,District,Jordan District,Mountain Creek Middle School,1034,0,0,0,0,0,0,0,398,339,297,0,0,0,482,552,1,20,14,102,47,7,843,138,14,70,9,0
+2020,District,Jordan District,Mountain Point Elementary,348,60,54,57,43,46,41,47,0,0,0,0,0,0,183,165,1,3,2,47,15,3,277,84,19,36,5,0
+2020,District,Jordan District,Mountain Ridge High,1499,0,0,0,0,0,0,0,0,0,0,679,584,236,755,744,4,18,15,121,39,17,1285,163,14,119,23,0
+2020,District,Jordan District,Mountain Shadows School,666,78,92,93,105,83,104,111,0,0,0,0,0,0,312,354,2,11,17,184,32,14,406,281,106,99,37,0
+2020,District,Jordan District,Oakcrest School,954,106,141,122,134,141,157,153,0,0,0,0,0,0,452,502,5,2,13,162,34,17,721,163,59,114,6,0
+2020,District,Jordan District,Oquirrh Hills Middle,1304,0,0,0,0,0,0,0,432,417,455,0,0,0,606,698,1,7,29,103,55,12,1097,214,24,145,54,0
+2020,District,Jordan District,Oquirrh School,616,92,74,86,90,93,90,91,0,0,0,0,0,0,294,322,4,10,19,240,27,29,287,337,156,82,36,0
+2020,District,Jordan District,Preschool (Sp Ed),0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,1498
+2020,District,Jordan District,Ridge View Elementary,600,98,86,85,87,97,80,67,0,0,0,0,0,0,310,290,1,15,2,106,45,13,418,114,22,56,6,0
+2020,District,Jordan District,Rivers Edge School,9,0,0,0,0,2,1,3,0,3,0,0,0,0,3,6,0,1,0,1,0,0,7,5,0,9,1,0
+2020,District,Jordan District,Riverside School,719,82,94,109,91,125,99,119,0,0,0,0,0,0,355,364,6,12,6,252,30,9,404,322,125,122,50,0
+2020,District,Jordan District,Riverton High,2230,0,0,0,0,0,0,0,0,0,0,777,708,745,1105,1125,7,16,22,161,76,12,1936,295,29,193,60,0
+2020,District,Jordan District,Riverton School,658,70,80,92,104,92,114,106,0,0,0,0,0,0,328,330,3,2,12,56,32,2,551,139,11,109,17,0
+2020,District,Jordan District,Rosamond School,641,89,89,92,91,99,92,89,0,0,0,0,0,0,313,328,1,7,4,60,24,7,538,109,17,76,17,0
+2020,District,Jordan District,Rose Creek School,859,108,118,108,132,142,118,133,0,0,0,0,0,0,396,463,1,4,5,71,32,15,731,145,21,99,10,0
+2020,District,Jordan District,Silver Crest School,1008,147,144,146,131,151,142,147,0,0,0,0,0,0,517,491,6,12,12,144,44,15,775,221,64,99,10,0
+2020,District,Jordan District,South Hills Middle,1341,0,0,0,0,0,0,0,500,455,386,0,0,0,663,678,4,5,13,110,52,14,1143,235,33,148,35,0
+2020,District,Jordan District,South Jordan Middle,1348,0,0,0,0,0,0,0,460,453,435,0,0,0,696,652,3,7,33,114,36,17,1138,162,23,116,16,0
+2020,District,Jordan District,South Jordan School,1045,151,156,154,136,137,146,165,0,0,0,0,0,0,477,568,9,12,21,92,55,15,841,125,33,149,16,0
+2020,District,Jordan District,South Valley School,163,0,0,0,0,0,0,0,0,0,0,0,0,163,68,95,2,3,2,23,7,2,124,70,8,160,11,0
+2020,District,Jordan District,Southland School,802,80,122,100,126,114,121,139,0,0,0,0,0,0,392,410,3,2,5,47,43,10,692,96,9,75,5,0
+2020,District,Jordan District,Sunset Ridge Middle,1433,0,0,0,0,0,0,0,512,467,454,0,0,0,727,706,7,13,24,321,69,32,967,333,85,128,22,0
+2020,District,Jordan District,Terra Linda School,558,74,81,79,78,78,86,82,0,0,0,0,0,0,267,291,2,21,10,141,17,16,351,231,79,97,39,0
+2020,District,Jordan District,Valley High School,518,0,0,0,0,0,0,0,0,0,0,1,160,357,236,282,1,11,2,121,22,6,355,169,41,59,45,0
+2020,District,Jordan District,Welby School,859,103,113,104,134,123,145,137,0,0,0,0,0,0,436,423,0,5,18,99,34,20,683,175,27,97,9,0
+2020,District,Jordan District,West Hills Middle,1361,0,0,0,0,0,0,0,414,490,457,0,0,0,663,698,7,14,23,341,52,31,893,431,93,140,46,0
+2020,District,Jordan District,West Jordan High,1795,0,0,0,0,0,0,0,0,0,0,663,615,517,905,890,11,25,28,536,61,52,1082,760,199,241,92,0
+2020,District,Jordan District,West Jordan Middle,1094,0,0,0,0,0,0,0,381,370,343,0,0,0,514,580,4,18,18,375,51,22,606,551,150,153,103,0
+2020,District,Jordan District,West Jordan School,494,68,71,78,62,68,65,82,0,0,0,0,0,0,236,258,1,16,3,112,21,9,332,266,64,114,84,0
+2020,District,Jordan District,Westland School,560,79,84,82,81,79,74,81,0,0,0,0,0,0,276,284,1,4,14,91,27,9,414,168,48,53,17,0
+2020,District,Jordan District,Westvale School,573,102,86,70,86,77,69,83,0,0,0,0,0,0,286,287,4,9,14,149,24,19,354,301,100,100,67,0
+2020,District,Juab District,Juab High,804,0,0,0,0,0,0,0,0,0,225,200,206,173,355,449,4,3,1,25,11,2,758,234,0,102,7,0
+2020,District,Juab District,Juab Jr High,671,0,0,0,0,0,0,229,216,226,0,0,0,0,300,371,0,2,2,30,14,2,621,236,0,95,1,0
+2020,District,Juab District,Mona School,323,57,50,55,54,56,51,0,0,0,0,0,0,0,154,169,0,0,0,1,5,3,314,119,0,47,0,0
+2020,District,Juab District,Nebo View School,319,54,47,58,50,49,61,0,0,0,0,0,0,0,148,171,4,6,5,13,8,1,282,142,0,47,0,0
+2020,District,Juab District,Red Cliff School,538,94,76,94,91,82,101,0,0,0,0,0,0,0,249,289,1,1,2,31,6,0,497,233,0,84,0,29
+2020,District,Kane District,Big Water High,36,0,0,0,0,0,0,0,10,5,11,4,5,1,19,17,4,0,0,1,0,0,31,18,0,2,0,0
+2020,District,Kane District,Big Water School,39,9,6,7,5,4,3,5,0,0,0,0,0,0,21,18,3,1,0,8,0,0,27,21,1,5,0,0
+2020,District,Kane District,Kanab High,270,0,0,0,0,0,0,0,0,0,76,64,75,55,122,148,3,2,4,15,0,1,245,75,2,20,0,0
+2020,District,Kane District,Kanab Middle,152,0,0,0,0,0,0,0,71,81,0,0,0,0,72,80,0,0,0,10,5,0,137,37,1,14,0,0
+2020,District,Kane District,Kanab School,457,67,52,72,58,70,72,66,0,0,0,0,0,0,222,235,3,0,2,32,9,0,411,162,6,64,2,0
+2020,District,Kane District,Kane Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,84
+2020,District,Kane District,Lake Powell High School,7,0,0,0,0,0,0,0,1,1,3,0,1,1,2,5,2,0,0,3,0,0,2,6,0,0,0,0
+2020,District,Kane District,Lake Powell School,7,0,3,1,1,1,0,1,0,0,0,0,0,0,3,4,3,0,0,2,0,0,2,6,2,3,0,0
+2020,District,Kane District,Valley High,142,0,0,0,0,0,0,0,22,23,24,27,20,26,73,69,0,0,0,2,3,0,137,60,0,16,0,0
+2020,District,Kane District,Valley School,165,26,25,17,24,23,25,25,0,0,0,0,0,0,90,75,0,0,0,6,4,0,155,71,0,26,0,0
+2020,District,Logan City District,Adams School,307,52,54,46,47,54,54,0,0,0,0,0,0,0,138,169,8,4,6,85,6,7,191,209,55,61,10,36
+2020,District,Logan City District,Bridger School,515,84,102,89,92,69,79,0,0,0,0,0,0,0,267,248,13,17,18,195,9,12,251,400,123,61,9,35
+2020,District,Logan City District,Ellis School,305,49,62,46,52,48,48,0,0,0,0,0,0,0,145,160,10,18,5,102,7,1,162,234,88,52,1,34
+2020,District,Logan City District,Hillcrest School,425,77,77,70,67,74,60,0,0,0,0,0,0,0,204,221,2,4,14,100,7,1,297,182,58,39,4,0
+2020,District,Logan City District,Logan Early Childhood Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,98
+2020,District,Logan City District,Logan High,1485,0,0,0,0,0,0,0,0,0,375,394,371,345,748,737,24,29,55,452,19,17,889,715,132,171,20,0
+2020,District,Logan City District,Mount Logan Middle,1265,0,0,0,0,0,0,406,420,439,0,0,0,0,588,677,15,36,41,416,30,19,708,792,205,160,16,0
+2020,District,Logan City District,Riverside Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,81
+2020,District,Logan City District,Wilson School,473,73,89,80,74,71,86,0,0,0,0,0,0,0,233,240,2,4,16,91,15,14,331,236,66,66,3,0
+2020,District,Logan City District,Woodruff School,645,122,111,107,74,127,104,0,0,0,0,0,0,0,320,325,1,15,14,238,27,2,348,439,139,107,10,35
+2020,District,Millard District,Delta High,516,0,0,0,0,0,0,0,0,0,135,134,128,119,277,239,2,0,2,95,9,1,407,219,18,56,16,0
+2020,District,Millard District,Delta Middle,419,0,0,0,0,0,0,161,126,132,0,0,0,0,209,210,1,0,1,78,6,0,333,214,34,57,8,0
+2020,District,Millard District,Delta North School,443,0,0,0,146,150,147,0,0,0,0,0,0,0,216,227,2,0,1,59,4,0,377,207,37,71,10,0
+2020,District,Millard District,Delta South School,424,143,153,128,0,0,0,0,0,0,0,0,0,0,204,220,1,1,2,51,4,0,365,194,23,76,10,78
+2020,District,Millard District,Eskdale High,9,0,0,0,0,0,0,0,2,1,1,4,1,0,5,4,0,0,0,3,0,0,6,2,2,2,0,0
+2020,District,Millard District,Fillmore Middle,379,0,0,0,0,0,98,84,88,109,0,0,0,0,180,199,6,0,4,52,12,0,305,203,24,56,10,0
+2020,District,Millard District,Fillmore School,389,84,75,81,68,81,0,0,0,0,0,0,0,0,183,206,7,0,9,45,13,1,314,219,37,67,11,59
+2020,District,Millard District,Garrison School,17,3,2,3,3,3,3,0,0,0,0,0,0,0,8,9,0,0,0,11,0,0,6,6,2,2,0,0
+2020,District,Millard District,Millard High,377,0,0,0,0,0,0,0,0,0,107,95,82,93,192,185,6,0,8,66,12,1,284,169,20,49,15,0
+2020,District,Morgan District,Morgan High,994,0,0,0,0,0,0,0,0,0,273,249,232,240,463,531,5,5,4,32,17,5,926,144,0,74,0,0
+2020,District,Morgan District,Morgan Middle,560,0,0,0,0,0,136,132,158,134,0,0,0,0,251,309,2,2,1,14,9,0,532,137,1,56,0,0
+2020,District,Morgan District,Morgan Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,34
+2020,District,Morgan District,Morgan School,593,101,124,100,136,132,0,0,0,0,0,0,0,0,295,298,0,4,1,13,4,3,568,136,1,86,0,0
+2020,District,Morgan District,Mountain Green Middle,508,0,0,0,0,0,136,127,128,117,0,0,0,0,235,273,0,0,1,18,6,0,483,39,0,67,0,0
+2020,District,Morgan District,Mountain Green School,539,92,106,127,104,110,0,0,0,0,0,0,0,0,245,294,1,2,0,8,9,0,519,54,0,76,0,0
+2020,District,Murray District,Early Childhood Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,144
+2020,District,Murray District,Grant School,361,46,55,41,68,52,47,52,0,0,0,0,0,0,186,175,0,10,5,48,17,2,279,103,17,45,0,0
+2020,District,Murray District,Hillcrest Jr High,899,0,0,0,0,0,0,0,315,295,289,0,0,0,442,457,13,53,16,206,44,9,558,434,81,134,16,0
+2020,District,Murray District,Horizon School,714,97,113,110,92,94,112,96,0,0,0,0,0,0,362,352,10,34,23,177,39,8,423,290,75,90,0,0
+2020,District,Murray District,Liberty School,367,63,47,58,42,59,54,44,0,0,0,0,0,0,180,187,1,9,4,79,18,0,256,168,22,66,1,0
+2020,District,Murray District,Longview School,437,69,56,58,58,73,57,66,0,0,0,0,0,0,210,227,1,4,13,71,25,2,321,128,35,54,0,0
+2020,District,Murray District,Mcmillan School,527,76,77,75,66,79,80,74,0,0,0,0,0,0,250,277,7,7,15,80,27,2,389,133,26,55,2,0
+2020,District,Murray District,Murray High,1464,0,0,0,0,0,0,0,0,0,0,524,477,463,752,712,12,61,34,307,64,15,971,494,98,169,16,0
+2020,District,Murray District,Parkside School,493,78,67,63,65,73,76,71,0,0,0,0,0,0,213,280,12,51,15,181,30,9,195,329,113,94,3,0
+2020,District,Murray District,Riverview Jr High,681,0,0,0,0,0,0,0,230,235,216,0,0,0,353,328,2,20,13,99,29,3,515,186,29,96,6,0
+2020,District,Murray District,Viewmont School,482,72,67,66,62,77,58,80,0,0,0,0,0,0,233,249,2,4,2,56,26,1,391,91,18,68,0,0
+2020,District,Nebo District,Apple Valley School,661,91,100,94,106,83,102,85,0,0,0,0,0,0,319,342,1,1,0,89,7,0,563,264,40,109,23,44
+2020,District,Nebo District,Art City School,489,83,66,56,75,55,79,75,0,0,0,0,0,0,249,240,6,4,1,56,9,8,405,152,16,80,22,36
+2020,District,Nebo District,Barnett School,454,93,54,49,62,56,69,71,0,0,0,0,0,0,205,249,4,1,0,94,15,3,337,234,39,135,47,3
+2020,District,Nebo District,Bridges Nebo Transition Center,86,0,0,0,0,0,1,1,3,2,1,4,3,71,33,53,0,1,0,12,1,1,71,71,1,86,61,60
+2020,District,Nebo District,Brockbank School,619,117,70,101,94,72,78,87,0,0,0,0,0,0,278,341,2,3,1,73,12,3,525,170,21,108,22,1
+2020,District,Nebo District,Brookside School,481,75,74,58,66,66,69,73,0,0,0,0,0,0,232,249,1,1,4,49,12,9,405,156,22,62,2,0
+2020,District,Nebo District,Canyon School,543,70,69,67,81,75,85,96,0,0,0,0,0,0,270,273,0,2,4,32,11,14,480,108,2,74,15,43
+2020,District,Nebo District,Cherry Creek School,511,69,80,80,75,68,70,69,0,0,0,0,0,0,250,261,1,6,0,106,8,11,379,234,59,78,8,76
+2020,District,Nebo District,Diamond Fork Junior High,1212,0,0,0,0,0,0,0,423,402,387,0,0,0,588,624,2,7,8,182,37,11,965,359,42,148,35,0
+2020,District,Nebo District,East Meadows School,740,95,104,90,105,108,116,122,0,0,0,0,0,0,349,391,2,6,1,87,33,7,604,157,17,111,37,29
+2020,District,Nebo District,Foothills School,731,83,93,105,106,111,113,120,0,0,0,0,0,0,369,362,2,5,1,28,19,1,675,103,3,91,9,27
+2020,District,Nebo District,Goshen School,318,37,50,34,50,54,46,47,0,0,0,0,0,0,157,161,0,0,0,56,18,2,242,138,37,47,14,0
+2020,District,Nebo District,Hobble Creek School,571,72,67,68,91,85,85,103,0,0,0,0,0,0,281,290,3,1,2,19,23,4,519,70,3,75,3,45
+2020,District,Nebo District,Landmark High,272,0,0,0,0,0,0,0,1,0,6,14,95,156,118,154,2,6,0,70,10,1,183,159,11,77,47,0
+2020,District,Nebo District,Larsen School,425,46,65,58,66,70,65,55,0,0,0,0,0,0,213,212,2,6,0,51,10,9,347,187,25,94,32,23
+2020,District,Nebo District,Maple Mountain High,1602,0,0,0,0,0,0,0,0,0,0,527,561,514,759,843,3,13,5,129,28,6,1418,213,17,112,17,0
+2020,District,Nebo District,Maple Ridge School,780,114,95,119,119,94,116,123,0,0,0,0,0,0,380,400,2,1,3,49,26,8,691,83,7,82,1,30
+2020,District,Nebo District,Mapleton Junior High,1275,0,0,0,0,0,0,0,398,425,452,0,0,0,655,620,4,6,8,116,35,27,1079,210,29,98,9,0
+2020,District,Nebo District,Mapleton School,676,81,69,92,93,128,107,106,0,0,0,0,0,0,307,369,3,2,1,35,16,7,612,72,6,109,4,1
+2020,District,Nebo District,Meadow Brook School,692,108,92,108,102,102,101,79,0,0,0,0,0,0,335,357,2,0,3,160,27,10,490,242,53,88,4,39
+2020,District,Nebo District,Mt. Loafer School,761,87,106,121,107,108,113,119,0,0,0,0,0,0,371,390,3,3,4,34,10,1,706,115,3,93,4,6
+2020,District,Nebo District,Mt. Nebo Junior High,713,0,0,0,0,0,0,0,237,229,247,0,0,0,335,378,2,0,2,176,5,3,525,349,52,107,45,0
+2020,District,Nebo District,Nebo Advanced Learning Center,10,0,0,0,0,0,0,0,0,0,2,1,3,4,6,4,0,1,0,0,0,0,9,0,0,0,0,0
+2020,District,Nebo District,Orchard Hills School,516,55,82,72,67,78,76,86,0,0,0,0,0,0,248,268,3,3,0,37,3,1,469,142,13,66,11,35
+2020,District,Nebo District,Park School,412,64,54,54,64,60,55,61,0,0,0,0,0,0,205,207,2,6,0,83,3,0,318,216,37,76,19,33
+2020,District,Nebo District,Park View School,447,55,71,68,64,51,70,68,0,0,0,0,0,0,217,230,0,1,1,64,10,4,367,149,27,75,3,36
+2020,District,Nebo District,Payson High,1459,0,0,0,0,0,0,0,0,0,0,536,482,441,718,741,1,13,3,226,26,3,1187,388,44,189,53,0
+2020,District,Nebo District,Payson Jr High,1224,0,0,0,0,0,0,0,435,398,391,0,0,0,571,653,2,7,2,143,24,3,1043,399,55,151,51,0
+2020,District,Nebo District,Rees School,667,110,98,94,81,98,93,93,0,0,0,0,0,0,360,307,4,2,1,133,21,3,503,273,61,95,77,45
+2020,District,Nebo District,Riverview School,852,120,119,107,127,121,138,120,0,0,0,0,0,0,377,475,4,11,0,94,15,8,720,184,45,128,6,37
+2020,District,Nebo District,Sage Creek School,676,74,88,101,85,115,94,119,0,0,0,0,0,0,350,326,4,3,8,104,19,7,531,201,28,57,23,0
+2020,District,Nebo District,Salem Hills High,1374,0,0,0,0,0,0,0,0,0,0,455,471,448,651,723,4,7,8,91,37,8,1219,236,19,128,13,0
+2020,District,Nebo District,Salem Junior High,1194,0,0,0,0,0,0,0,409,399,386,0,0,0,575,619,4,7,5,57,28,3,1090,208,9,127,8,0
+2020,District,Nebo District,Salem School,528,72,78,75,73,68,87,75,0,0,0,0,0,0,277,251,0,2,1,24,9,1,491,123,2,99,7,1
+2020,District,Nebo District,Santaquin School,512,78,69,80,68,81,62,74,0,0,0,0,0,0,264,248,0,1,0,62,16,6,427,163,33,66,2,5
+2020,District,Nebo District,Sierra Bonita Elementary,833,92,118,111,132,136,114,130,0,0,0,0,0,0,414,419,1,4,2,55,19,4,748,116,20,95,15,4
+2020,District,Nebo District,Spanish Fork High,1442,0,0,0,0,0,0,0,0,0,0,496,506,440,738,704,3,15,3,182,26,23,1190,282,31,155,27,0
+2020,District,Nebo District,Spanish Fork Jr High,1255,0,0,0,0,0,0,0,432,422,401,0,0,0,618,637,4,4,4,110,30,5,1098,227,19,148,34,0
+2020,District,Nebo District,Spanish Oaks School,432,47,45,49,66,67,71,87,0,0,0,0,0,0,196,236,2,1,3,35,13,2,376,118,9,88,10,5
+2020,District,Nebo District,Spring Lake School,631,67,94,89,91,113,83,94,0,0,0,0,0,0,347,284,2,10,0,94,8,2,515,201,35,102,7,65
+2020,District,Nebo District,Springville High,1504,0,0,0,0,0,0,0,0,2,1,516,502,483,720,784,7,8,12,245,35,21,1176,345,23,150,13,0
+2020,District,Nebo District,Springville Jr High,1225,0,0,0,0,0,0,0,417,405,403,0,0,0,593,631,5,5,8,220,30,20,937,419,49,151,21,0
+2020,District,Nebo District,Taylor School,470,59,63,67,71,65,69,76,0,0,0,0,0,0,227,243,0,1,1,92,10,1,365,240,47,108,40,62
+2020,District,Nebo District,Westside School,696,85,101,100,107,83,112,108,0,0,0,0,0,0,311,385,2,4,2,200,26,15,447,279,111,88,28,2
+2020,District,Nebo District,Wilson School,408,61,50,54,59,54,61,69,0,0,0,0,0,0,189,219,1,0,1,121,5,0,280,229,74,65,28,0
+2020,District,North Sanpete District,Fairview School,265,39,30,30,42,35,53,36,0,0,0,0,0,0,128,137,2,1,0,13,6,0,243,146,5,38,7,0
+2020,District,North Sanpete District,Fountain Green School,147,20,17,23,23,20,21,23,0,0,0,0,0,0,76,71,1,0,0,6,5,1,134,80,1,20,0,16
+2020,District,North Sanpete District,Moroni School,319,48,49,54,37,46,47,38,0,0,0,0,0,0,147,172,1,0,0,138,2,2,176,213,72,33,5,28
+2020,District,North Sanpete District,Mt. Pleasant School,451,55,60,64,60,66,69,77,0,0,0,0,0,0,201,250,6,0,2,48,13,7,375,266,21,55,9,76
+2020,District,North Sanpete District,North Sanpete High,725,0,0,0,0,0,0,0,0,0,212,184,175,154,346,379,8,5,1,90,16,9,596,368,21,81,8,0
+2020,District,North Sanpete District,North Sanpete Middle,408,0,0,0,0,0,0,0,196,212,0,0,0,0,208,200,5,0,1,67,8,3,324,250,27,45,5,0
+2020,District,North Sanpete District,Pleasant Creek High School,35,0,0,0,0,0,0,0,0,0,2,4,13,16,12,23,0,2,0,6,1,0,26,35,3,11,1,0
+2020,District,North Sanpete District,Spring City School,157,10,21,19,19,30,23,35,0,0,0,0,0,0,81,76,1,0,0,14,2,0,140,108,4,22,1,0
+2020,District,North Summit District,North Summit High,324,0,0,0,0,0,0,0,0,0,75,80,92,77,144,180,4,0,1,36,2,1,280,94,8,27,0,0
+2020,District,North Summit District,North Summit Middle,329,0,0,0,0,0,88,74,85,82,0,0,0,0,163,166,1,0,1,49,5,0,273,107,15,42,0,0
+2020,District,North Summit District,North Summit Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,28
+2020,District,North Summit District,North Summit School,361,63,77,64,80,77,0,0,0,0,0,0,0,0,171,190,0,2,0,61,2,0,296,125,41,50,0,0
+2020,District,Ogden City District,Ben Lomond High,1223,0,0,0,0,0,0,0,0,0,0,409,422,392,579,644,11,27,10,738,30,4,403,740,155,142,20,0
+2020,District,Ogden City District,Bonneville School,462,59,63,72,64,69,62,73,0,0,0,0,0,0,216,246,2,6,2,254,12,2,184,462,104,48,66,0
+2020,District,Ogden City District,George Washington High,251,0,0,0,0,0,0,0,0,0,0,36,81,134,117,134,0,7,2,132,4,0,106,240,43,89,25,0
+2020,District,Ogden City District,Heritage School,693,101,114,95,92,90,105,96,0,0,0,0,0,0,312,381,7,17,2,418,26,2,221,693,208,103,6,0
+2020,District,Ogden City District,Highland Junior High,839,0,0,0,0,0,0,0,291,301,247,0,0,0,412,427,7,16,6,501,20,2,287,837,131,108,11,0
+2020,District,Ogden City District,Hillcrest School,376,49,55,44,52,48,57,71,0,0,0,0,0,0,164,212,0,7,3,183,11,0,172,376,70,52,1,0
+2020,District,Ogden City District,Horace Mann School,435,69,57,70,70,43,58,68,0,0,0,0,0,0,212,223,1,3,2,134,17,3,275,435,30,56,4,0
+2020,District,Ogden City District,James Madison School,426,62,65,56,51,67,57,68,0,0,0,0,0,0,198,228,10,12,11,283,7,4,99,424,172,64,19,3
+2020,District,Ogden City District,Lincoln School,548,78,72,72,72,74,89,91,0,0,0,0,0,0,264,284,3,5,1,354,14,3,168,548,147,58,1,35
+2020,District,Ogden City District,Malan's Peak Secondary,13,0,0,0,0,0,0,0,0,0,0,2,5,6,2,11,0,2,0,3,1,0,7,4,0,9,0,0
+2020,District,Ogden City District,Mound Fort Junior High,716,0,0,0,0,0,0,0,235,230,251,0,0,0,319,397,8,7,6,380,21,4,290,715,134,117,10,0
+2020,District,Ogden City District,Mount Ogden Junior High,871,0,0,0,0,0,0,0,312,268,291,0,0,0,420,451,3,15,4,369,31,2,447,435,107,96,1,0
+2020,District,Ogden City District,New Bridge School,707,101,121,92,94,99,93,107,0,0,0,0,0,0,331,376,10,13,4,339,24,5,312,704,172,101,8,0
+2020,District,Ogden City District,Odyssey School,551,89,74,73,80,74,87,74,0,0,0,0,0,0,263,288,3,20,2,415,16,6,89,550,191,65,41,0
+2020,District,Ogden City District,Ogden High,1205,0,0,0,0,0,0,0,0,0,0,428,388,389,597,608,11,26,15,608,31,2,512,641,169,114,8,0
+2020,District,Ogden City District,Ogden Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,123
+2020,District,Ogden City District,Polk School,666,98,91,100,93,93,90,101,0,0,0,0,0,0,321,345,7,11,5,170,29,2,442,240,64,52,1,0
+2020,District,Ogden City District,Shadow Valley School,630,85,87,81,110,70,93,104,0,0,0,0,0,0,316,314,1,9,10,104,19,3,484,165,42,61,8,0
+2020,District,Ogden City District,Taylor Canyon School,354,46,45,49,51,50,50,63,0,0,0,0,0,0,166,188,2,4,1,96,17,1,233,154,23,34,0,0
+2020,District,Ogden City District,Thomas O. Smith School,494,64,74,78,70,70,78,60,0,0,0,0,0,0,221,273,4,5,0,335,10,5,135,494,197,69,7,15
+2020,District,Park City District,Ecker Hill Middle,773,0,0,0,0,0,0,354,419,0,0,0,0,0,365,408,0,4,13,156,21,0,579,149,78,50,0,0
+2020,District,Park City District,Jeremy Ranch Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,57
+2020,District,Park City District,Jeremy Ranch School,555,69,77,93,87,109,120,0,0,0,0,0,0,0,279,276,2,5,5,88,16,0,439,85,78,39,0,0
+2020,District,Park City District,Mcpolin School,388,64,68,59,68,57,72,0,0,0,0,0,0,0,205,183,0,3,5,177,13,0,190,159,142,22,0,0
+2020,District,Park City District,MPES Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,48
+2020,District,Park City District,Park City High,1287,0,0,0,0,0,0,0,0,0,0,425,412,450,629,658,1,8,42,250,22,2,962,209,63,109,0,0
+2020,District,Park City District,Parley's Park Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,37
+2020,District,Park City District,Parleys Park School,546,76,78,89,89,110,104,0,0,0,0,0,0,0,267,279,0,4,12,113,11,0,406,105,106,44,1,0
+2020,District,Park City District,Trailside Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,19
+2020,District,Park City District,Trailside School,424,55,59,58,81,71,100,0,0,0,0,0,0,0,212,212,0,5,3,76,12,1,327,79,54,27,0,0
+2020,District,Park City District,Treasure Mtn. Junior High School,784,0,0,0,0,0,0,0,0,377,407,0,0,0,354,430,0,5,14,148,12,2,603,149,40,52,0,0
+2020,District,Piute District,Circleville Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,24
+2020,District,Piute District,Circleville School,90,17,8,13,14,9,8,21,0,0,0,0,0,0,44,46,0,1,0,20,1,0,68,64,10,19,0,0
+2020,District,Piute District,Oscarson Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,6
+2020,District,Piute District,Oscarson School,30,2,5,2,4,8,4,5,0,0,0,0,0,0,18,12,0,0,0,0,0,0,30,20,0,5,2,0
+2020,District,Piute District,Piute High,159,0,0,0,0,0,0,0,27,26,27,26,25,28,76,83,1,2,0,22,0,0,134,85,6,21,2,0
+2020,District,Provo District,Amelia Earhart School,485,61,66,70,77,64,71,76,0,0,0,0,0,0,256,229,4,4,2,162,21,14,278,289,121,74,24,0
+2020,District,Provo District,Canyon Crest School,476,69,69,69,71,67,61,70,0,0,0,0,0,0,232,244,5,2,5,48,18,3,395,88,36,30,1,3
+2020,District,Provo District,Centennial Middle,1238,0,0,0,0,0,0,0,655,583,0,0,0,0,577,661,8,15,26,278,55,36,820,417,138,124,13,0
+2020,District,Provo District,Dixon Middle,988,0,0,0,0,0,0,0,512,476,0,0,0,0,471,517,12,10,12,346,30,33,545,476,156,135,23,0
+2020,District,Provo District,Edgemont School,631,89,104,84,97,82,94,81,0,0,0,0,0,0,307,324,2,16,16,65,35,11,486,143,74,69,4,1
+2020,District,Provo District,Franklin School,349,62,40,58,56,37,48,48,0,0,0,0,0,0,174,175,9,4,2,185,12,20,117,270,167,57,12,35
+2020,District,Provo District,Independence High,190,0,0,0,0,0,0,0,0,0,15,29,44,102,91,99,3,4,2,77,2,6,96,95,23,87,3,0
+2020,District,Provo District,Lakeview School,791,97,104,128,100,125,111,126,0,0,0,0,0,0,367,424,1,5,5,199,25,32,524,251,141,81,8,3
+2020,District,Provo District,Oak Springs School,48,0,2,0,1,4,3,5,5,5,3,8,5,7,20,28,2,4,0,5,0,2,35,0,0,35,1,0
+2020,District,Provo District,Provo eSchool,2586,126,219,288,384,349,355,320,288,255,0,0,0,2,1295,1291,7,8,8,112,59,7,2385,5,4,88,0,0
+2020,District,Provo District,Provo High,1915,0,0,0,0,0,0,0,0,0,455,504,494,462,909,1006,22,26,25,691,56,63,1032,747,209,174,14,0
+2020,District,Provo District,Provo Peaks School,496,80,61,54,55,82,83,81,0,0,0,0,0,0,229,267,10,10,12,196,16,14,238,306,143,120,12,33
+2020,District,Provo District,Provost School,464,71,60,64,68,65,66,70,0,0,0,0,0,0,241,223,2,3,3,147,16,15,278,265,105,50,5,0
+2020,District,Provo District,Rock Canyon School,589,91,78,74,95,76,90,85,0,0,0,0,0,0,276,313,1,8,13,59,28,13,467,160,53,43,1,7
+2020,District,Provo District,Slate Canyon,13,0,0,0,0,0,0,0,0,0,0,2,5,6,0,13,0,3,0,6,0,0,4,0,0,5,0,0
+2020,District,Provo District,Spring Creek School,401,55,57,56,53,56,65,59,0,0,0,0,0,0,192,209,4,7,2,207,20,31,130,326,169,66,11,36
+2020,District,Provo District,Sunrise Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,239
+2020,District,Provo District,Sunset View School,583,78,71,67,76,99,92,100,0,0,0,0,0,0,284,299,9,5,5,228,28,32,276,327,163,86,16,35
+2020,District,Provo District,Timpanogos School,629,85,110,87,81,93,99,74,0,0,0,0,0,0,295,334,9,7,6,328,18,9,252,436,299,83,13,0
+2020,District,Provo District,Timpview High,2270,0,0,0,0,0,0,0,0,0,620,562,597,491,1104,1166,17,17,67,465,75,97,1532,637,168,180,17,0
+2020,District,Provo District,Wasatch School,744,74,116,101,116,110,106,121,0,0,0,0,0,0,371,373,1,5,41,75,46,16,560,165,72,57,4,5
+2020,District,Provo District,Westridge School,718,122,96,78,111,89,111,111,0,0,0,0,0,0,356,362,7,5,13,123,36,27,507,272,83,69,14,5
+2020,District,Rich District,North Rich School,117,22,17,19,20,21,18,0,0,0,0,0,0,0,64,53,0,0,0,11,4,0,102,47,3,17,0,0
+2020,District,Rich District,Rich High,139,0,0,0,0,0,0,0,0,0,30,44,43,22,72,67,0,0,0,5,6,0,128,45,2,19,0,0
+2020,District,Rich District,Rich Middle School,122,0,0,0,0,0,0,39,40,43,0,0,0,0,57,65,0,0,0,6,2,0,114,53,1,16,0,0
+2020,District,Rich District,Rich Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,10
+2020,District,Rich District,South Rich School,120,23,17,27,16,16,21,0,0,0,0,0,0,0,53,67,0,0,0,1,2,0,117,64,0,16,0,0
+2020,District,Salt Lake District,Backman School,452,54,64,54,73,67,65,75,0,0,0,0,0,0,211,241,5,45,14,274,12,33,69,413,227,91,20,15
+2020,District,Salt Lake District,Beacon Heights School,477,65,68,67,83,57,72,65,0,0,0,0,0,0,238,239,4,6,68,29,28,2,340,89,56,44,4,14
+2020,District,Salt Lake District,Bonneville School,485,63,68,74,65,72,70,73,0,0,0,0,0,0,233,252,1,2,27,25,18,5,407,37,16,30,2,0
+2020,District,Salt Lake District,Bryant Middle,426,0,0,0,0,0,0,0,223,203,0,0,0,0,215,211,6,35,11,218,16,14,126,310,91,70,27,0
+2020,District,Salt Lake District,Children Behavior Therapy Unit,24,0,2,2,5,7,3,5,0,0,0,0,0,0,2,22,0,3,0,10,3,0,8,21,4,22,0,0
+2020,District,Salt Lake District,Clayton Middle,755,0,0,0,0,0,0,0,371,384,0,0,0,0,378,377,8,20,26,119,33,22,527,226,40,61,14,0
+2020,District,Salt Lake District,Dilworth School,556,87,75,63,86,80,89,76,0,0,0,0,0,0,270,286,7,7,16,31,23,9,463,96,17,67,4,57
+2020,District,Salt Lake District,East High,1956,0,0,0,0,0,0,0,0,0,481,543,491,441,981,975,24,82,81,794,65,150,760,1161,307,209,85,0
+2020,District,Salt Lake District,Edison School,408,66,70,64,66,77,65,0,0,0,0,0,0,0,213,195,5,10,29,278,5,34,47,408,235,38,12,36
+2020,District,Salt Lake District,Emerson School,596,87,81,97,99,74,79,79,0,0,0,0,0,0,257,339,10,11,15,111,47,4,398,160,38,113,12,0
+2020,District,Salt Lake District,Ensign School,349,66,54,54,48,53,35,39,0,0,0,0,0,0,185,164,5,0,6,24,26,12,276,53,9,29,5,0
+2020,District,Salt Lake District,Escalante School,404,50,54,50,55,68,55,72,0,0,0,0,0,0,205,199,7,21,12,261,13,32,58,349,190,57,16,21
+2020,District,Salt Lake District,Franklin School,394,56,49,50,55,54,62,68,0,0,0,0,0,0,189,205,3,19,16,248,6,28,74,366,184,103,20,14
+2020,District,Salt Lake District,Glendale Middle,820,0,0,0,0,0,0,283,269,268,0,0,0,0,409,411,7,60,46,530,11,100,66,752,285,138,51,0
+2020,District,Salt Lake District,Hawthorne School,413,46,63,58,68,61,57,60,0,0,0,0,0,0,200,213,3,10,37,39,31,8,285,93,21,37,9,0
+2020,District,Salt Lake District,Highland High,1832,0,0,0,0,0,0,0,0,0,522,461,437,412,874,958,21,77,53,384,88,66,1143,727,168,200,57,0
+2020,District,Salt Lake District,Highland Park School,628,96,92,88,83,92,92,85,0,0,0,0,0,0,310,318,0,9,8,41,33,5,532,117,14,91,9,0
+2020,District,Salt Lake District,Hillside Middle,591,0,0,0,0,0,0,0,306,285,0,0,0,0,273,318,12,17,13,97,28,15,409,214,39,80,9,0
+2020,District,Salt Lake District,Horizonte Instruction & Training Center,258,0,0,0,0,0,0,0,0,0,1,6,113,138,121,137,3,11,3,166,6,14,55,236,56,64,32,0
+2020,District,Salt Lake District,Indian Hills School,418,60,73,53,63,62,54,53,0,0,0,0,0,0,205,213,0,0,30,26,24,2,336,67,12,37,7,0
+2020,District,Salt Lake District,Innovations High School,318,0,0,0,0,0,0,0,0,0,48,82,104,84,155,163,2,8,4,150,8,1,145,164,32,20,7,0
+2020,District,Salt Lake District,Liberty School,404,64,61,53,59,56,53,58,0,0,0,0,0,0,195,209,14,40,54,142,18,17,119,404,202,50,21,79
+2020,District,Salt Lake District,M. Lynn Bennion School,188,33,26,27,29,23,24,26,0,0,0,0,0,0,97,91,12,23,6,71,6,5,65,188,53,18,47,17
+2020,District,Salt Lake District,Mary W. Jackson School,434,66,59,61,62,57,58,71,0,0,0,0,0,0,212,222,10,16,5,277,19,19,88,382,171,56,43,18
+2020,District,Salt Lake District,Meadowlark School,410,56,54,59,46,65,66,64,0,0,0,0,0,0,217,193,8,51,30,174,5,26,116,410,253,71,20,16
+2020,District,Salt Lake District,Mountain View School,570,103,87,91,99,92,98,0,0,0,0,0,0,0,298,272,4,50,44,303,14,101,54,489,307,60,44,47
+2020,District,Salt Lake District,Newman School,337,39,55,57,49,36,54,47,0,0,0,0,0,0,162,175,2,4,4,151,17,16,143,238,79,35,16,29
+2020,District,Salt Lake District,Nibley Park School,428,50,48,48,51,56,54,54,33,34,0,0,0,0,198,230,5,15,7,144,28,1,228,256,77,78,13,0
+2020,District,Salt Lake District,North Star School,487,60,75,55,77,69,75,76,0,0,0,0,0,0,229,258,3,42,7,304,9,59,63,407,210,50,28,14
+2020,District,Salt Lake District,Northwest Middle,723,0,0,0,0,0,0,0,356,367,0,0,0,0,349,374,12,50,28,476,12,44,101,658,217,136,28,0
+2020,District,Salt Lake District,Parkview School,284,37,43,49,48,47,60,0,0,0,0,0,0,0,149,135,2,11,13,195,4,18,41,260,148,59,19,51
+2020,District,Salt Lake District,Riley School,279,45,43,43,45,43,60,0,0,0,0,0,0,0,138,141,5,31,12,152,7,29,43,279,148,37,25,14
+2020,District,Salt Lake District,Rose Park School,326,42,47,48,49,43,52,45,0,0,0,0,0,0,172,154,12,16,13,172,2,17,94,292,154,43,27,21
+2020,District,Salt Lake District,Salt Lake Head Start,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,58
+2020,District,Salt Lake District,Uintah School,470,57,64,69,71,78,67,64,0,0,0,0,0,0,238,232,1,6,16,33,34,4,376,55,19,26,5,0
+2020,District,Salt Lake District,Wasatch School,444,60,68,66,71,64,56,59,0,0,0,0,0,0,212,232,3,9,20,41,47,5,319,117,35,41,13,0
+2020,District,Salt Lake District,Washington School,262,29,51,34,33,40,34,41,0,0,0,0,0,0,127,135,8,15,9,94,16,16,104,167,41,45,17,68
+2020,District,Salt Lake District,West High,2851,0,0,0,0,0,0,0,104,101,743,660,679,564,1375,1476,27,136,237,1166,125,170,990,1617,394,299,80,0
+2020,District,Salt Lake District,Whittier School,560,88,90,72,70,78,96,66,0,0,0,0,0,0,276,284,7,51,25,136,41,12,288,329,105,57,21,22
+2020,District,San Juan District,Albert R. Lyman Middle,329,0,0,0,0,0,0,100,127,102,0,0,0,0,149,180,143,1,0,22,8,1,154,329,96,45,12,0
+2020,District,San Juan District,Blanding School,533,78,95,97,87,86,90,0,0,0,0,0,0,0,254,279,198,3,0,29,31,0,272,533,111,72,22,51
+2020,District,San Juan District,Bluff School,70,13,13,10,11,9,14,0,0,0,0,0,0,0,50,20,64,0,1,1,1,0,3,70,50,9,10,11
+2020,District,San Juan District,La Sal School,9,3,2,4,0,0,0,0,0,0,0,0,0,0,3,6,2,0,0,0,0,0,7,9,0,1,2,0
+2020,District,San Juan District,Montezuma Creek School,243,33,27,34,42,40,30,37,0,0,0,0,0,0,106,137,239,0,0,1,0,0,3,243,141,33,39,37
+2020,District,San Juan District,Monticello High,263,0,0,0,0,0,0,0,31,47,43,43,49,50,129,133,13,3,1,23,2,0,221,263,9,39,7,0
+2020,District,San Juan District,Monticello School,282,39,39,45,32,39,42,46,0,0,0,0,0,0,133,149,12,0,2,49,7,0,212,282,26,32,9,13
+2020,District,San Juan District,Monument Valley High,222,0,0,0,0,0,0,0,36,31,43,28,51,33,124,98,211,0,0,3,0,0,8,222,157,37,14,0
+2020,District,San Juan District,Navajo Mountain High,24,0,0,0,0,0,0,0,0,0,4,11,4,5,10,14,24,0,0,0,0,0,0,24,14,4,6,0
+2020,District,San Juan District,San Juan High,420,0,0,0,0,0,0,0,0,0,112,97,105,106,212,208,162,0,2,22,12,1,221,420,54,47,19,0
+2020,District,San Juan District,Tse'Bii'Nidzisgai School,248,36,35,32,43,33,41,28,0,0,0,0,0,0,126,122,240,0,1,5,0,0,2,248,173,39,11,42
+2020,District,San Juan District,Whitehorse High,248,0,0,0,0,0,0,0,42,44,43,41,41,37,115,133,241,0,0,5,1,0,1,248,126,46,25,0
+2020,District,Sevier District,Ashman School,475,155,172,148,0,0,0,0,0,0,0,0,0,0,210,265,20,5,1,29,0,3,417,242,5,60,9,0
+2020,District,Sevier District,Cedar Ridge High,41,0,0,0,0,0,0,0,0,0,0,0,15,26,15,26,1,0,0,4,0,0,36,26,2,7,1,0
+2020,District,Sevier District,Koosharem School,41,3,8,3,8,9,7,3,0,0,0,0,0,0,20,21,0,0,0,0,0,2,39,22,0,5,0,0
+2020,District,Sevier District,Monroe School,572,91,102,82,93,79,125,0,0,0,0,0,0,0,298,274,9,3,2,24,0,2,532,271,7,81,2,0
+2020,District,Sevier District,North Sevier High,281,0,0,0,0,0,0,0,0,0,83,71,61,66,141,140,1,4,0,14,0,0,262,107,1,15,0,0
+2020,District,Sevier District,North Sevier Middle,232,0,0,0,0,0,0,76,82,74,0,0,0,0,115,117,0,3,1,10,0,2,216,113,3,24,2,0
+2020,District,Sevier District,Pahvant School,537,0,0,0,178,193,166,0,0,0,0,0,0,0,264,273,9,4,1,25,0,5,493,273,4,69,12,0
+2020,District,Sevier District,Red Hills Middle,563,0,0,0,0,0,0,189,199,175,0,0,0,0,277,286,14,3,0,28,0,8,510,289,6,72,9,0
+2020,District,Sevier District,Richfield High,680,0,0,0,0,0,0,0,0,0,177,187,168,148,314,366,24,4,1,25,0,6,620,271,6,86,5,0
+2020,District,Sevier District,Richfield Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,191
+2020,District,Sevier District,Salina School,422,66,71,68,71,67,79,0,0,0,0,0,0,0,214,208,1,1,2,30,0,0,388,215,11,74,2,0
+2020,District,Sevier District,South Sevier High,398,0,0,0,0,0,0,0,0,0,96,104,101,97,196,202,6,2,2,17,0,1,370,155,6,45,0,0
+2020,District,Sevier District,South Sevier Middle,306,0,0,0,0,0,0,86,115,105,0,0,0,0,146,160,3,2,0,15,0,3,283,133,6,32,1,0
+2020,District,South Sanpete District,Ephraim Middle,510,0,0,0,0,0,0,160,179,171,0,0,0,0,241,269,4,3,2,47,8,4,442,256,30,58,1,0
+2020,District,South Sanpete District,Ephraim School,525,94,77,97,85,82,90,0,0,0,0,0,0,0,263,262,3,0,0,73,13,5,431,300,71,96,6,50
+2020,District,South Sanpete District,Gunnison Valley High,322,0,0,0,0,0,0,0,0,0,90,87,72,73,144,178,5,4,0,33,8,2,270,148,17,49,7,0
+2020,District,South Sanpete District,Gunnison Valley Middle,277,0,0,0,0,0,0,82,103,92,0,0,0,0,125,152,6,2,0,36,5,0,228,146,16,38,1,0
+2020,District,South Sanpete District,Gunnison Valley School,506,87,88,74,97,79,81,0,0,0,0,0,0,0,251,255,6,3,0,78,14,0,405,258,54,88,0,53
+2020,District,South Sanpete District,Manti High,690,0,0,0,0,0,0,0,0,0,192,167,172,159,368,322,3,12,2,57,6,6,604,307,24,60,1,0
+2020,District,South Sanpete District,Manti School,386,61,52,59,76,68,70,0,0,0,0,0,0,0,176,210,4,1,1,15,8,4,353,231,7,65,0,87
+2020,District,South Sanpete District,South Sanpete Education Support Center,14,0,0,0,0,0,0,0,2,2,1,4,4,1,10,4,1,0,0,2,2,0,9,7,0,7,0,0
+2020,District,South Summit District,Out of State School,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2020,District,South Summit District,Silver Summit Academy,101,0,0,0,0,0,0,13,17,20,21,13,9,8,44,57,0,0,0,2,1,1,97,1,0,5,0,0
+2020,District,South Summit District,Silver Summit School,67,6,12,10,13,13,13,0,0,0,0,0,0,0,31,36,0,0,0,1,3,0,63,8,0,2,0,0
+2020,District,South Summit District,South Summit High,466,0,0,0,0,0,0,0,0,0,114,124,125,103,224,242,3,1,0,54,4,1,403,109,11,38,0,0
+2020,District,South Summit District,South Summit Middle,506,0,0,0,0,0,129,125,126,126,0,0,0,0,230,276,0,0,1,69,3,0,433,139,22,46,0,0
+2020,District,South Summit District,South Summit School,560,97,112,111,132,108,0,0,0,0,0,0,0,0,253,307,3,1,0,55,5,0,496,154,52,50,0,22
+2020,District,Tintic District,Eureka School,87,9,14,9,8,15,17,15,0,0,0,0,0,0,38,49,0,1,0,4,5,0,77,39,0,13,0,8
+2020,District,Tintic District,Tintic High,107,0,0,0,0,0,0,0,21,17,17,17,14,21,52,55,0,0,1,8,1,0,97,42,0,11,0,0
+2020,District,Tintic District,West Desert High School,9,0,0,0,0,0,0,0,0,2,2,1,4,0,5,4,0,0,0,0,0,0,9,7,0,1,0,0
+2020,District,Tintic District,West Desert School,11,4,1,1,2,0,2,1,0,0,0,0,0,0,6,5,0,0,0,2,0,0,9,4,0,4,0,0
+2020,District,Tooele District,Anna Smith School,201,26,31,16,29,31,33,35,0,0,0,0,0,0,97,104,1,0,0,176,0,0,24,69,126,13,17,24
+2020,District,Tooele District,Blue Peak High,3432,420,354,318,236,242,199,225,186,178,313,282,240,239,1622,1809,17,25,18,179,95,16,3082,436,7,122,31,0
+2020,District,Tooele District,Clarke N. Johnsen Jr High,901,0,0,0,0,0,0,0,446,455,0,0,0,0,441,460,6,13,5,113,13,17,734,211,32,106,27,0
+2020,District,Tooele District,Copper Canyon School,397,49,58,51,59,62,54,64,0,0,0,0,0,0,190,207,5,2,5,74,13,3,295,225,29,62,24,0
+2020,District,Tooele District,Dugway,111,10,6,7,11,6,4,7,14,9,10,14,6,7,46,65,8,2,3,14,4,0,80,36,6,21,8,0
+2020,District,Tooele District,Early Learning Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,127
+2020,District,Tooele District,Grantsville High,962,0,0,0,0,0,0,0,0,0,272,237,235,218,470,492,5,4,3,80,13,7,850,180,6,142,45,0
+2020,District,Tooele District,Grantsville Jr High,464,0,0,0,0,0,0,0,235,229,0,0,0,0,238,226,0,2,2,39,3,2,416,112,10,60,30,0
+2020,District,Tooele District,Grantsville School,804,94,104,129,119,108,123,127,0,0,0,0,0,0,388,416,5,2,2,60,16,3,716,269,9,84,45,68
+2020,District,Tooele District,Ibapah School,34,5,3,5,5,7,3,6,0,0,0,0,0,0,23,11,21,0,0,0,0,0,13,31,0,4,4,0
+2020,District,Tooele District,Middle Canyon School,646,77,86,88,90,102,108,95,0,0,0,0,0,0,305,341,2,5,3,106,14,17,499,201,60,66,17,0
+2020,District,Tooele District,Northlake School,609,83,92,88,89,75,93,89,0,0,0,0,0,0,285,324,6,6,3,117,22,6,449,275,55,79,58,0
+2020,District,Tooele District,Old Mill School,592,98,90,80,80,93,79,72,0,0,0,0,0,0,300,292,4,3,1,63,15,11,495,125,15,56,15,50
+2020,District,Tooele District,Overlake School,535,68,81,76,74,65,83,88,0,0,0,0,0,0,268,267,1,9,5,80,13,5,422,120,20,83,22,0
+2020,District,Tooele District,Rose Springs School,441,47,65,63,71,51,70,74,0,0,0,0,0,0,202,239,1,1,2,40,4,2,391,75,12,53,7,0
+2020,District,Tooele District,Settlement Canyon School,546,73,67,62,92,72,85,95,0,0,0,0,0,0,266,280,5,1,2,91,11,6,430,177,22,90,25,0
+2020,District,Tooele District,Stansbury High,1901,0,0,0,0,0,0,0,0,0,505,529,455,412,908,990,9,21,18,241,20,26,1566,359,35,175,63,0
+2020,District,Tooele District,Stansbury Park School,511,72,75,71,65,79,81,68,0,0,0,0,0,0,259,252,1,2,7,51,13,18,419,100,8,69,18,0
+2020,District,Tooele District,Sterling School,724,114,84,101,102,109,100,114,0,0,0,0,0,0,369,355,4,6,4,124,24,6,556,327,34,141,68,60
+2020,District,Tooele District,Tooele High,1750,0,0,0,0,0,0,0,0,0,459,467,435,389,846,904,13,27,7,271,21,31,1380,522,52,264,146,0
+2020,District,Tooele District,Tooele Jr High,777,0,0,0,0,0,0,0,374,403,0,0,0,0,357,420,3,10,3,150,14,10,587,287,36,137,71,0
+2020,District,Tooele District,Vernon School,27,6,2,4,6,2,2,5,0,0,0,0,0,0,8,19,0,0,0,4,0,0,23,18,0,4,0,0
+2020,District,Tooele District,Wendover High,198,0,0,0,0,0,0,0,32,39,37,34,31,25,102,96,8,0,1,165,0,2,22,33,65,24,28,0
+2020,District,Tooele District,West School,318,38,40,47,40,40,51,62,0,0,0,0,0,0,162,156,1,2,1,47,4,2,261,110,14,49,15,70
+2020,District,Tooele District,Willow School,727,108,89,95,98,102,118,117,0,0,0,0,0,0,349,378,0,5,1,61,8,0,652,141,21,72,17,0
+2020,District,Uintah District,Ashley School,589,89,102,88,95,94,121,0,0,0,0,0,0,0,282,307,26,1,2,81,22,5,452,320,46,92,0,0
+2020,District,Uintah District,Ashley Valley Educ. Ctr.,131,0,0,0,0,0,0,0,0,0,10,25,49,47,74,57,2,1,0,9,2,0,117,41,2,3,0,0
+2020,District,Uintah District,Davis School,495,83,82,70,91,78,91,0,0,0,0,0,0,0,243,252,14,0,0,32,8,1,440,173,12,82,0,0
+2020,District,Uintah District,Discovery School,734,128,135,110,117,128,116,0,0,0,0,0,0,0,347,387,6,8,4,82,16,3,615,240,39,76,0,0
+2020,District,Uintah District,Eagle View School,355,46,42,33,46,50,35,49,31,23,0,0,0,0,188,167,233,1,1,37,19,1,63,264,21,81,0,0
+2020,District,Uintah District,Lapoint School,194,40,28,24,28,37,37,0,0,0,0,0,0,0,90,104,65,0,0,13,4,0,112,115,0,33,0,0
+2020,District,Uintah District,Maeser School,542,94,89,91,75,87,106,0,0,0,0,0,0,0,252,290,2,4,0,33,3,1,499,157,11,94,0,0
+2020,District,Uintah District,Naples School,528,94,90,86,84,91,83,0,0,0,0,0,0,0,268,260,31,1,3,72,16,8,397,305,37,87,0,0
+2020,District,Uintah District,Uintah High,1750,0,0,0,0,0,0,0,0,0,483,477,443,347,864,886,83,4,15,161,29,6,1452,607,24,180,0,0
+2020,District,Uintah District,Uintah Middle School,750,0,0,0,0,0,0,235,230,285,0,0,0,0,359,391,59,3,2,62,12,4,608,326,22,81,0,0
+2020,District,Uintah District,Uintah Online School,21,2,0,1,0,2,0,6,3,7,0,0,0,0,7,14,3,0,0,0,0,0,18,12,0,4,0,0
+2020,District,Uintah District,Uintah Specialized Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,177
+2020,District,Uintah District,Vernal Middle,900,0,0,0,0,0,0,303,299,298,0,0,0,0,446,454,22,1,0,94,17,4,762,380,26,99,1,0
+2020,District,Wasatch District,Daniels Canyon School,544,81,89,97,89,99,89,0,0,0,0,0,0,0,252,292,0,0,2,148,5,2,387,223,110,52,9,63
+2020,District,Wasatch District,Heber Valley School,530,93,86,95,87,85,84,0,0,0,0,0,0,0,265,265,0,4,2,187,7,0,330,290,145,43,21,70
+2020,District,Wasatch District,J.R. Smith School,586,85,100,98,109,99,95,0,0,0,0,0,0,0,290,296,0,4,0,183,11,0,388,305,151,56,18,68
+2020,District,Wasatch District,Midway School,606,86,102,100,108,98,112,0,0,0,0,0,0,0,303,303,2,1,5,57,10,1,530,149,36,41,30,60
+2020,District,Wasatch District,Old Mill School,799,118,124,124,147,138,148,0,0,0,0,0,0,0,394,405,0,9,3,69,21,0,697,176,40,58,8,59
+2020,District,Wasatch District,Rocky Mountain Middle,770,0,0,0,0,0,0,244,278,248,0,0,0,0,376,394,0,4,4,176,13,1,572,283,89,62,12,0
+2020,District,Wasatch District,Timpanogos Middle School,976,0,0,0,0,0,0,323,352,301,0,0,0,0,477,499,0,1,2,177,21,0,775,315,90,96,15,0
+2020,District,Wasatch District,Wasatch High,2335,0,0,0,0,0,0,0,0,0,617,622,548,548,1091,1244,6,14,12,440,43,5,1815,663,141,189,31,0
+2020,District,Washington District,Arrowhead School,629,101,94,100,117,96,121,0,0,0,0,0,0,0,310,319,10,7,7,49,16,8,532,182,27,89,14,32
+2020,District,Washington District,Bloomington Hills School,550,90,95,74,111,76,104,0,0,0,0,0,0,0,267,283,10,7,6,38,25,10,454,170,27,100,12,0
+2020,District,Washington District,Bloomington School,646,84,98,115,120,115,114,0,0,0,0,0,0,0,309,337,8,2,9,36,13,0,578,164,23,70,8,0
+2020,District,Washington District,Coral Canyon School,595,98,100,96,99,102,100,0,0,0,0,0,0,0,275,320,10,3,1,65,11,17,488,235,54,111,15,30
+2020,District,Washington District,Coral Cliffs School,125,17,24,18,25,23,18,0,0,0,0,0,0,0,54,71,5,1,0,47,6,1,65,84,35,32,2,53
+2020,District,Washington District,Crimson Cliffs High,799,0,0,0,0,0,0,0,0,0,0,371,257,171,389,410,3,3,8,39,12,11,723,91,5,72,3,0
+2020,District,Washington District,Crimson Cliffs Middle,819,0,0,0,0,0,0,0,0,457,362,0,0,0,414,405,0,3,10,40,11,6,749,123,7,66,1,0
+2020,District,Washington District,Crimson View School,613,86,85,101,99,116,126,0,0,0,0,0,0,0,300,313,0,5,0,16,3,2,587,80,6,62,7,29
+2020,District,Washington District,Desert Hills High,1039,0,0,0,0,0,0,0,0,0,0,308,360,371,538,501,3,5,16,47,14,19,935,137,6,92,5,0
+2020,District,Washington District,Desert Hills Middle,697,0,0,0,0,0,0,0,1,350,346,0,0,0,332,365,5,9,6,41,14,10,612,121,6,84,1,0
+2020,District,Washington District,Diamond Valley School,331,46,72,55,59,54,45,0,0,0,0,0,0,0,147,184,0,0,2,18,9,2,300,114,7,36,10,36
+2020,District,Washington District,Dixie High,1215,0,0,0,0,0,0,0,0,0,0,421,403,391,596,619,37,21,15,230,32,33,847,377,71,139,66,0
+2020,District,Washington District,Dixie Middle,880,0,0,0,0,0,0,0,0,406,474,0,0,0,403,477,27,17,7,177,21,23,608,341,68,120,49,0
+2020,District,Washington District,Enterprise High,481,0,0,0,0,0,0,0,86,95,80,75,80,65,209,272,3,2,2,74,3,2,395,220,20,74,18,0
+2020,District,Washington District,Enterprise School,434,52,61,58,69,58,58,78,0,0,0,0,0,0,201,233,1,0,1,27,4,0,401,252,8,62,10,30
+2020,District,Washington District,Fossil Ridge Intermediate,823,0,0,0,0,0,0,431,392,0,0,0,0,0,397,426,18,8,4,174,22,18,579,389,110,132,45,0
+2020,District,Washington District,Heritage School,546,94,87,83,89,98,95,0,0,0,0,0,0,0,280,266,15,9,4,119,30,14,355,326,88,64,18,60
+2020,District,Washington District,Horizon School,584,83,94,79,115,104,109,0,0,0,0,0,0,0,279,305,0,4,9,31,11,4,525,143,11,76,7,28
+2020,District,Washington District,Hurricane High,1062,0,0,0,0,0,0,0,0,0,2,416,342,302,519,543,8,4,5,97,11,8,929,350,18,154,31,0
+2020,District,Washington District,Hurricane Intermediate,778,0,0,0,0,0,0,381,397,0,0,0,0,0,372,406,12,5,0,90,14,7,650,372,46,129,27,0
+2020,District,Washington District,Hurricane Middle,761,0,0,0,0,0,0,0,0,413,348,0,0,0,372,389,2,6,3,88,12,7,643,318,29,104,4,0
+2020,District,Washington District,Hurricane School,643,86,115,113,108,107,114,0,0,0,0,0,0,0,310,333,3,3,2,82,11,3,539,365,50,109,22,32
+2020,District,Washington District,Lava Ridge Intermediate,922,0,0,0,0,0,0,458,464,0,0,0,0,0,472,450,33,9,9,202,24,14,631,424,130,141,21,0
+2020,District,Washington District,LaVerkin School,400,58,51,81,59,81,70,0,0,0,0,0,0,0,199,201,5,0,0,33,8,6,348,245,21,58,12,32
+2020,District,Washington District,Legacy School,542,85,88,99,93,88,89,0,0,0,0,0,0,0,258,284,17,8,1,220,14,19,263,413,209,76,10,32
+2020,District,Washington District,Little Valley School,712,96,117,117,113,131,138,0,0,0,0,0,0,0,319,393,1,7,4,12,4,7,677,47,1,71,0,0
+2020,District,Washington District,Majestic Fields School,863,142,152,153,144,130,142,0,0,0,0,0,0,0,405,458,5,4,3,22,12,9,808,106,10,64,3,0
+2020,District,Washington District,Millcreek High,123,0,0,0,0,0,0,0,0,0,1,0,38,84,67,56,9,1,0,25,3,4,81,55,8,31,12,0
+2020,District,Washington District,Panorama School,501,99,75,79,78,82,88,0,0,0,0,0,0,0,247,254,18,6,4,102,12,13,346,296,61,88,24,53
+2020,District,Washington District,Paradise Canyon,541,81,78,86,100,99,97,0,0,0,0,0,0,0,250,291,14,5,2,319,10,5,186,451,263,81,43,32
+2020,District,Washington District,Pine View High,1206,0,0,0,0,0,0,0,0,0,0,428,393,385,566,640,35,12,10,216,26,46,861,390,59,134,27,0
+2020,District,Washington District,Pine View Middle,786,0,0,0,0,0,0,0,0,400,386,0,0,0,374,412,15,6,7,176,15,19,548,356,44,113,24,0
+2020,District,Washington District,Post HS Self-Cont,59,0,0,0,0,0,0,0,0,0,0,0,0,59,23,36,0,3,0,8,1,0,47,12,2,57,0,0
+2020,District,Washington District,Red Mountain School,440,80,57,66,79,76,82,0,0,0,0,0,0,0,190,250,22,1,1,55,11,22,328,218,46,86,8,32
+2020,District,Washington District,Riverside School,792,132,134,109,130,150,137,0,0,0,0,0,0,0,356,436,5,3,2,46,29,15,692,186,19,114,6,0
+2020,District,Washington District,Sandstone School,493,78,92,71,72,95,85,0,0,0,0,0,0,0,219,274,7,9,9,135,12,28,293,313,123,76,23,30
+2020,District,Washington District,Santa Clara School,507,83,75,75,91,91,92,0,0,0,0,0,0,0,242,265,0,0,2,28,18,7,452,172,9,76,13,0
+2020,District,Washington District,Snow Canyon High,1247,0,0,0,0,0,0,0,0,0,0,416,439,392,580,667,28,11,10,280,15,17,886,333,76,141,28,0
+2020,District,Washington District,Snow Canyon Middle,834,0,0,0,0,0,0,0,0,413,421,0,0,0,380,454,17,10,4,170,17,8,608,351,53,91,20,0
+2020,District,Washington District,Springdale School,46,4,7,8,8,10,9,0,0,0,0,0,0,0,24,22,0,1,2,21,1,0,21,22,18,6,1,0
+2020,District,Washington District,Sunrise Ridge Intermediate,672,0,0,0,0,0,0,316,356,0,0,0,0,0,331,341,6,6,5,38,10,14,593,137,12,82,5,0
+2020,District,Washington District,Sunset School,524,96,85,65,98,88,92,0,0,0,0,0,0,0,254,270,25,5,0,103,25,11,355,323,83,96,29,27
+2020,District,Washington District,Three Falls School,588,78,99,92,106,109,104,0,0,0,0,0,0,0,262,326,3,3,2,24,10,7,539,189,13,84,6,0
+2020,District,Washington District,Tonaquint Intermediate,788,0,0,0,0,0,0,389,399,0,0,0,0,0,398,390,22,5,2,178,30,19,532,404,94,126,32,0
+2020,District,Washington District,Utah Online 7-12,464,0,0,0,0,0,0,0,0,0,105,93,134,132,243,221,8,7,3,20,10,7,409,23,3,55,2,0
+2020,District,Washington District,Utah Online K8,3093,272,334,321,335,364,339,405,364,359,0,0,0,0,1564,1528,13,85,76,495,16,16,2392,24,6,63,8,0
+2020,District,Washington District,Washington Fields Intermediate,837,0,0,0,0,0,0,436,401,0,0,0,0,0,378,459,4,4,10,39,18,7,755,129,7,91,11,0
+2020,District,Washington District,Washington Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,644
+2020,District,Washington District,Washington School,418,85,81,56,62,63,71,0,0,0,0,0,0,0,200,218,18,2,1,110,10,9,268,286,77,79,18,32
+2020,District,Washington District,Water Canyon High,203,0,0,0,0,0,0,0,42,36,40,37,34,14,108,95,0,0,0,3,0,0,200,81,0,22,7,0
+2020,District,Washington District,Water Canyon School,233,33,29,31,28,36,36,40,0,0,0,0,0,0,99,134,0,0,0,2,1,0,230,86,2,48,10,49
+2020,District,Wayne District,Hanksville School,8,6,1,0,1,0,0,0,0,0,0,0,0,0,1,7,0,0,0,1,0,0,7,8,0,3,0,4
+2020,District,Wayne District,Loa School,181,34,28,34,23,39,23,0,0,0,0,0,0,0,80,101,1,0,1,13,8,1,157,91,4,14,0,35
+2020,District,Wayne District,Wayne High,139,0,0,0,0,0,0,0,0,0,34,35,35,35,68,71,0,1,4,13,0,1,120,52,3,16,0,0
+2020,District,Wayne District,Wayne Middle,108,0,0,0,0,0,0,38,34,36,0,0,0,0,56,52,0,0,1,7,1,0,99,54,1,12,0,0
+2020,District,Weber District,Bates School,789,86,102,91,117,130,131,132,0,0,0,0,0,0,407,382,0,4,15,65,25,1,679,152,28,101,6,0
+2020,District,Weber District,Bonneville High,1381,0,0,0,0,0,0,0,0,0,0,498,443,440,699,682,7,29,6,253,47,14,1025,467,56,173,6,0
+2020,District,Weber District,Burch Creek School,605,93,92,73,95,77,79,96,0,0,0,0,0,0,306,299,0,20,6,145,13,6,415,290,72,94,5,0
+2020,District,Weber District,Canyon View Preschool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,106
+2020,District,Weber District,Country View School,691,91,91,98,90,108,99,114,0,0,0,0,0,0,336,355,2,11,9,61,17,3,588,147,38,80,5,0
+2020,District,Weber District,Farr West School,767,113,94,117,117,110,93,123,0,0,0,0,0,0,405,362,0,0,1,45,19,0,702,114,9,80,3,0
+2020,District,Weber District,Freedom School,842,105,118,108,130,124,136,121,0,0,0,0,0,0,430,412,1,4,8,142,32,7,648,207,21,118,3,0
+2020,District,Weber District,Fremont High,2020,0,0,0,0,0,0,0,0,0,0,646,672,702,993,1027,4,12,11,136,46,16,1795,261,15,250,4,0
+2020,District,Weber District,Green Acres School,515,80,65,78,79,65,60,88,0,0,0,0,0,0,242,273,1,2,3,53,5,4,447,164,16,99,0,1
+2020,District,Weber District,H Guy Child School,469,44,64,69,66,72,73,81,0,0,0,0,0,0,214,255,2,3,4,36,14,10,400,121,17,72,0,1
+2020,District,Weber District,Hooper School,668,75,107,85,95,106,99,101,0,0,0,0,0,0,315,353,3,0,0,32,11,1,621,105,2,83,5,0
+2020,District,Weber District,Horizon Academy,86,0,0,0,0,0,0,0,0,6,8,8,21,43,27,59,1,3,1,31,6,0,44,53,7,3,3,0
+2020,District,Weber District,Kanesville School,865,107,117,132,111,134,120,144,0,0,0,0,0,0,458,407,0,6,4,76,13,5,761,127,22,125,1,0
+2020,District,Weber District,Lakeview School,448,66,69,61,60,58,70,64,0,0,0,0,0,0,217,231,1,6,7,80,11,11,332,244,41,56,2,26
+2020,District,Weber District,Lomond View School,473,49,59,57,72,73,73,90,0,0,0,0,0,0,225,248,1,3,4,14,4,0,447,62,0,52,0,19
+2020,District,Weber District,Majestic School,860,93,115,122,116,128,122,164,0,0,0,0,0,0,418,442,1,3,11,131,21,1,692,213,46,90,9,25
+2020,District,Weber District,Midland School,550,74,67,83,82,87,77,80,0,0,0,0,0,0,249,301,1,10,9,80,24,3,423,180,35,85,2,92
+2020,District,Weber District,Municipal School,357,62,44,45,48,49,59,50,0,0,0,0,0,0,197,160,3,3,3,85,4,2,257,181,32,58,0,0
+2020,District,Weber District,North Ogden Jr High,913,0,0,0,0,0,0,0,334,280,299,0,0,0,468,445,5,3,12,80,23,3,787,230,15,124,5,0
+2020,District,Weber District,North Ogden School,554,64,85,70,76,77,98,84,0,0,0,0,0,0,281,273,2,3,2,49,14,0,484,157,22,69,4,0
+2020,District,Weber District,North Park School,507,61,71,64,81,68,75,87,0,0,0,0,0,0,254,253,5,2,13,103,26,6,352,276,24,103,4,27
+2020,District,Weber District,Orchard Springs,404,65,55,57,54,59,72,42,0,0,0,0,0,0,210,194,0,2,10,59,7,2,324,147,27,36,1,17
+2020,District,Weber District,Orion Jr High,1052,0,0,0,0,0,0,0,362,338,352,0,0,0,547,505,3,2,12,125,40,2,868,256,27,119,6,0
+2020,District,Weber District,Pioneer School,439,67,66,56,71,57,61,61,0,0,0,0,0,0,202,237,1,1,4,42,10,4,377,106,13,95,0,0
+2020,District,Weber District,Plain City School,696,88,73,101,99,103,110,122,0,0,0,0,0,0,352,344,1,2,3,11,2,2,675,105,3,93,0,26
+2020,District,Weber District,Riverdale School,456,49,56,61,66,82,73,69,0,0,0,0,0,0,215,241,1,1,9,121,11,4,309,199,61,54,0,12
+2020,District,Weber District,Rocky Mountain Jr High,1078,0,0,0,0,0,0,0,348,357,373,0,0,0,541,537,2,10,6,82,18,1,959,185,12,121,6,0
+2020,District,Weber District,Roosevelt School,486,82,66,67,66,72,66,67,0,0,0,0,0,0,244,242,3,14,3,126,21,14,305,247,60,84,3,27
+2020,District,Weber District,Roy High,1835,0,0,0,0,0,0,0,0,0,1,651,624,559,922,913,11,17,26,347,75,20,1339,560,59,300,3,0
+2020,District,Weber District,Roy Jr High,946,0,0,0,0,0,0,0,351,284,311,0,0,0,468,478,7,7,9,193,33,11,686,365,31,133,3,0
+2020,District,Weber District,Roy School,533,84,75,77,76,71,71,79,0,0,0,0,0,0,255,278,2,1,5,135,22,13,355,308,31,82,1,0
+2020,District,Weber District,Sand Ridge Jr High,846,0,0,0,0,0,0,0,307,266,273,0,0,0,417,429,9,12,13,185,37,7,583,350,40,152,6,0
+2020,District,Weber District,Silver Ridge Elementary,562,71,80,84,70,89,83,85,0,0,0,0,0,0,270,292,0,6,1,23,7,0,525,83,10,99,2,1
+2020,District,Weber District,Snowcrest Jr High,309,0,0,0,0,0,0,0,102,102,105,0,0,0,133,176,2,1,1,9,7,0,289,29,0,25,0,0
+2020,District,Weber District,South Ogden Jr High,856,0,0,0,0,0,0,0,300,297,259,0,0,0,455,401,6,13,11,149,23,12,642,280,32,87,4,0
+2020,District,Weber District,T.H. Bell Jr High,651,0,0,0,0,0,0,0,217,218,216,0,0,0,302,349,5,6,7,170,28,10,425,307,49,92,11,0
+2020,District,Weber District,Two Rivers High,173,0,0,0,0,0,0,0,0,0,1,3,45,124,78,95,4,3,0,38,2,0,126,73,7,25,7,0
+2020,District,Weber District,Uintah School,727,86,106,116,93,103,109,114,0,0,0,0,0,0,361,366,3,5,8,57,27,3,624,186,22,85,2,0
+2020,District,Weber District,Valley School,571,66,84,87,73,85,86,90,0,0,0,0,0,0,289,282,3,2,0,11,3,0,552,61,0,77,0,4
+2020,District,Weber District,Valley View School,441,68,59,50,63,61,63,77,0,0,0,0,0,0,207,234,0,1,4,116,18,3,299,208,63,65,2,2
+2020,District,Weber District,Wahlquist Jr High,1165,0,0,0,0,0,0,0,365,417,383,0,0,0,530,635,0,3,2,64,23,6,1067,159,13,122,4,0
+2020,District,Weber District,Washington Terrace School,534,84,77,70,73,88,73,69,0,0,0,0,0,0,254,280,4,5,4,120,12,6,383,288,59,81,13,0
+2020,District,Weber District,Weber High,2077,0,0,0,0,0,0,0,0,0,0,722,698,657,1018,1059,8,11,15,181,48,7,1807,334,13,217,6,0
+2020,District,Weber District,Weber Innovation High School,235,0,0,0,0,0,0,0,0,0,37,72,62,64,128,107,1,0,5,19,4,0,206,32,1,6,1,0
+2020,District,Weber District,Weber Online K-6,7,2,0,1,1,1,0,2,0,0,0,0,0,0,5,2,0,0,0,1,0,0,6,0,1,0,0,0
+2020,District,Weber District,West Haven School,611,67,78,97,94,86,92,97,0,0,0,0,0,0,298,313,0,16,9,92,35,5,454,241,35,109,14,0
+2020,District,Weber District,West Weber School,538,67,58,87,72,73,84,97,0,0,0,0,0,0,268,270,0,3,2,19,7,2,505,111,11,82,1,1
+2020,Charter,Academy for Math Engineering & Science,Academy for Math Engineering & Science,499,0,0,0,0,0,0,0,0,0,130,127,127,115,245,254,10,26,52,89,27,36,259,110,22,28,4,0
+2020,Charter,American Academy of Innovation,American Academy of Innovation,400,0,0,0,0,0,0,54,52,66,80,41,61,46,159,240,1,2,8,63,23,0,303,88,6,41,3,0
+2020,Charter,American Leadership Academy,American Leadership Academy,1773,140,138,137,125,108,142,131,143,154,141,153,126,135,896,877,5,17,10,492,37,3,1209,675,177,256,12,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - Accelerated School,1633,85,90,88,93,125,128,129,216,206,170,123,97,83,842,791,0,114,142,985,25,43,324,873,373,147,0,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - Draper #1,632,101,117,110,87,92,65,60,0,0,0,0,0,0,332,300,1,12,173,77,14,10,345,99,59,52,0,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - Draper #2,1228,151,168,173,165,198,185,188,0,0,0,0,0,0,627,601,3,24,347,211,26,10,607,207,188,118,0,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - Draper #3,714,0,0,0,0,0,0,0,226,200,100,87,65,36,368,346,4,7,108,179,20,8,388,130,75,82,0,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - Salem,535,67,71,62,60,44,52,53,50,42,34,0,0,0,263,272,1,5,6,44,8,10,461,154,19,62,0,0
+2020,Charter,American Preparatory Academy,American Preparatory Academy - The School for New Americans,615,85,83,85,90,88,88,96,0,0,0,0,0,0,321,294,0,42,33,370,18,37,115,400,271,55,0,0
+2020,Charter,Ascent Academies of Utah,Ascent Academies of Utah - West Valley,483,78,102,69,65,51,69,49,0,0,0,0,0,0,234,249,2,12,22,208,33,15,191,289,126,57,2,0
+2020,Charter,Ascent Academies of Utah,Ascent Academies of Utah Farmington,460,45,43,50,45,47,42,49,36,59,44,0,0,0,215,245,0,7,9,24,26,0,394,80,7,77,0,0
+2020,Charter,Ascent Academies of Utah,Ascent Academies of Utah Lehi,602,74,63,67,79,65,69,60,62,45,18,0,0,0,277,325,2,9,9,79,27,6,470,122,33,93,0,0
+2020,Charter,Ascent Academies of Utah,Ascent Academies of Utah West Jordan,804,76,84,84,84,82,83,84,89,85,53,0,0,0,385,419,3,11,19,235,39,16,481,253,101,110,3,0
+2020,Charter,Athenian eAcademy,Athenian eAcademy,673,72,72,67,70,57,66,65,67,44,29,22,21,21,302,371,11,5,1,37,11,0,608,84,1,109,0,0
+2020,Charter,Athlos Academy of Utah,Athlos Academy of Utah,814,115,129,114,108,91,105,92,26,34,0,0,0,0,352,462,1,15,5,94,26,19,654,169,63,104,3,0
+2020,Charter,Bear River Charter School,Bear River Charter School,176,21,20,19,18,20,19,21,19,19,0,0,0,0,88,88,0,3,2,33,2,0,136,43,0,29,2,0
+2020,Charter,Beehive Science & Technology Academy,Beehive Science & Technology Academy,313,0,0,0,0,0,0,47,66,48,61,47,22,22,114,199,2,3,57,44,11,4,192,94,6,43,0,0
+2020,Charter,Bonneville Academy,Bonneville Academy,556,56,58,59,54,71,65,68,69,56,0,0,0,0,252,304,9,3,3,56,23,2,460,165,0,103,0,0
+2020,Charter,C.S. Lewis Academy,C.S. Lewis Academy,320,77,48,43,39,47,41,25,0,0,0,0,0,0,155,165,0,1,1,113,1,0,204,167,71,48,0,0
+2020,Charter,Canyon Grove Academy,Canyon Grove Academy,653,88,95,94,109,90,79,71,13,14,0,0,0,0,345,308,1,3,5,51,19,9,565,123,2,44,0,0
+2020,Charter,Canyon Rim Academy,Canyon Rim Academy,513,80,78,78,78,78,78,43,0,0,0,0,0,0,231,281,0,2,10,29,22,0,450,44,4,38,0,0
+2020,Charter,Capstone Classical Academy,Capstone Classical Academy,177,0,0,0,0,0,0,36,38,35,30,18,10,10,87,90,0,0,3,36,5,0,133,45,0,20,0,0
+2020,Charter,Channing Hall,Channing Hall,621,77,77,80,78,75,76,50,48,60,0,0,0,0,310,311,0,4,51,44,17,8,497,74,14,75,0,0
+2020,Charter,City Academy,City Academy,148,0,0,0,0,0,0,0,16,29,30,34,21,18,72,76,1,5,4,56,9,0,73,68,22,30,0,0
+2020,Charter,Davinci Academy,Davinci Academy,1269,104,126,105,116,107,102,87,97,92,104,86,74,69,647,622,2,13,22,248,42,7,935,472,17,174,0,0
+2020,Charter,Dixie Montessori Academy,Dixie Montessori Academy,277,47,45,36,34,32,37,23,23,0,0,0,0,0,143,134,4,1,3,36,15,2,216,90,7,52,0,0
+2020,Charter,Dual Immersion Academy,Dual Immersion Academy,475,54,53,68,55,52,56,53,44,40,0,0,0,0,222,253,0,2,1,432,4,1,35,111,229,48,0,0
+2020,Charter,Early Light Academy at Daybreak,Early Light Academy at Daybreak,1009,98,99,104,105,105,105,104,109,104,76,0,0,0,505,504,2,9,24,89,56,4,825,153,2,162,0,0
+2020,Charter,East Hollywood High,East Hollywood High,320,0,0,0,0,0,0,0,0,0,45,81,103,91,184,136,4,5,0,74,16,19,202,176,25,66,2,0
+2020,Charter,Edith Bowen Laboratory School,Edith Bowen Laboratory School,359,48,48,51,52,52,53,55,0,0,0,0,0,0,167,192,2,3,7,25,17,1,304,75,5,56,0,0
+2020,Charter,Endeavor Hall,Endeavor Hall,343,67,56,49,53,41,47,30,0,0,0,0,0,0,165,178,6,16,10,121,16,7,167,200,63,49,2,0
+2020,Charter,Entheos Academy,Entheos Academy Kearns,577,67,73,71,70,69,70,60,49,48,0,0,0,0,286,291,4,15,13,198,24,24,299,262,78,63,2,0
+2020,Charter,Entheos Academy,Entheos Academy Magna,480,55,56,56,52,53,51,55,54,48,0,0,0,0,223,257,4,4,6,227,7,6,226,245,132,52,0,0
+2020,Charter,Esperanza School,Esperanza School,537,85,80,83,83,79,65,62,0,0,0,0,0,0,276,261,0,3,1,515,2,0,16,357,279,48,0,0
+2020,Charter,Excelsior Academy,Excelsior Academy,1325,162,145,130,148,143,126,152,179,140,0,0,0,0,635,690,5,9,14,146,36,7,1108,358,7,195,3,0
+2020,Charter,Fast Forward High,Fast Forward High,260,0,0,0,0,0,0,0,0,0,28,53,90,89,125,135,5,2,0,78,8,1,166,133,6,56,2,0
+2020,Charter,Franklin Discovery Academy,Franklin Discovery Academy,576,86,110,102,79,83,56,60,0,0,0,0,0,0,259,317,1,0,2,82,18,16,457,163,9,84,0,0
+2020,Charter,Freedom Preparatory Academy,Freedom Preparatory Academy,1360,130,121,116,120,111,98,144,160,137,77,62,38,46,687,673,2,10,25,595,63,10,655,549,270,155,0,0
+2020,Charter,Freedom Preparatory Academy,Freedom Preparatory Academy - Vineyard,546,120,120,90,80,70,66,0,0,0,0,0,0,0,276,270,2,5,11,91,24,15,398,124,47,48,0,0
+2020,Charter,Gateway Preparatory Academy,Gateway Preparatory Academy,680,64,69,56,87,73,91,81,79,80,0,0,0,0,310,370,13,3,8,65,26,1,564,361,18,129,2,0
+2020,Charter,George Washington Academy,George Washington Academy,998,136,132,131,135,133,132,93,106,0,0,0,0,0,490,508,5,7,26,101,30,3,826,220,39,72,3,0
+2020,Charter,Good Foundations Academy,Good Foundations Academy,487,75,89,76,72,65,52,58,0,0,0,0,0,0,235,252,1,7,10,97,34,3,335,150,16,79,5,0
+2020,Charter,Greenwood Charter School,Greenwood Charter School,378,51,54,41,46,49,45,42,27,23,0,0,0,0,167,211,0,4,2,80,25,0,267,181,19,63,0,0
+2020,Charter,Guadalupe School,Guadalupe School,285,48,43,39,43,44,41,27,0,0,0,0,0,0,159,126,0,1,0,278,0,0,6,261,130,9,9,120
+2020,Charter,Hawthorn Academy,Hawthorn Academy South Jordan,625,98,92,92,95,90,78,80,0,0,0,0,0,0,314,311,4,8,31,112,34,10,426,212,22,85,0,0
+2020,Charter,Hawthorn Academy,Hawthorn Academy West Jordan,784,61,78,79,80,76,79,75,99,97,60,0,0,0,391,393,4,6,27,160,20,24,543,234,33,96,0,0
+2020,Charter,Highmark Charter School,Highmark Charter School,621,46,52,51,51,51,51,68,71,100,80,0,0,0,296,325,3,22,6,52,24,1,513,79,1,68,0,0
+2020,Charter,Ignite Entrepreneurship Academy,Ignite Entrepreneurship Academy,545,90,85,68,73,50,68,54,35,22,0,0,0,0,251,294,1,3,10,29,34,5,463,9,8,70,0,0
+2020,Charter,Intech Collegiate High School,Intech Collegiate High School,158,0,0,0,0,0,0,0,0,0,51,36,40,31,46,111,3,2,6,16,4,0,127,48,1,30,0,0
+2020,Charter,Itineris Early College High,Itineris Early College High,414,0,0,0,0,0,0,0,0,0,0,169,135,110,200,214,2,10,34,113,19,11,225,98,11,15,0,0
+2020,Charter,Jefferson Academy,Jefferson Academy,581,118,85,89,81,70,66,72,0,0,0,0,0,0,287,294,2,6,6,41,16,3,507,120,0,65,4,0
+2020,Charter,John Hancock Charter School,John Hancock Charter School,159,21,23,24,23,23,22,23,0,0,0,0,0,0,81,78,0,0,0,11,13,0,135,79,0,32,0,0
+2020,Charter,Karl G. Maeser Preparatory Academy,Karl G. Maeser Preparatory Academy,629,0,0,0,0,0,0,0,102,102,117,109,103,96,317,312,1,4,47,72,18,3,484,59,11,52,0,0
+2020,Charter,Lakeview Academy,Lakeview Academy,1025,100,104,104,104,104,104,104,104,104,93,0,0,0,512,513,1,6,8,66,35,5,904,141,14,114,0,0
+2020,Charter,Leadership Academy of Utah,Leadership Academy of Utah,504,0,0,0,0,0,0,59,84,99,98,71,54,39,254,250,1,2,2,18,5,0,476,103,0,16,0,0
+2020,Charter,Leadership Learning Academy,Leadership Learning Academy,516,74,84,81,78,79,56,64,0,0,0,0,0,0,243,273,0,18,6,114,32,1,345,150,33,77,0,0
+2020,Charter,Leadership Learning Academy,Leadership Learning Academy - Ogden,392,72,78,69,48,42,48,35,0,0,0,0,0,0,178,214,4,2,3,176,26,0,181,234,38,52,1,0
+2020,Charter,Legacy Preparatory Academy,Legacy Preparatory Academy,1117,112,113,112,114,115,120,126,112,102,91,0,0,0,548,569,3,14,15,151,45,18,871,60,31,162,0,0
+2020,Charter,Lincoln Academy,Lincoln Academy,903,72,75,75,78,81,82,113,115,118,94,0,0,0,438,465,5,6,12,83,35,6,756,153,3,94,0,0
+2020,Charter,Lumen Scholar Institute,Lumen Scholar Institute,345,17,7,14,13,17,20,23,27,28,50,39,53,37,164,181,4,1,0,0,7,1,332,19,0,32,0,0
+2020,Charter,Mana Academy Charter School,Mana Academy Charter School,320,30,31,30,37,34,26,32,28,29,21,12,10,0,165,155,0,2,0,133,17,158,10,257,37,26,0,0
+2020,Charter,Maria Montessori Academy,Maria Montessori Academy,417,61,55,45,64,45,46,48,34,12,7,0,0,0,209,208,0,5,8,83,15,4,302,106,11,85,0,0
+2020,Charter,Merit College Preparatory Academy,Merit College Preparatory Academy,451,0,0,0,0,0,0,0,67,76,98,78,62,70,214,237,1,3,0,112,15,1,319,199,0,83,0,0
+2020,Charter,Moab Charter School,Moab Charter School,76,13,14,12,9,8,13,7,0,0,0,0,0,0,37,39,4,0,1,16,5,0,50,38,7,18,0,0
+2020,Charter,Monticello Academy,Monticello Academy,665,76,77,77,75,77,74,78,74,57,0,0,0,0,355,310,3,10,18,317,29,82,206,362,177,78,0,0
+2020,Charter,Mountain Heights Academy,Mountain Heights Academy,802,0,0,0,0,0,0,0,64,107,148,172,181,130,460,342,4,5,6,78,29,10,670,119,1,111,0,0
+2020,Charter,Mountain West Montessori Academy,Mountain West Montessori Academy,503,51,54,52,53,56,49,56,46,43,43,0,0,0,227,276,2,4,7,80,22,3,385,74,5,94,0,0
+2020,Charter,Mountainville Academy,Mountainville Academy,658,103,71,60,75,74,89,87,39,33,27,0,0,0,310,348,0,6,5,34,27,1,585,48,0,74,0,0
+2020,Charter,Navigator Pointe Academy,Navigator Pointe Academy,455,58,56,58,57,54,41,42,39,27,23,0,0,0,232,223,0,8,16,64,18,14,335,58,5,57,0,0
+2020,Charter,No. UT. Acad. for Math Engineering & Science,No. UT. Acad. for Math Engineering & Science,730,0,0,0,0,0,0,0,0,0,0,289,238,203,304,426,2,6,34,78,22,4,584,77,8,17,5,0
+2020,Charter,No. UT. Acad. for Math Engineering & Science,No. UT. Acad. of Math Engineering & Science Ogden,312,0,0,0,0,0,0,0,0,0,0,120,127,65,149,163,1,7,7,61,7,2,227,38,1,4,0,0
+2020,Charter,Noah Webster Academy,Noah Webster Academy,524,79,84,71,76,70,74,70,0,0,0,0,0,0,253,271,4,13,16,172,23,5,291,212,58,54,0,0
+2020,Charter,North Davis Preparatory Academy,North Davis Preparatory Academy,1004,100,113,105,103,109,112,100,96,87,79,0,0,0,500,504,3,20,14,338,40,4,585,259,120,101,1,0
+2020,Charter,North Star Academy,North Star Academy,529,50,50,50,50,52,52,54,54,64,53,0,0,0,258,271,0,4,11,29,12,1,472,39,4,54,0,0
+2020,Charter,Odyssey Charter School,Odyssey Charter School,411,63,65,65,55,71,46,46,0,0,0,0,0,0,199,212,0,3,28,63,13,3,301,84,26,48,0,0
+2020,Charter,Ogden Preparatory Academy,Ogden Preparatory Academy,1060,96,104,102,106,110,110,108,107,115,102,0,0,0,542,518,9,20,5,662,24,1,339,680,218,129,0,0
+2020,Charter,Open Classroom,Open Classroom,323,48,42,42,41,40,26,37,26,21,0,0,0,0,142,181,7,4,6,29,27,1,249,64,7,50,1,15
+2020,Charter,Pacific Heritage Academy,Pacific Heritage Academy,389,42,43,42,49,44,44,34,45,46,0,0,0,0,179,210,0,12,18,176,23,80,80,270,94,59,0,0
+2020,Charter,Paradigm High School,Paradigm High School,438,0,0,0,0,0,0,0,44,50,80,94,84,86,217,221,0,2,4,46,10,0,376,77,2,74,0,0
+2020,Charter,Pinnacle Canyon Academy,Pinnacle Canyon Academy,456,23,26,39,27,28,38,40,46,30,45,39,37,38,215,241,10,1,0,89,8,0,348,318,0,135,0,0
+2020,Charter,Promontory School of Expeditionary Learning,Promontory School of Expeditionary Learning,443,50,54,55,43,56,58,42,54,31,0,0,0,0,222,221,5,8,2,32,8,1,387,172,8,76,0,0
+2020,Charter,Providence Hall,Providence Hall,2088,120,125,125,129,131,152,189,212,224,241,150,163,127,1012,1076,0,22,50,306,108,23,1579,330,38,243,0,0
+2020,Charter,Quest Academy,Quest Academy,1000,115,122,111,118,108,104,107,98,60,57,0,0,0,493,507,2,10,9,134,40,1,804,261,3,123,0,0
+2020,Charter,Ranches Academy,Ranches Academy,371,54,52,55,53,54,52,51,0,0,0,0,0,0,200,171,3,2,0,25,7,12,322,58,1,51,0,0
+2020,Charter,Reagan Academy,Reagan Academy,681,80,76,79,80,79,83,81,66,57,0,0,0,0,344,337,7,4,6,86,17,11,550,173,25,86,0,0
+2020,Charter,Real Salt Lake Academy High School,Real Salt Lake Academy High School,308,0,0,0,0,0,0,0,0,0,99,89,77,43,96,212,1,10,6,140,5,1,145,65,10,35,0,0
+2020,Charter,Renaissance Academy,Renaissance Academy,725,92,113,84,102,90,85,81,46,32,0,0,0,0,335,389,0,2,40,88,66,1,528,95,7,54,0,0
+2020,Charter,Rockwell Charter High School,Rockwell Charter High School,327,0,0,0,0,0,0,0,22,31,45,56,88,85,162,165,4,10,4,39,3,0,267,85,0,65,0,0
+2020,Charter,Roots Charter High School,Roots Charter High School,197,0,0,0,0,0,0,0,0,0,33,51,66,47,105,92,2,0,1,75,6,1,112,126,0,44,13,0
+2020,Charter,Salt Lake Arts Academy,Salt Lake Arts Academy,408,0,0,0,0,0,102,102,101,103,0,0,0,0,219,189,0,5,14,44,23,1,321,66,1,35,0,0
+2020,Charter,Salt Lake Center for Science Education,Salt Lake Center for Science Education,392,0,0,0,0,0,0,0,61,60,111,63,48,49,169,223,0,16,5,159,19,7,186,196,28,44,7,0
+2020,Charter,Salt Lake School for the Performing Arts,Salt Lake School for the Performing Arts,296,0,0,0,0,0,0,0,0,0,84,71,73,68,198,98,3,6,3,19,12,1,252,63,0,25,5,0
+2020,Charter,Scholar Academy,Scholar Academy,638,74,72,70,71,76,81,75,71,48,0,0,0,0,289,349,1,1,2,77,19,3,535,201,10,80,3,0
+2020,Charter,Soldier Hollow Charter School,Soldier Hollow Charter School,324,31,44,46,40,43,36,37,27,20,0,0,0,0,127,197,1,0,4,16,16,1,286,27,0,56,0,0
+2020,Charter,Spectrum Academy,Spectrum Academy - NSL,853,52,63,70,66,69,67,58,69,66,70,68,66,69,221,629,2,16,4,76,37,18,700,255,12,691,1,0
+2020,Charter,Spectrum Academy,Spectrum Academy - Pleasant Grove,616,42,44,47,45,43,50,46,56,57,54,55,41,36,147,467,0,3,10,51,24,2,526,176,10,483,0,0
+2020,Charter,St. George Academy,St. George Academy,252,0,0,0,0,0,0,0,0,47,78,60,42,25,109,143,3,2,0,32,7,1,207,36,1,43,0,0
+2020,Charter,Success Academy,Success DSU,232,0,0,0,0,0,0,0,0,0,0,66,85,81,106,126,1,2,6,13,3,4,203,46,0,1,0,0
+2020,Charter,Success Academy,Success SUU,204,0,0,0,0,0,0,0,0,0,62,62,39,41,114,90,2,0,4,14,4,1,179,44,4,3,3,0
+2020,Charter,Summit Academy,Summit Academy - Bluffdale,500,77,74,95,72,67,55,60,0,0,0,0,0,0,230,270,0,14,9,38,25,1,413,108,8,79,0,0
+2020,Charter,Summit Academy,Summit Academy - Draper Campus,940,98,97,105,99,116,104,96,107,118,0,0,0,0,451,489,3,17,45,68,30,3,774,90,17,92,0,0
+2020,Charter,Summit Academy,Summit Academy - Independence,972,90,107,110,104,108,104,93,134,122,0,0,0,0,466,506,0,11,37,115,36,14,759,154,37,99,0,0
+2020,Charter,Summit Academy High School,Summit Academy High School,542,0,0,0,0,0,0,0,0,0,151,139,132,120,248,294,4,5,13,62,19,3,436,90,10,71,0,0
+2020,Charter,Syracuse Arts Academy,Syracuse Arts Academy - Antelope,1045,68,78,81,81,84,97,105,163,157,131,0,0,0,544,501,3,12,18,118,53,15,826,260,8,163,0,0
+2020,Charter,Syracuse Arts Academy,Syracuse Arts Academy - North,748,109,108,108,106,106,106,105,0,0,0,0,0,0,388,360,5,14,15,60,39,9,606,161,6,104,0,0
+2020,Charter,Terra Academy,Terra Academy,632,50,50,50,50,50,50,50,50,50,50,48,42,42,309,323,0,1,2,35,29,1,564,168,0,92,0,0
+2020,Charter,The Center for Creativity Innovation and Discovery,The Center for Creativity Innovation and Discovery,510,56,56,58,55,58,55,59,59,54,0,0,0,0,238,272,2,3,0,24,9,0,472,159,3,59,1,0
+2020,Charter,Thomas Edison,Thomas Edison - North,526,58,60,60,54,59,60,59,61,55,0,0,0,0,279,247,6,9,18,114,9,14,356,118,19,98,0,0
+2020,Charter,Thomas Edison,Thomas Edison - South,616,62,72,65,65,71,70,75,75,61,0,0,0,0,321,295,0,7,15,107,7,4,476,194,19,114,0,0
+2020,Charter,Timpanogos Academy,Timpanogos Academy,508,75,80,70,75,68,67,73,0,0,0,0,0,0,246,262,1,1,14,99,21,3,369,50,7,86,0,0
+2020,Charter,Treeside Charter School,Treeside Charter School,461,111,85,72,66,65,31,31,0,0,0,0,0,0,212,249,3,7,3,74,18,4,352,179,35,53,6,0
+2020,Charter,Tuacahn High School for the Performing Arts,Tuacahn High School for the Performing Arts,399,0,0,0,0,0,0,0,0,0,114,113,78,94,253,146,3,8,2,44,3,3,336,147,0,35,0,0
+2020,Charter,Uintah River High,Uintah River High,75,0,0,0,0,0,0,0,0,0,15,20,20,20,37,38,55,0,0,5,8,0,7,37,0,8,0,0
+2020,Charter,Utah Career Path High School,Utah Career Path High School,172,0,0,0,0,0,0,0,0,0,22,35,54,61,72,100,1,2,0,13,8,0,148,21,0,42,2,0
+2020,Charter,Utah Connections Academy,Utah Connections Academy,910,22,18,23,27,37,60,42,77,119,155,116,114,100,503,407,5,15,10,125,6,14,735,316,1,100,2,0
+2020,Charter,Utah County Academy of Science,Utah County Academy of Science,606,0,0,0,0,0,0,0,0,0,164,179,138,125,294,312,0,7,26,138,14,6,415,120,11,11,1,0
+2020,Charter,Utah International Charter School,Utah International Charter School,230,0,0,0,0,0,0,0,20,25,50,42,46,47,127,103,1,140,45,18,1,0,25,216,205,13,0,0
+2020,Charter,Utah Military Academy,Utah Military Academy,554,0,0,0,0,0,0,0,88,117,97,88,90,74,173,381,2,10,9,122,26,5,380,192,1,101,0,0
+2020,Charter,Utah Military Academy,Utah Military Academy - Camp Williams,504,0,0,0,0,0,0,0,86,107,97,75,94,45,151,353,4,10,3,126,26,9,326,124,28,88,0,0
+2020,Charter,Utah Virtual Academy,Utah Virtual Academy,2026,62,52,83,61,104,89,134,191,269,269,224,262,226,1070,956,33,46,15,332,20,24,1556,852,19,378,28,0
+2020,Charter,Valley Academy,Valley Academy,448,63,62,50,46,60,53,47,31,36,0,0,0,0,234,214,6,1,3,71,15,1,351,226,6,77,0,0
+2020,Charter,Vanguard Academy,Vanguard Academy,468,0,0,0,0,0,0,0,80,81,83,88,87,49,214,254,0,0,0,0,0,0,468,385,0,15,0,0
+2020,Charter,Venture Academy,Venture Academy,784,48,53,48,48,54,49,57,65,50,100,80,77,55,403,381,1,3,6,65,7,3,699,285,20,124,0,0
+2020,Charter,Vista School,Vista School,935,77,93,96,100,108,111,124,119,107,0,0,0,0,526,409,14,7,5,150,41,4,714,339,38,96,0,0
+2020,Charter,Voyage Academy,Voyage Academy,531,73,73,72,74,78,78,83,0,0,0,0,0,0,260,271,0,1,5,54,22,1,448,133,1,60,0,0
+2020,Charter,Walden School of Liberal Arts,Walden School of Liberal Arts,426,34,33,35,32,33,32,32,30,37,38,31,33,26,213,213,4,1,6,47,15,2,351,191,11,84,0,10
+2020,Charter,Wallace Stegner Academy,Wallace Stegner Academy,703,85,90,85,100,67,74,73,68,61,0,0,0,0,365,338,5,20,15,441,22,70,130,578,76,61,0,0
+2020,Charter,Wasatch Peak Academy,Wasatch Peak Academy,434,48,72,74,69,50,50,71,0,0,0,0,0,0,209,225,1,5,18,72,17,15,306,93,13,45,0,0
+2020,Charter,Wasatch Waldorf Charter School,Wasatch Waldorf Charter School,641,65,63,64,64,97,92,83,60,53,0,0,0,0,334,307,0,6,17,59,37,1,521,143,12,88,0,0
+2020,Charter,Weber State University Charter Academy,Weber State University Charter Academy,33,33,0,0,0,0,0,0,0,0,0,0,0,0,20,13,0,1,2,1,3,0,26,10,0,0,0,0
+2020,Charter,Weilenmann School of Discovery,Weilenmann School of Discovery,563,35,74,69,71,49,83,58,73,51,0,0,0,0,266,297,1,8,16,27,8,1,502,36,10,31,0,0
+2020,Charter,Winter Sports School,Winter Sports School,109,0,0,0,0,0,0,0,0,0,25,29,28,27,47,62,0,0,1,3,4,0,101,0,0,0,0,0
