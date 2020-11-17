@@ -1,0 +1,1684 @@
+T E X A S  E D U C A T I O N  A G E N C Y
+
+PEIMS Student Enrollment Data for 2019-2020
+
+"YEAR","REGION","COUNTY NAME","ETHNICITY","ENROLLMENT"
+"2019-2020",07,"ANDERSON COUNTY","American Indian or Alaska Nat",31
+"2019-2020",07,"ANDERSON COUNTY","Asian",51
+"2019-2020",07,"ANDERSON COUNTY","Black or African American",1378
+"2019-2020",07,"ANDERSON COUNTY","Hispanic/Latino",2155
+"2019-2020",07,"ANDERSON COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",07,"ANDERSON COUNTY","Two or more races",326
+"2019-2020",07,"ANDERSON COUNTY","White",4331
+"2019-2020",18,"ANDREWS COUNTY","American Indian or Alaska Nat",17
+"2019-2020",18,"ANDREWS COUNTY","Asian",15
+"2019-2020",18,"ANDREWS COUNTY","Black or African American",26
+"2019-2020",18,"ANDREWS COUNTY","Hispanic/Latino",2987
+"2019-2020",18,"ANDREWS COUNTY","Two or more races",76
+"2019-2020",18,"ANDREWS COUNTY","White",1238
+"2019-2020",07,"ANGELINA COUNTY","American Indian or Alaska Nat",46
+"2019-2020",07,"ANGELINA COUNTY","Asian",145
+"2019-2020",07,"ANGELINA COUNTY","Black or African American",2987
+"2019-2020",07,"ANGELINA COUNTY","Hispanic/Latino",5733
+"2019-2020",07,"ANGELINA COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",07,"ANGELINA COUNTY","Two or more races",496
+"2019-2020",07,"ANGELINA COUNTY","White",7647
+"2019-2020",02,"ARANSAS COUNTY","American Indian or Alaska Nat",12
+"2019-2020",02,"ARANSAS COUNTY","Asian",61
+"2019-2020",02,"ARANSAS COUNTY","Black or African American",42
+"2019-2020",02,"ARANSAS COUNTY","Hispanic/Latino",1311
+"2019-2020",02,"ARANSAS COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",02,"ARANSAS COUNTY","Two or more races",86
+"2019-2020",02,"ARANSAS COUNTY","White",1451
+"2019-2020",09,"ARCHER COUNTY","American Indian or Alaska Nat",16
+"2019-2020",09,"ARCHER COUNTY","Black or African American",10
+"2019-2020",09,"ARCHER COUNTY","Hispanic/Latino",266
+"2019-2020",09,"ARCHER COUNTY","Two or more races",56
+"2019-2020",09,"ARCHER COUNTY","White",1613
+"2019-2020",16,"ARMSTRONG COUNTY","American Indian or Alaska Nat",4
+"2019-2020",16,"ARMSTRONG COUNTY","Black or African American",3
+"2019-2020",16,"ARMSTRONG COUNTY","Hispanic/Latino",49
+"2019-2020",16,"ARMSTRONG COUNTY","Two or more races",11
+"2019-2020",16,"ARMSTRONG COUNTY","White",264
+"2019-2020",20,"ATASCOSA COUNTY","American Indian or Alaska Nat",11
+"2019-2020",20,"ATASCOSA COUNTY","Asian",26
+"2019-2020",20,"ATASCOSA COUNTY","Black or African American",52
+"2019-2020",20,"ATASCOSA COUNTY","Hispanic/Latino",6757
+"2019-2020",20,"ATASCOSA COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",20,"ATASCOSA COUNTY","Two or more races",79
+"2019-2020",20,"ATASCOSA COUNTY","White",2136
+"2019-2020",06,"AUSTIN COUNTY","American Indian or Alaska Nat",11
+"2019-2020",06,"AUSTIN COUNTY","Asian",39
+"2019-2020",06,"AUSTIN COUNTY","Black or African American",479
+"2019-2020",06,"AUSTIN COUNTY","Hispanic/Latino",2571
+"2019-2020",06,"AUSTIN COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",06,"AUSTIN COUNTY","Two or more races",144
+"2019-2020",06,"AUSTIN COUNTY","White",2624
+"2019-2020",17,"BAILEY COUNTY","Asian",8
+"2019-2020",17,"BAILEY COUNTY","Black or African American",9
+"2019-2020",17,"BAILEY COUNTY","Hispanic/Latino",1210
+"2019-2020",17,"BAILEY COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",17,"BAILEY COUNTY","Two or more races",4
+"2019-2020",17,"BAILEY COUNTY","White",171
+"2019-2020",20,"BANDERA COUNTY","American Indian or Alaska Nat",4
+"2019-2020",20,"BANDERA COUNTY","Asian",9
+"2019-2020",20,"BANDERA COUNTY","Black or African American",14
+"2019-2020",20,"BANDERA COUNTY","Hispanic/Latino",873
+"2019-2020",20,"BANDERA COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",20,"BANDERA COUNTY","Two or more races",71
+"2019-2020",20,"BANDERA COUNTY","White",1634
+"2019-2020",13,"BASTROP COUNTY","American Indian or Alaska Nat",29
+"2019-2020",13,"BASTROP COUNTY","Asian",79
+"2019-2020",13,"BASTROP COUNTY","Black or African American",1011
+"2019-2020",13,"BASTROP COUNTY","Hispanic/Latino",11936
+"2019-2020",13,"BASTROP COUNTY","Native Hawaiian/Other Pacific",13
+"2019-2020",13,"BASTROP COUNTY","Two or more races",526
+"2019-2020",13,"BASTROP COUNTY","White",4633
+"2019-2020",09,"BAYLOR COUNTY","Asian",2
+"2019-2020",09,"BAYLOR COUNTY","Black or African American",8
+"2019-2020",09,"BAYLOR COUNTY","Hispanic/Latino",126
+"2019-2020",09,"BAYLOR COUNTY","Two or more races",38
+"2019-2020",09,"BAYLOR COUNTY","White",405
+"2019-2020",02,"BEE COUNTY","American Indian or Alaska Nat",6
+"2019-2020",02,"BEE COUNTY","Asian",28
+"2019-2020",02,"BEE COUNTY","Black or African American",118
+"2019-2020",02,"BEE COUNTY","Hispanic/Latino",4332
+"2019-2020",02,"BEE COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",02,"BEE COUNTY","Two or more races",69
+"2019-2020",02,"BEE COUNTY","White",880
+"2019-2020",12,"BELL COUNTY","American Indian or Alaska Nat",352
+"2019-2020",12,"BELL COUNTY","Asian",1529
+"2019-2020",12,"BELL COUNTY","Black or African American",19395
+"2019-2020",12,"BELL COUNTY","Hispanic/Latino",24616
+"2019-2020",12,"BELL COUNTY","Native Hawaiian/Other Pacific",1048
+"2019-2020",12,"BELL COUNTY","Two or more races",4903
+"2019-2020",12,"BELL COUNTY","White",23941
+"2019-2020",13,"BELL COUNTY","American Indian or Alaska Nat",1
+"2019-2020",13,"BELL COUNTY","Black or African American",37
+"2019-2020",13,"BELL COUNTY","Hispanic/Latino",255
+"2019-2020",13,"BELL COUNTY","Two or more races",7
+"2019-2020",13,"BELL COUNTY","White",77
+"2019-2020",20,"BELL COUNTY","American Indian or Alaska Nat",6
+"2019-2020",20,"BELL COUNTY","Asian",2
+"2019-2020",20,"BELL COUNTY","Black or African American",269
+"2019-2020",20,"BELL COUNTY","Hispanic/Latino",1239
+"2019-2020",20,"BELL COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",20,"BELL COUNTY","Two or more races",29
+"2019-2020",20,"BELL COUNTY","White",375
+"2019-2020",20,"BEXAR COUNTY","American Indian or Alaska Nat",590
+"2019-2020",20,"BEXAR COUNTY","Asian",9497
+"2019-2020",20,"BEXAR COUNTY","Black or African American",25762
+"2019-2020",20,"BEXAR COUNTY","Hispanic/Latino",254444
+"2019-2020",20,"BEXAR COUNTY","Native Hawaiian/Other Pacific",570
+"2019-2020",20,"BEXAR COUNTY","Two or more races",8624
+"2019-2020",20,"BEXAR COUNTY","White",53867
+"2019-2020",13,"BLANCO COUNTY","American Indian or Alaska Nat",4
+"2019-2020",13,"BLANCO COUNTY","Asian",6
+"2019-2020",13,"BLANCO COUNTY","Black or African American",8
+"2019-2020",13,"BLANCO COUNTY","Hispanic/Latino",595
+"2019-2020",13,"BLANCO COUNTY","Two or more races",32
+"2019-2020",13,"BLANCO COUNTY","White",1033
+"2019-2020",17,"BORDEN COUNTY","American Indian or Alaska Nat",1
+"2019-2020",17,"BORDEN COUNTY","Black or African American",1
+"2019-2020",17,"BORDEN COUNTY","Hispanic/Latino",33
+"2019-2020",17,"BORDEN COUNTY","Two or more races",4
+"2019-2020",17,"BORDEN COUNTY","White",168
+"2019-2020",12,"BOSQUE COUNTY","American Indian or Alaska Nat",7
+"2019-2020",12,"BOSQUE COUNTY","Asian",20
+"2019-2020",12,"BOSQUE COUNTY","Black or African American",51
+"2019-2020",12,"BOSQUE COUNTY","Hispanic/Latino",954
+"2019-2020",12,"BOSQUE COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",12,"BOSQUE COUNTY","Two or more races",106
+"2019-2020",12,"BOSQUE COUNTY","White",1740
+"2019-2020",08,"BOWIE COUNTY","American Indian or Alaska Nat",82
+"2019-2020",08,"BOWIE COUNTY","Asian",211
+"2019-2020",08,"BOWIE COUNTY","Black or African American",5671
+"2019-2020",08,"BOWIE COUNTY","Hispanic/Latino",2383
+"2019-2020",08,"BOWIE COUNTY","Native Hawaiian/Other Pacific",34
+"2019-2020",08,"BOWIE COUNTY","Two or more races",1092
+"2019-2020",08,"BOWIE COUNTY","White",9473
+"2019-2020",04,"BRAZORIA COUNTY","American Indian or Alaska Nat",278
+"2019-2020",04,"BRAZORIA COUNTY","Asian",5192
+"2019-2020",04,"BRAZORIA COUNTY","Black or African American",11118
+"2019-2020",04,"BRAZORIA COUNTY","Hispanic/Latino",31001
+"2019-2020",04,"BRAZORIA COUNTY","Native Hawaiian/Other Pacific",54
+"2019-2020",04,"BRAZORIA COUNTY","Two or more races",2285
+"2019-2020",04,"BRAZORIA COUNTY","White",23814
+"2019-2020",06,"BRAZOS COUNTY","American Indian or Alaska Nat",103
+"2019-2020",06,"BRAZOS COUNTY","Asian",1054
+"2019-2020",06,"BRAZOS COUNTY","Black or African American",5526
+"2019-2020",06,"BRAZOS COUNTY","Hispanic/Latino",13180
+"2019-2020",06,"BRAZOS COUNTY","Native Hawaiian/Other Pacific",44
+"2019-2020",06,"BRAZOS COUNTY","Two or more races",856
+"2019-2020",06,"BRAZOS COUNTY","White",10499
+"2019-2020",18,"BREWSTER COUNTY","American Indian or Alaska Nat",5
+"2019-2020",18,"BREWSTER COUNTY","Asian",18
+"2019-2020",18,"BREWSTER COUNTY","Black or African American",10
+"2019-2020",18,"BREWSTER COUNTY","Hispanic/Latino",783
+"2019-2020",18,"BREWSTER COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",18,"BREWSTER COUNTY","Two or more races",14
+"2019-2020",18,"BREWSTER COUNTY","White",380
+"2019-2020",16,"BRISCOE COUNTY","Black or African American",1
+"2019-2020",16,"BRISCOE COUNTY","Hispanic/Latino",78
+"2019-2020",16,"BRISCOE COUNTY","White",105
+"2019-2020",01,"BROOKS COUNTY","American Indian or Alaska Nat",1
+"2019-2020",01,"BROOKS COUNTY","Asian",4
+"2019-2020",01,"BROOKS COUNTY","Black or African American",1
+"2019-2020",01,"BROOKS COUNTY","Hispanic/Latino",1479
+"2019-2020",01,"BROOKS COUNTY","White",21
+"2019-2020",15,"BROWN COUNTY","American Indian or Alaska Nat",18
+"2019-2020",15,"BROWN COUNTY","Asian",51
+"2019-2020",15,"BROWN COUNTY","Black or African American",239
+"2019-2020",15,"BROWN COUNTY","Hispanic/Latino",2161
+"2019-2020",15,"BROWN COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",15,"BROWN COUNTY","Two or more races",211
+"2019-2020",15,"BROWN COUNTY","White",3703
+"2019-2020",06,"BURLESON COUNTY","American Indian or Alaska Nat",9
+"2019-2020",06,"BURLESON COUNTY","Asian",11
+"2019-2020",06,"BURLESON COUNTY","Black or African American",376
+"2019-2020",06,"BURLESON COUNTY","Hispanic/Latino",994
+"2019-2020",06,"BURLESON COUNTY","Two or more races",110
+"2019-2020",06,"BURLESON COUNTY","White",1268
+"2019-2020",13,"BURNET COUNTY","American Indian or Alaska Nat",28
+"2019-2020",13,"BURNET COUNTY","Asian",63
+"2019-2020",13,"BURNET COUNTY","Black or African American",117
+"2019-2020",13,"BURNET COUNTY","Hispanic/Latino",3158
+"2019-2020",13,"BURNET COUNTY","Native Hawaiian/Other Pacific",15
+"2019-2020",13,"BURNET COUNTY","Two or more races",156
+"2019-2020",13,"BURNET COUNTY","White",4065
+"2019-2020",13,"CALDWELL COUNTY","American Indian or Alaska Nat",22
+"2019-2020",13,"CALDWELL COUNTY","Asian",24
+"2019-2020",13,"CALDWELL COUNTY","Black or African American",279
+"2019-2020",13,"CALDWELL COUNTY","Hispanic/Latino",5866
+"2019-2020",13,"CALDWELL COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",13,"CALDWELL COUNTY","Two or more races",119
+"2019-2020",13,"CALDWELL COUNTY","White",1485
+"2019-2020",03,"CALHOUN COUNTY","American Indian or Alaska Nat",9
+"2019-2020",03,"CALHOUN COUNTY","Asian",227
+"2019-2020",03,"CALHOUN COUNTY","Black or African American",63
+"2019-2020",03,"CALHOUN COUNTY","Hispanic/Latino",2554
+"2019-2020",03,"CALHOUN COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",03,"CALHOUN COUNTY","Two or more races",32
+"2019-2020",03,"CALHOUN COUNTY","White",954
+"2019-2020",14,"CALLAHAN COUNTY","American Indian or Alaska Nat",7
+"2019-2020",14,"CALLAHAN COUNTY","Asian",6
+"2019-2020",14,"CALLAHAN COUNTY","Black or African American",25
+"2019-2020",14,"CALLAHAN COUNTY","Hispanic/Latino",391
+"2019-2020",14,"CALLAHAN COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",14,"CALLAHAN COUNTY","Two or more races",63
+"2019-2020",14,"CALLAHAN COUNTY","White",2030
+"2019-2020",01,"CAMERON COUNTY","American Indian or Alaska Nat",48
+"2019-2020",01,"CAMERON COUNTY","Asian",533
+"2019-2020",01,"CAMERON COUNTY","Black or African American",229
+"2019-2020",01,"CAMERON COUNTY","Hispanic/Latino",91921
+"2019-2020",01,"CAMERON COUNTY","Native Hawaiian/Other Pacific",22
+"2019-2020",01,"CAMERON COUNTY","Two or more races",132
+"2019-2020",01,"CAMERON COUNTY","White",2420
+"2019-2020",08,"CAMP COUNTY","American Indian or Alaska Nat",4
+"2019-2020",08,"CAMP COUNTY","Asian",24
+"2019-2020",08,"CAMP COUNTY","Black or African American",425
+"2019-2020",08,"CAMP COUNTY","Hispanic/Latino",1003
+"2019-2020",08,"CAMP COUNTY","Two or more races",79
+"2019-2020",08,"CAMP COUNTY","White",906
+"2019-2020",16,"CARSON COUNTY","American Indian or Alaska Nat",6
+"2019-2020",16,"CARSON COUNTY","Asian",4
+"2019-2020",16,"CARSON COUNTY","Black or African American",6
+"2019-2020",16,"CARSON COUNTY","Hispanic/Latino",127
+"2019-2020",16,"CARSON COUNTY","Two or more races",12
+"2019-2020",16,"CARSON COUNTY","White",1033
+"2019-2020",08,"CASS COUNTY","American Indian or Alaska Nat",34
+"2019-2020",08,"CASS COUNTY","Asian",29
+"2019-2020",08,"CASS COUNTY","Black or African American",1029
+"2019-2020",08,"CASS COUNTY","Hispanic/Latino",432
+"2019-2020",08,"CASS COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",08,"CASS COUNTY","Two or more races",244
+"2019-2020",08,"CASS COUNTY","White",3770
+"2019-2020",16,"CASTRO COUNTY","American Indian or Alaska Nat",5
+"2019-2020",16,"CASTRO COUNTY","Asian",6
+"2019-2020",16,"CASTRO COUNTY","Black or African American",18
+"2019-2020",16,"CASTRO COUNTY","Hispanic/Latino",1327
+"2019-2020",16,"CASTRO COUNTY","Two or more races",5
+"2019-2020",16,"CASTRO COUNTY","White",327
+"2019-2020",04,"CHAMBERS COUNTY","American Indian or Alaska Nat",25
+"2019-2020",04,"CHAMBERS COUNTY","Asian",105
+"2019-2020",04,"CHAMBERS COUNTY","Black or African American",379
+"2019-2020",04,"CHAMBERS COUNTY","Hispanic/Latino",2047
+"2019-2020",04,"CHAMBERS COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",04,"CHAMBERS COUNTY","Two or more races",236
+"2019-2020",04,"CHAMBERS COUNTY","White",4807
+"2019-2020",05,"CHAMBERS COUNTY","American Indian or Alaska Nat",1
+"2019-2020",05,"CHAMBERS COUNTY","Asian",13
+"2019-2020",05,"CHAMBERS COUNTY","Black or African American",122
+"2019-2020",05,"CHAMBERS COUNTY","Hispanic/Latino",682
+"2019-2020",05,"CHAMBERS COUNTY","Two or more races",39
+"2019-2020",05,"CHAMBERS COUNTY","White",678
+"2019-2020",07,"CHEROKEE COUNTY","American Indian or Alaska Nat",26
+"2019-2020",07,"CHEROKEE COUNTY","Asian",38
+"2019-2020",07,"CHEROKEE COUNTY","Black or African American",1230
+"2019-2020",07,"CHEROKEE COUNTY","Hispanic/Latino",3693
+"2019-2020",07,"CHEROKEE COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",07,"CHEROKEE COUNTY","Two or more races",303
+"2019-2020",07,"CHEROKEE COUNTY","White",3167
+"2019-2020",16,"CHILDRESS COUNTY","American Indian or Alaska Nat",5
+"2019-2020",16,"CHILDRESS COUNTY","Asian",16
+"2019-2020",16,"CHILDRESS COUNTY","Black or African American",45
+"2019-2020",16,"CHILDRESS COUNTY","Hispanic/Latino",441
+"2019-2020",16,"CHILDRESS COUNTY","Two or more races",29
+"2019-2020",16,"CHILDRESS COUNTY","White",554
+"2019-2020",09,"CLAY COUNTY","American Indian or Alaska Nat",15
+"2019-2020",09,"CLAY COUNTY","Asian",6
+"2019-2020",09,"CLAY COUNTY","Black or African American",5
+"2019-2020",09,"CLAY COUNTY","Hispanic/Latino",160
+"2019-2020",09,"CLAY COUNTY","Two or more races",42
+"2019-2020",09,"CLAY COUNTY","White",1431
+"2019-2020",17,"COCHRAN COUNTY","American Indian or Alaska Nat",2
+"2019-2020",17,"COCHRAN COUNTY","Black or African American",6
+"2019-2020",17,"COCHRAN COUNTY","Hispanic/Latino",541
+"2019-2020",17,"COCHRAN COUNTY","Two or more races",10
+"2019-2020",17,"COCHRAN COUNTY","White",158
+"2019-2020",15,"COKE COUNTY","American Indian or Alaska Nat",1
+"2019-2020",15,"COKE COUNTY","Black or African American",3
+"2019-2020",15,"COKE COUNTY","Hispanic/Latino",176
+"2019-2020",15,"COKE COUNTY","Two or more races",7
+"2019-2020",15,"COKE COUNTY","White",327
+"2019-2020",15,"COLEMAN COUNTY","American Indian or Alaska Nat",4
+"2019-2020",15,"COLEMAN COUNTY","Asian",11
+"2019-2020",15,"COLEMAN COUNTY","Black or African American",29
+"2019-2020",15,"COLEMAN COUNTY","Hispanic/Latino",325
+"2019-2020",15,"COLEMAN COUNTY","Two or more races",43
+"2019-2020",15,"COLEMAN COUNTY","White",831
+"2019-2020",10,"COLLIN COUNTY","American Indian or Alaska Nat",991
+"2019-2020",10,"COLLIN COUNTY","Asian",43363
+"2019-2020",10,"COLLIN COUNTY","Black or African American",26565
+"2019-2020",10,"COLLIN COUNTY","Hispanic/Latino",46272
+"2019-2020",10,"COLLIN COUNTY","Native Hawaiian/Other Pacific",266
+"2019-2020",10,"COLLIN COUNTY","Two or more races",10036
+"2019-2020",10,"COLLIN COUNTY","White",95304
+"2019-2020",16,"COLLINGSWORTH COUNTY","Black or African American",16
+"2019-2020",16,"COLLINGSWORTH COUNTY","Hispanic/Latino",274
+"2019-2020",16,"COLLINGSWORTH COUNTY","Two or more races",11
+"2019-2020",16,"COLLINGSWORTH COUNTY","White",269
+"2019-2020",03,"COLORADO COUNTY","American Indian or Alaska Nat",6
+"2019-2020",03,"COLORADO COUNTY","Asian",21
+"2019-2020",03,"COLORADO COUNTY","Black or African American",447
+"2019-2020",03,"COLORADO COUNTY","Hispanic/Latino",1822
+"2019-2020",03,"COLORADO COUNTY","Two or more races",66
+"2019-2020",03,"COLORADO COUNTY","White",1206
+"2019-2020",13,"COMAL COUNTY","American Indian or Alaska Nat",26
+"2019-2020",13,"COMAL COUNTY","Asian",98
+"2019-2020",13,"COMAL COUNTY","Black or African American",176
+"2019-2020",13,"COMAL COUNTY","Hispanic/Latino",4526
+"2019-2020",13,"COMAL COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",13,"COMAL COUNTY","Two or more races",279
+"2019-2020",13,"COMAL COUNTY","White",4433
+"2019-2020",20,"COMAL COUNTY","American Indian or Alaska Nat",53
+"2019-2020",20,"COMAL COUNTY","Asian",344
+"2019-2020",20,"COMAL COUNTY","Black or African American",706
+"2019-2020",20,"COMAL COUNTY","Hispanic/Latino",10188
+"2019-2020",20,"COMAL COUNTY","Native Hawaiian/Other Pacific",34
+"2019-2020",20,"COMAL COUNTY","Two or more races",919
+"2019-2020",20,"COMAL COUNTY","White",13253
+"2019-2020",14,"COMANCHE COUNTY","American Indian or Alaska Nat",7
+"2019-2020",14,"COMANCHE COUNTY","Asian",7
+"2019-2020",14,"COMANCHE COUNTY","Black or African American",15
+"2019-2020",14,"COMANCHE COUNTY","Hispanic/Latino",1096
+"2019-2020",14,"COMANCHE COUNTY","Two or more races",39
+"2019-2020",14,"COMANCHE COUNTY","White",1274
+"2019-2020",15,"CONCHO COUNTY","Asian",7
+"2019-2020",15,"CONCHO COUNTY","Black or African American",2
+"2019-2020",15,"CONCHO COUNTY","Hispanic/Latino",257
+"2019-2020",15,"CONCHO COUNTY","Two or more races",8
+"2019-2020",15,"CONCHO COUNTY","White",183
+"2019-2020",11,"COOKE COUNTY","American Indian or Alaska Nat",45
+"2019-2020",11,"COOKE COUNTY","Asian",40
+"2019-2020",11,"COOKE COUNTY","Black or African American",199
+"2019-2020",11,"COOKE COUNTY","Hispanic/Latino",2337
+"2019-2020",11,"COOKE COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",11,"COOKE COUNTY","Two or more races",211
+"2019-2020",11,"COOKE COUNTY","White",3939
+"2019-2020",12,"CORYELL COUNTY","American Indian or Alaska Nat",53
+"2019-2020",12,"CORYELL COUNTY","Asian",144
+"2019-2020",12,"CORYELL COUNTY","Black or African American",1636
+"2019-2020",12,"CORYELL COUNTY","Hispanic/Latino",3151
+"2019-2020",12,"CORYELL COUNTY","Native Hawaiian/Other Pacific",220
+"2019-2020",12,"CORYELL COUNTY","Two or more races",1019
+"2019-2020",12,"CORYELL COUNTY","White",5805
+"2019-2020",17,"COTTLE COUNTY","American Indian or Alaska Nat",2
+"2019-2020",17,"COTTLE COUNTY","Black or African American",22
+"2019-2020",17,"COTTLE COUNTY","Hispanic/Latino",94
+"2019-2020",17,"COTTLE COUNTY","Two or more races",6
+"2019-2020",17,"COTTLE COUNTY","White",76
+"2019-2020",18,"CRANE COUNTY","American Indian or Alaska Nat",2
+"2019-2020",18,"CRANE COUNTY","Asian",7
+"2019-2020",18,"CRANE COUNTY","Black or African American",21
+"2019-2020",18,"CRANE COUNTY","Hispanic/Latino",926
+"2019-2020",18,"CRANE COUNTY","Two or more races",5
+"2019-2020",18,"CRANE COUNTY","White",213
+"2019-2020",15,"CROCKETT COUNTY","American Indian or Alaska Nat",7
+"2019-2020",15,"CROCKETT COUNTY","Asian",4
+"2019-2020",15,"CROCKETT COUNTY","Black or African American",3
+"2019-2020",15,"CROCKETT COUNTY","Hispanic/Latino",612
+"2019-2020",15,"CROCKETT COUNTY","Two or more races",3
+"2019-2020",15,"CROCKETT COUNTY","White",182
+"2019-2020",17,"CROSBY COUNTY","Asian",2
+"2019-2020",17,"CROSBY COUNTY","Black or African American",30
+"2019-2020",17,"CROSBY COUNTY","Hispanic/Latino",820
+"2019-2020",17,"CROSBY COUNTY","Two or more races",9
+"2019-2020",17,"CROSBY COUNTY","White",210
+"2019-2020",18,"CULBERSON COUNTY","American Indian or Alaska Nat",3
+"2019-2020",18,"CULBERSON COUNTY","Asian",6
+"2019-2020",18,"CULBERSON COUNTY","Black or African American",1
+"2019-2020",18,"CULBERSON COUNTY","Hispanic/Latino",331
+"2019-2020",18,"CULBERSON COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",18,"CULBERSON COUNTY","Two or more races",1
+"2019-2020",18,"CULBERSON COUNTY","White",43
+"2019-2020",16,"DALLAM COUNTY","American Indian or Alaska Nat",8
+"2019-2020",16,"DALLAM COUNTY","Asian",4
+"2019-2020",16,"DALLAM COUNTY","Black or African American",23
+"2019-2020",16,"DALLAM COUNTY","Hispanic/Latino",1167
+"2019-2020",16,"DALLAM COUNTY","Two or more races",22
+"2019-2020",16,"DALLAM COUNTY","White",658
+"2019-2020",10,"DALLAS COUNTY","American Indian or Alaska Nat",3396
+"2019-2020",10,"DALLAS COUNTY","Asian",27374
+"2019-2020",10,"DALLAS COUNTY","Black or African American",119517
+"2019-2020",10,"DALLAS COUNTY","Hispanic/Latino",292260
+"2019-2020",10,"DALLAS COUNTY","Native Hawaiian/Other Pacific",426
+"2019-2020",10,"DALLAS COUNTY","Two or more races",10058
+"2019-2020",10,"DALLAS COUNTY","White",62102
+"2019-2020",17,"DAWSON COUNTY","American Indian or Alaska Nat",7
+"2019-2020",17,"DAWSON COUNTY","Asian",13
+"2019-2020",17,"DAWSON COUNTY","Black or African American",64
+"2019-2020",17,"DAWSON COUNTY","Hispanic/Latino",1788
+"2019-2020",17,"DAWSON COUNTY","Two or more races",26
+"2019-2020",17,"DAWSON COUNTY","White",580
+"2019-2020",16,"DEAF SMITH COUNTY","American Indian or Alaska Nat",6
+"2019-2020",16,"DEAF SMITH COUNTY","Asian",13
+"2019-2020",16,"DEAF SMITH COUNTY","Black or African American",22
+"2019-2020",16,"DEAF SMITH COUNTY","Hispanic/Latino",3733
+"2019-2020",16,"DEAF SMITH COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",16,"DEAF SMITH COUNTY","Two or more races",13
+"2019-2020",16,"DEAF SMITH COUNTY","White",397
+"2019-2020",08,"DELTA COUNTY","American Indian or Alaska Nat",7
+"2019-2020",08,"DELTA COUNTY","Asian",6
+"2019-2020",08,"DELTA COUNTY","Black or African American",126
+"2019-2020",08,"DELTA COUNTY","Hispanic/Latino",121
+"2019-2020",08,"DELTA COUNTY","Two or more races",41
+"2019-2020",08,"DELTA COUNTY","White",621
+"2019-2020",10,"DENTON COUNTY","American Indian or Alaska Nat",7
+"2019-2020",10,"DENTON COUNTY","Asian",397
+"2019-2020",10,"DENTON COUNTY","Black or African American",144
+"2019-2020",10,"DENTON COUNTY","Hispanic/Latino",293
+"2019-2020",10,"DENTON COUNTY","Two or more races",42
+"2019-2020",10,"DENTON COUNTY","White",400
+"2019-2020",11,"DENTON COUNTY","American Indian or Alaska Nat",660
+"2019-2020",11,"DENTON COUNTY","Asian",10771
+"2019-2020",11,"DENTON COUNTY","Black or African American",16017
+"2019-2020",11,"DENTON COUNTY","Hispanic/Latino",39647
+"2019-2020",11,"DENTON COUNTY","Native Hawaiian/Other Pacific",219
+"2019-2020",11,"DENTON COUNTY","Two or more races",4078
+"2019-2020",11,"DENTON COUNTY","White",63761
+"2019-2020",03,"DEWITT COUNTY","American Indian or Alaska Nat",4
+"2019-2020",03,"DEWITT COUNTY","Asian",10
+"2019-2020",03,"DEWITT COUNTY","Black or African American",314
+"2019-2020",03,"DEWITT COUNTY","Hispanic/Latino",2432
+"2019-2020",03,"DEWITT COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",03,"DEWITT COUNTY","Two or more races",69
+"2019-2020",03,"DEWITT COUNTY","White",1649
+"2019-2020",17,"DICKENS COUNTY","Black or African American",8
+"2019-2020",17,"DICKENS COUNTY","Hispanic/Latino",152
+"2019-2020",17,"DICKENS COUNTY","Two or more races",8
+"2019-2020",17,"DICKENS COUNTY","White",177
+"2019-2020",20,"DIMMIT COUNTY","Asian",7
+"2019-2020",20,"DIMMIT COUNTY","Black or African American",8
+"2019-2020",20,"DIMMIT COUNTY","Hispanic/Latino",2019
+"2019-2020",20,"DIMMIT COUNTY","Two or more races",10
+"2019-2020",20,"DIMMIT COUNTY","White",89
+"2019-2020",16,"DONLEY COUNTY","Asian",1
+"2019-2020",16,"DONLEY COUNTY","Black or African American",55
+"2019-2020",16,"DONLEY COUNTY","Hispanic/Latino",93
+"2019-2020",16,"DONLEY COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",16,"DONLEY COUNTY","Two or more races",19
+"2019-2020",16,"DONLEY COUNTY","White",397
+"2019-2020",02,"DUVAL COUNTY","American Indian or Alaska Nat",1
+"2019-2020",02,"DUVAL COUNTY","Asian",5
+"2019-2020",02,"DUVAL COUNTY","Black or African American",5
+"2019-2020",02,"DUVAL COUNTY","Hispanic/Latino",2562
+"2019-2020",02,"DUVAL COUNTY","Two or more races",2
+"2019-2020",02,"DUVAL COUNTY","White",74
+"2019-2020",14,"EASTLAND COUNTY","American Indian or Alaska Nat",12
+"2019-2020",14,"EASTLAND COUNTY","Asian",20
+"2019-2020",14,"EASTLAND COUNTY","Black or African American",42
+"2019-2020",14,"EASTLAND COUNTY","Hispanic/Latino",697
+"2019-2020",14,"EASTLAND COUNTY","Two or more races",43
+"2019-2020",14,"EASTLAND COUNTY","White",1990
+"2019-2020",18,"ECTOR COUNTY","American Indian or Alaska Nat",88
+"2019-2020",18,"ECTOR COUNTY","Asian",317
+"2019-2020",18,"ECTOR COUNTY","Black or African American",1338
+"2019-2020",18,"ECTOR COUNTY","Hispanic/Latino",26918
+"2019-2020",18,"ECTOR COUNTY","Native Hawaiian/Other Pacific",101
+"2019-2020",18,"ECTOR COUNTY","Two or more races",423
+"2019-2020",18,"ECTOR COUNTY","White",6640
+"2019-2020",15,"EDWARDS COUNTY","Black or African American",1
+"2019-2020",15,"EDWARDS COUNTY","Hispanic/Latino",350
+"2019-2020",15,"EDWARDS COUNTY","Two or more races",6
+"2019-2020",15,"EDWARDS COUNTY","White",226
+"2019-2020",19,"EL PASO COUNTY","American Indian or Alaska Nat",293
+"2019-2020",19,"EL PASO COUNTY","Asian",1152
+"2019-2020",19,"EL PASO COUNTY","Black or African American",3909
+"2019-2020",19,"EL PASO COUNTY","Hispanic/Latino",157225
+"2019-2020",19,"EL PASO COUNTY","Native Hawaiian/Other Pacific",390
+"2019-2020",19,"EL PASO COUNTY","Two or more races",1708
+"2019-2020",19,"EL PASO COUNTY","White",9499
+"2019-2020",10,"ELLIS COUNTY","American Indian or Alaska Nat",170
+"2019-2020",10,"ELLIS COUNTY","Asian",245
+"2019-2020",10,"ELLIS COUNTY","Black or African American",5526
+"2019-2020",10,"ELLIS COUNTY","Hispanic/Latino",15862
+"2019-2020",10,"ELLIS COUNTY","Native Hawaiian/Other Pacific",56
+"2019-2020",10,"ELLIS COUNTY","Two or more races",1228
+"2019-2020",10,"ELLIS COUNTY","White",17177
+"2019-2020",11,"ERATH COUNTY","American Indian or Alaska Nat",44
+"2019-2020",11,"ERATH COUNTY","Asian",97
+"2019-2020",11,"ERATH COUNTY","Black or African American",664
+"2019-2020",11,"ERATH COUNTY","Hispanic/Latino",5258
+"2019-2020",11,"ERATH COUNTY","Native Hawaiian/Other Pacific",6
+"2019-2020",11,"ERATH COUNTY","Two or more races",270
+"2019-2020",11,"ERATH COUNTY","White",5174
+"2019-2020",12,"FALLS COUNTY","American Indian or Alaska Nat",3
+"2019-2020",12,"FALLS COUNTY","Asian",6
+"2019-2020",12,"FALLS COUNTY","Black or African American",700
+"2019-2020",12,"FALLS COUNTY","Hispanic/Latino",886
+"2019-2020",12,"FALLS COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",12,"FALLS COUNTY","Two or more races",80
+"2019-2020",12,"FALLS COUNTY","White",622
+"2019-2020",08,"FANNIN COUNTY","American Indian or Alaska Nat",2
+"2019-2020",08,"FANNIN COUNTY","Asian",1
+"2019-2020",08,"FANNIN COUNTY","Black or African American",57
+"2019-2020",08,"FANNIN COUNTY","Hispanic/Latino",135
+"2019-2020",08,"FANNIN COUNTY","Two or more races",37
+"2019-2020",08,"FANNIN COUNTY","White",405
+"2019-2020",10,"FANNIN COUNTY","American Indian or Alaska Nat",36
+"2019-2020",10,"FANNIN COUNTY","Asian",17
+"2019-2020",10,"FANNIN COUNTY","Black or African American",159
+"2019-2020",10,"FANNIN COUNTY","Hispanic/Latino",990
+"2019-2020",10,"FANNIN COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",10,"FANNIN COUNTY","Two or more races",245
+"2019-2020",10,"FANNIN COUNTY","White",3471
+"2019-2020",13,"FAYETTE COUNTY","American Indian or Alaska Nat",9
+"2019-2020",13,"FAYETTE COUNTY","Asian",13
+"2019-2020",13,"FAYETTE COUNTY","Black or African American",308
+"2019-2020",13,"FAYETTE COUNTY","Hispanic/Latino",1478
+"2019-2020",13,"FAYETTE COUNTY","Two or more races",102
+"2019-2020",13,"FAYETTE COUNTY","White",1897
+"2019-2020",14,"FISHER COUNTY","American Indian or Alaska Nat",1
+"2019-2020",14,"FISHER COUNTY","Black or African American",13
+"2019-2020",14,"FISHER COUNTY","Hispanic/Latino",233
+"2019-2020",14,"FISHER COUNTY","Two or more races",15
+"2019-2020",14,"FISHER COUNTY","White",297
+"2019-2020",17,"FLOYD COUNTY","Asian",2
+"2019-2020",17,"FLOYD COUNTY","Black or African American",33
+"2019-2020",17,"FLOYD COUNTY","Hispanic/Latino",933
+"2019-2020",17,"FLOYD COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",17,"FLOYD COUNTY","Two or more races",8
+"2019-2020",17,"FLOYD COUNTY","White",174
+"2019-2020",09,"FOARD COUNTY","Asian",2
+"2019-2020",09,"FOARD COUNTY","Black or African American",6
+"2019-2020",09,"FOARD COUNTY","Hispanic/Latino",100
+"2019-2020",09,"FOARD COUNTY","Two or more races",10
+"2019-2020",09,"FOARD COUNTY","White",112
+"2019-2020",04,"FORT BEND COUNTY","American Indian or Alaska Nat",406
+"2019-2020",04,"FORT BEND COUNTY","Asian",23271
+"2019-2020",04,"FORT BEND COUNTY","Black or African American",29663
+"2019-2020",04,"FORT BEND COUNTY","Hispanic/Latino",38998
+"2019-2020",04,"FORT BEND COUNTY","Native Hawaiian/Other Pacific",175
+"2019-2020",04,"FORT BEND COUNTY","Two or more races",3829
+"2019-2020",04,"FORT BEND COUNTY","White",23413
+"2019-2020",08,"FRANKLIN COUNTY","American Indian or Alaska Nat",6
+"2019-2020",08,"FRANKLIN COUNTY","Asian",16
+"2019-2020",08,"FRANKLIN COUNTY","Black or African American",87
+"2019-2020",08,"FRANKLIN COUNTY","Hispanic/Latino",387
+"2019-2020",08,"FRANKLIN COUNTY","Two or more races",51
+"2019-2020",08,"FRANKLIN COUNTY","White",1031
+"2019-2020",12,"FREESTONE COUNTY","American Indian or Alaska Nat",9
+"2019-2020",12,"FREESTONE COUNTY","Asian",24
+"2019-2020",12,"FREESTONE COUNTY","Black or African American",440
+"2019-2020",12,"FREESTONE COUNTY","Hispanic/Latino",942
+"2019-2020",12,"FREESTONE COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",12,"FREESTONE COUNTY","Two or more races",131
+"2019-2020",12,"FREESTONE COUNTY","White",2079
+"2019-2020",20,"FRIO COUNTY","American Indian or Alaska Nat",2
+"2019-2020",20,"FRIO COUNTY","Asian",7
+"2019-2020",20,"FRIO COUNTY","Black or African American",10
+"2019-2020",20,"FRIO COUNTY","Hispanic/Latino",2931
+"2019-2020",20,"FRIO COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",20,"FRIO COUNTY","Two or more races",5
+"2019-2020",20,"FRIO COUNTY","White",200
+"2019-2020",17,"GAINES COUNTY","American Indian or Alaska Nat",8
+"2019-2020",17,"GAINES COUNTY","Asian",14
+"2019-2020",17,"GAINES COUNTY","Black or African American",58
+"2019-2020",17,"GAINES COUNTY","Hispanic/Latino",2065
+"2019-2020",17,"GAINES COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",17,"GAINES COUNTY","Two or more races",27
+"2019-2020",17,"GAINES COUNTY","White",1574
+"2019-2020",04,"GALVESTON COUNTY","American Indian or Alaska Nat",317
+"2019-2020",04,"GALVESTON COUNTY","Asian",4789
+"2019-2020",04,"GALVESTON COUNTY","Black or African American",10787
+"2019-2020",04,"GALVESTON COUNTY","Hispanic/Latino",29574
+"2019-2020",04,"GALVESTON COUNTY","Native Hawaiian/Other Pacific",122
+"2019-2020",04,"GALVESTON COUNTY","Two or more races",3015
+"2019-2020",04,"GALVESTON COUNTY","White",34939
+"2019-2020",05,"GALVESTON COUNTY","American Indian or Alaska Nat",4
+"2019-2020",05,"GALVESTON COUNTY","Asian",4
+"2019-2020",05,"GALVESTON COUNTY","Black or African American",1
+"2019-2020",05,"GALVESTON COUNTY","Hispanic/Latino",18
+"2019-2020",05,"GALVESTON COUNTY","Two or more races",7
+"2019-2020",05,"GALVESTON COUNTY","White",137
+"2019-2020",17,"GARZA COUNTY","American Indian or Alaska Nat",10
+"2019-2020",17,"GARZA COUNTY","Asian",2
+"2019-2020",17,"GARZA COUNTY","Black or African American",52
+"2019-2020",17,"GARZA COUNTY","Hispanic/Latino",560
+"2019-2020",17,"GARZA COUNTY","Two or more races",33
+"2019-2020",17,"GARZA COUNTY","White",287
+"2019-2020",13,"GILLESPIE COUNTY","American Indian or Alaska Nat",6
+"2019-2020",13,"GILLESPIE COUNTY","Asian",17
+"2019-2020",13,"GILLESPIE COUNTY","Black or African American",11
+"2019-2020",13,"GILLESPIE COUNTY","Hispanic/Latino",1679
+"2019-2020",13,"GILLESPIE COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",13,"GILLESPIE COUNTY","Two or more races",41
+"2019-2020",13,"GILLESPIE COUNTY","White",2022
+"2019-2020",18,"GLASSCOCK COUNTY","Hispanic/Latino",138
+"2019-2020",18,"GLASSCOCK COUNTY","White",168
+"2019-2020",03,"GOLIAD COUNTY","American Indian or Alaska Nat",6
+"2019-2020",03,"GOLIAD COUNTY","Asian",4
+"2019-2020",03,"GOLIAD COUNTY","Black or African American",56
+"2019-2020",03,"GOLIAD COUNTY","Hispanic/Latino",617
+"2019-2020",03,"GOLIAD COUNTY","Two or more races",28
+"2019-2020",03,"GOLIAD COUNTY","White",608
+"2019-2020",13,"GONZALES COUNTY","American Indian or Alaska Nat",5
+"2019-2020",13,"GONZALES COUNTY","Asian",5
+"2019-2020",13,"GONZALES COUNTY","Black or African American",263
+"2019-2020",13,"GONZALES COUNTY","Hispanic/Latino",2975
+"2019-2020",13,"GONZALES COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",13,"GONZALES COUNTY","Two or more races",28
+"2019-2020",13,"GONZALES COUNTY","White",959
+"2019-2020",16,"GRAY COUNTY","American Indian or Alaska Nat",14
+"2019-2020",16,"GRAY COUNTY","Asian",25
+"2019-2020",16,"GRAY COUNTY","Black or African American",114
+"2019-2020",16,"GRAY COUNTY","Hispanic/Latino",1774
+"2019-2020",16,"GRAY COUNTY","Two or more races",120
+"2019-2020",16,"GRAY COUNTY","White",1947
+"2019-2020",10,"GRAYSON COUNTY","American Indian or Alaska Nat",316
+"2019-2020",10,"GRAYSON COUNTY","Asian",323
+"2019-2020",10,"GRAYSON COUNTY","Black or African American",1581
+"2019-2020",10,"GRAYSON COUNTY","Hispanic/Latino",5972
+"2019-2020",10,"GRAYSON COUNTY","Native Hawaiian/Other Pacific",19
+"2019-2020",10,"GRAYSON COUNTY","Two or more races",1341
+"2019-2020",10,"GRAYSON COUNTY","White",14378
+"2019-2020",07,"GREGG COUNTY","American Indian or Alaska Nat",116
+"2019-2020",07,"GREGG COUNTY","Asian",253
+"2019-2020",07,"GREGG COUNTY","Black or African American",5402
+"2019-2020",07,"GREGG COUNTY","Hispanic/Latino",7707
+"2019-2020",07,"GREGG COUNTY","Native Hawaiian/Other Pacific",32
+"2019-2020",07,"GREGG COUNTY","Two or more races",1115
+"2019-2020",07,"GREGG COUNTY","White",9663
+"2019-2020",06,"GRIMES COUNTY","American Indian or Alaska Nat",21
+"2019-2020",06,"GRIMES COUNTY","Asian",14
+"2019-2020",06,"GRIMES COUNTY","Black or African American",676
+"2019-2020",06,"GRIMES COUNTY","Hispanic/Latino",1681
+"2019-2020",06,"GRIMES COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",06,"GRIMES COUNTY","Two or more races",78
+"2019-2020",06,"GRIMES COUNTY","White",2157
+"2019-2020",20,"GUADALUPE COUNTY","American Indian or Alaska Nat",74
+"2019-2020",20,"GUADALUPE COUNTY","Asian",353
+"2019-2020",20,"GUADALUPE COUNTY","Black or African American",2194
+"2019-2020",20,"GUADALUPE COUNTY","Hispanic/Latino",13433
+"2019-2020",20,"GUADALUPE COUNTY","Native Hawaiian/Other Pacific",62
+"2019-2020",20,"GUADALUPE COUNTY","Two or more races",1273
+"2019-2020",20,"GUADALUPE COUNTY","White",9291
+"2019-2020",17,"HALE COUNTY","American Indian or Alaska Nat",22
+"2019-2020",17,"HALE COUNTY","Asian",13
+"2019-2020",17,"HALE COUNTY","Black or African American",250
+"2019-2020",17,"HALE COUNTY","Hispanic/Latino",5265
+"2019-2020",17,"HALE COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",17,"HALE COUNTY","Two or more races",84
+"2019-2020",17,"HALE COUNTY","White",1456
+"2019-2020",16,"HALL COUNTY","American Indian or Alaska Nat",1
+"2019-2020",16,"HALL COUNTY","Asian",1
+"2019-2020",16,"HALL COUNTY","Black or African American",42
+"2019-2020",16,"HALL COUNTY","Hispanic/Latino",330
+"2019-2020",16,"HALL COUNTY","Two or more races",10
+"2019-2020",16,"HALL COUNTY","White",281
+"2019-2020",12,"HAMILTON COUNTY","American Indian or Alaska Nat",1
+"2019-2020",12,"HAMILTON COUNTY","Asian",2
+"2019-2020",12,"HAMILTON COUNTY","Black or African American",8
+"2019-2020",12,"HAMILTON COUNTY","Hispanic/Latino",306
+"2019-2020",12,"HAMILTON COUNTY","Two or more races",16
+"2019-2020",12,"HAMILTON COUNTY","White",1052
+"2019-2020",16,"HANSFORD COUNTY","American Indian or Alaska Nat",4
+"2019-2020",16,"HANSFORD COUNTY","Asian",6
+"2019-2020",16,"HANSFORD COUNTY","Black or African American",1
+"2019-2020",16,"HANSFORD COUNTY","Hispanic/Latino",848
+"2019-2020",16,"HANSFORD COUNTY","Two or more races",8
+"2019-2020",16,"HANSFORD COUNTY","White",530
+"2019-2020",09,"HARDEMAN COUNTY","American Indian or Alaska Nat",4
+"2019-2020",09,"HARDEMAN COUNTY","Asian",5
+"2019-2020",09,"HARDEMAN COUNTY","Black or African American",14
+"2019-2020",09,"HARDEMAN COUNTY","Hispanic/Latino",271
+"2019-2020",09,"HARDEMAN COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",09,"HARDEMAN COUNTY","Two or more races",32
+"2019-2020",09,"HARDEMAN COUNTY","White",399
+"2019-2020",05,"HARDIN COUNTY","American Indian or Alaska Nat",58
+"2019-2020",05,"HARDIN COUNTY","Asian",76
+"2019-2020",05,"HARDIN COUNTY","Black or African American",962
+"2019-2020",05,"HARDIN COUNTY","Hispanic/Latino",1016
+"2019-2020",05,"HARDIN COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",05,"HARDIN COUNTY","Two or more races",352
+"2019-2020",05,"HARDIN COUNTY","White",8764
+"2019-2020",04,"HARRIS COUNTY","American Indian or Alaska Nat",3886
+"2019-2020",04,"HARRIS COUNTY","Asian",54143
+"2019-2020",04,"HARRIS COUNTY","Black or African American",167498
+"2019-2020",04,"HARRIS COUNTY","Hispanic/Latino",508252
+"2019-2020",04,"HARRIS COUNTY","Native Hawaiian/Other Pacific",1125
+"2019-2020",04,"HARRIS COUNTY","Two or more races",16663
+"2019-2020",04,"HARRIS COUNTY","White",155145
+"2019-2020",07,"HARRISON COUNTY","American Indian or Alaska Nat",68
+"2019-2020",07,"HARRISON COUNTY","Asian",175
+"2019-2020",07,"HARRISON COUNTY","Black or African American",3550
+"2019-2020",07,"HARRISON COUNTY","Hispanic/Latino",5677
+"2019-2020",07,"HARRISON COUNTY","Native Hawaiian/Other Pacific",21
+"2019-2020",07,"HARRISON COUNTY","Two or more races",867
+"2019-2020",07,"HARRISON COUNTY","White",9053
+"2019-2020",16,"HARTLEY COUNTY","Black or African American",2
+"2019-2020",16,"HARTLEY COUNTY","Hispanic/Latino",214
+"2019-2020",16,"HARTLEY COUNTY","Two or more races",6
+"2019-2020",16,"HARTLEY COUNTY","White",185
+"2019-2020",14,"HASKELL COUNTY","American Indian or Alaska Nat",8
+"2019-2020",14,"HASKELL COUNTY","Asian",3
+"2019-2020",14,"HASKELL COUNTY","Black or African American",24
+"2019-2020",14,"HASKELL COUNTY","Hispanic/Latino",334
+"2019-2020",14,"HASKELL COUNTY","Two or more races",25
+"2019-2020",14,"HASKELL COUNTY","White",421
+"2019-2020",13,"HAYS COUNTY","American Indian or Alaska Nat",87
+"2019-2020",13,"HAYS COUNTY","Asian",420
+"2019-2020",13,"HAYS COUNTY","Black or African American",1183
+"2019-2020",13,"HAYS COUNTY","Hispanic/Latino",21649
+"2019-2020",13,"HAYS COUNTY","Native Hawaiian/Other Pacific",32
+"2019-2020",13,"HAYS COUNTY","Two or more races",1055
+"2019-2020",13,"HAYS COUNTY","White",14856
+"2019-2020",16,"HEMPHILL COUNTY","American Indian or Alaska Nat",3
+"2019-2020",16,"HEMPHILL COUNTY","Asian",4
+"2019-2020",16,"HEMPHILL COUNTY","Black or African American",1
+"2019-2020",16,"HEMPHILL COUNTY","Hispanic/Latino",418
+"2019-2020",16,"HEMPHILL COUNTY","Two or more races",4
+"2019-2020",16,"HEMPHILL COUNTY","White",452
+"2019-2020",07,"HENDERSON COUNTY","American Indian or Alaska Nat",24
+"2019-2020",07,"HENDERSON COUNTY","Asian",15
+"2019-2020",07,"HENDERSON COUNTY","Black or African American",430
+"2019-2020",07,"HENDERSON COUNTY","Hispanic/Latino",1067
+"2019-2020",07,"HENDERSON COUNTY","Native Hawaiian/Other Pacific",11
+"2019-2020",07,"HENDERSON COUNTY","Two or more races",220
+"2019-2020",07,"HENDERSON COUNTY","White",5347
+"2019-2020",10,"HENDERSON COUNTY","American Indian or Alaska Nat",5
+"2019-2020",10,"HENDERSON COUNTY","Asian",29
+"2019-2020",10,"HENDERSON COUNTY","Black or African American",387
+"2019-2020",10,"HENDERSON COUNTY","Hispanic/Latino",1524
+"2019-2020",10,"HENDERSON COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",10,"HENDERSON COUNTY","Two or more races",143
+"2019-2020",10,"HENDERSON COUNTY","White",1047
+"2019-2020",01,"HIDALGO COUNTY","American Indian or Alaska Nat",106
+"2019-2020",01,"HIDALGO COUNTY","Asian",1164
+"2019-2020",01,"HIDALGO COUNTY","Black or African American",2675
+"2019-2020",01,"HIDALGO COUNTY","Hispanic/Latino",240639
+"2019-2020",01,"HIDALGO COUNTY","Native Hawaiian/Other Pacific",48
+"2019-2020",01,"HIDALGO COUNTY","Two or more races",601
+"2019-2020",01,"HIDALGO COUNTY","White",4957
+"2019-2020",12,"HILL COUNTY","American Indian or Alaska Nat",21
+"2019-2020",12,"HILL COUNTY","Asian",24
+"2019-2020",12,"HILL COUNTY","Black or African American",445
+"2019-2020",12,"HILL COUNTY","Hispanic/Latino",2341
+"2019-2020",12,"HILL COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",12,"HILL COUNTY","Two or more races",221
+"2019-2020",12,"HILL COUNTY","White",3559
+"2019-2020",17,"HOCKLEY COUNTY","American Indian or Alaska Nat",8
+"2019-2020",17,"HOCKLEY COUNTY","Asian",11
+"2019-2020",17,"HOCKLEY COUNTY","Black or African American",120
+"2019-2020",17,"HOCKLEY COUNTY","Hispanic/Latino",3051
+"2019-2020",17,"HOCKLEY COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",17,"HOCKLEY COUNTY","Two or more races",45
+"2019-2020",17,"HOCKLEY COUNTY","White",1575
+"2019-2020",11,"HOOD COUNTY","American Indian or Alaska Nat",36
+"2019-2020",11,"HOOD COUNTY","Asian",74
+"2019-2020",11,"HOOD COUNTY","Black or African American",133
+"2019-2020",11,"HOOD COUNTY","Hispanic/Latino",2017
+"2019-2020",11,"HOOD COUNTY","Native Hawaiian/Other Pacific",22
+"2019-2020",11,"HOOD COUNTY","Two or more races",208
+"2019-2020",11,"HOOD COUNTY","White",6313
+"2019-2020",08,"HOPKINS COUNTY","American Indian or Alaska Nat",24
+"2019-2020",08,"HOPKINS COUNTY","Asian",47
+"2019-2020",08,"HOPKINS COUNTY","Black or African American",488
+"2019-2020",08,"HOPKINS COUNTY","Hispanic/Latino",1927
+"2019-2020",08,"HOPKINS COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",08,"HOPKINS COUNTY","Two or more races",271
+"2019-2020",08,"HOPKINS COUNTY","White",4163
+"2019-2020",06,"HOUSTON COUNTY","American Indian or Alaska Nat",5
+"2019-2020",06,"HOUSTON COUNTY","Asian",22
+"2019-2020",06,"HOUSTON COUNTY","Black or African American",856
+"2019-2020",06,"HOUSTON COUNTY","Hispanic/Latino",622
+"2019-2020",06,"HOUSTON COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",06,"HOUSTON COUNTY","Two or more races",96
+"2019-2020",06,"HOUSTON COUNTY","White",1524
+"2019-2020",18,"HOWARD COUNTY","American Indian or Alaska Nat",13
+"2019-2020",18,"HOWARD COUNTY","Asian",53
+"2019-2020",18,"HOWARD COUNTY","Black or African American",257
+"2019-2020",18,"HOWARD COUNTY","Hispanic/Latino",3273
+"2019-2020",18,"HOWARD COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",18,"HOWARD COUNTY","Two or more races",150
+"2019-2020",18,"HOWARD COUNTY","White",2148
+"2019-2020",19,"HUDSPETH COUNTY","Asian",2
+"2019-2020",19,"HUDSPETH COUNTY","Black or African American",7
+"2019-2020",19,"HUDSPETH COUNTY","Hispanic/Latino",501
+"2019-2020",19,"HUDSPETH COUNTY","Two or more races",6
+"2019-2020",19,"HUDSPETH COUNTY","White",60
+"2019-2020",10,"HUNT COUNTY","American Indian or Alaska Nat",86
+"2019-2020",10,"HUNT COUNTY","Asian",102
+"2019-2020",10,"HUNT COUNTY","Black or African American",1359
+"2019-2020",10,"HUNT COUNTY","Hispanic/Latino",4758
+"2019-2020",10,"HUNT COUNTY","Native Hawaiian/Other Pacific",34
+"2019-2020",10,"HUNT COUNTY","Two or more races",564
+"2019-2020",10,"HUNT COUNTY","White",8270
+"2019-2020",16,"HUTCHINSON COUNTY","American Indian or Alaska Nat",31
+"2019-2020",16,"HUTCHINSON COUNTY","Asian",21
+"2019-2020",16,"HUTCHINSON COUNTY","Black or African American",63
+"2019-2020",16,"HUTCHINSON COUNTY","Hispanic/Latino",1484
+"2019-2020",16,"HUTCHINSON COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",16,"HUTCHINSON COUNTY","Two or more races",159
+"2019-2020",16,"HUTCHINSON COUNTY","White",2342
+"2019-2020",15,"IRION COUNTY","American Indian or Alaska Nat",1
+"2019-2020",15,"IRION COUNTY","Asian",1
+"2019-2020",15,"IRION COUNTY","Black or African American",1
+"2019-2020",15,"IRION COUNTY","Hispanic/Latino",88
+"2019-2020",15,"IRION COUNTY","Two or more races",5
+"2019-2020",15,"IRION COUNTY","White",199
+"2019-2020",09,"JACK COUNTY","American Indian or Alaska Nat",8
+"2019-2020",09,"JACK COUNTY","Asian",12
+"2019-2020",09,"JACK COUNTY","Black or African American",9
+"2019-2020",09,"JACK COUNTY","Hispanic/Latino",415
+"2019-2020",09,"JACK COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",09,"JACK COUNTY","Two or more races",33
+"2019-2020",09,"JACK COUNTY","White",1155
+"2019-2020",03,"JACKSON COUNTY","American Indian or Alaska Nat",3
+"2019-2020",03,"JACKSON COUNTY","Asian",33
+"2019-2020",03,"JACKSON COUNTY","Black or African American",239
+"2019-2020",03,"JACKSON COUNTY","Hispanic/Latino",1460
+"2019-2020",03,"JACKSON COUNTY","Two or more races",68
+"2019-2020",03,"JACKSON COUNTY","White",1698
+"2019-2020",05,"JASPER COUNTY","American Indian or Alaska Nat",9
+"2019-2020",05,"JASPER COUNTY","Asian",15
+"2019-2020",05,"JASPER COUNTY","Black or African American",1065
+"2019-2020",05,"JASPER COUNTY","Hispanic/Latino",648
+"2019-2020",05,"JASPER COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",05,"JASPER COUNTY","Two or more races",235
+"2019-2020",05,"JASPER COUNTY","White",4166
+"2019-2020",18,"JEFF DAVIS COUNTY","Asian",2
+"2019-2020",18,"JEFF DAVIS COUNTY","Hispanic/Latino",162
+"2019-2020",18,"JEFF DAVIS COUNTY","Two or more races",4
+"2019-2020",18,"JEFF DAVIS COUNTY","White",96
+"2019-2020",05,"JEFFERSON COUNTY","American Indian or Alaska Nat",316
+"2019-2020",05,"JEFFERSON COUNTY","Asian",1463
+"2019-2020",05,"JEFFERSON COUNTY","Black or African American",16029
+"2019-2020",05,"JEFFERSON COUNTY","Hispanic/Latino",14056
+"2019-2020",05,"JEFFERSON COUNTY","Native Hawaiian/Other Pacific",24
+"2019-2020",05,"JEFFERSON COUNTY","Two or more races",821
+"2019-2020",05,"JEFFERSON COUNTY","White",9333
+"2019-2020",01,"JIM HOGG COUNTY","American Indian or Alaska Nat",1
+"2019-2020",01,"JIM HOGG COUNTY","Asian",1
+"2019-2020",01,"JIM HOGG COUNTY","Black or African American",3
+"2019-2020",01,"JIM HOGG COUNTY","Hispanic/Latino",1122
+"2019-2020",01,"JIM HOGG COUNTY","Two or more races",1
+"2019-2020",01,"JIM HOGG COUNTY","White",25
+"2019-2020",02,"JIM WELLS COUNTY","American Indian or Alaska Nat",2
+"2019-2020",02,"JIM WELLS COUNTY","Asian",27
+"2019-2020",02,"JIM WELLS COUNTY","Black or African American",39
+"2019-2020",02,"JIM WELLS COUNTY","Hispanic/Latino",6863
+"2019-2020",02,"JIM WELLS COUNTY","Two or more races",19
+"2019-2020",02,"JIM WELLS COUNTY","White",1065
+"2019-2020",11,"JOHNSON COUNTY","American Indian or Alaska Nat",207
+"2019-2020",11,"JOHNSON COUNTY","Asian",266
+"2019-2020",11,"JOHNSON COUNTY","Black or African American",1493
+"2019-2020",11,"JOHNSON COUNTY","Hispanic/Latino",12056
+"2019-2020",11,"JOHNSON COUNTY","Native Hawaiian/Other Pacific",380
+"2019-2020",11,"JOHNSON COUNTY","Two or more races",1259
+"2019-2020",11,"JOHNSON COUNTY","White",21173
+"2019-2020",14,"JONES COUNTY","American Indian or Alaska Nat",7
+"2019-2020",14,"JONES COUNTY","Asian",11
+"2019-2020",14,"JONES COUNTY","Black or African American",85
+"2019-2020",14,"JONES COUNTY","Hispanic/Latino",1055
+"2019-2020",14,"JONES COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",14,"JONES COUNTY","Two or more races",76
+"2019-2020",14,"JONES COUNTY","White",1460
+"2019-2020",03,"KARNES COUNTY","Asian",8
+"2019-2020",03,"KARNES COUNTY","Black or African American",37
+"2019-2020",03,"KARNES COUNTY","Hispanic/Latino",1653
+"2019-2020",03,"KARNES COUNTY","Two or more races",17
+"2019-2020",03,"KARNES COUNTY","White",361
+"2019-2020",20,"KARNES COUNTY","Asian",1
+"2019-2020",20,"KARNES COUNTY","Black or African American",1
+"2019-2020",20,"KARNES COUNTY","Hispanic/Latino",89
+"2019-2020",20,"KARNES COUNTY","Two or more races",4
+"2019-2020",20,"KARNES COUNTY","White",289
+"2019-2020",10,"KAUFMAN COUNTY","American Indian or Alaska Nat",123
+"2019-2020",10,"KAUFMAN COUNTY","Asian",348
+"2019-2020",10,"KAUFMAN COUNTY","Black or African American",4931
+"2019-2020",10,"KAUFMAN COUNTY","Hispanic/Latino",10559
+"2019-2020",10,"KAUFMAN COUNTY","Native Hawaiian/Other Pacific",36
+"2019-2020",10,"KAUFMAN COUNTY","Two or more races",1044
+"2019-2020",10,"KAUFMAN COUNTY","White",14794
+"2019-2020",13,"KENDALL COUNTY","American Indian or Alaska Nat",2
+"2019-2020",13,"KENDALL COUNTY","Asian",4
+"2019-2020",13,"KENDALL COUNTY","Black or African American",3
+"2019-2020",13,"KENDALL COUNTY","Hispanic/Latino",609
+"2019-2020",13,"KENDALL COUNTY","Two or more races",14
+"2019-2020",13,"KENDALL COUNTY","White",456
+"2019-2020",20,"KENDALL COUNTY","American Indian or Alaska Nat",25
+"2019-2020",20,"KENDALL COUNTY","Asian",133
+"2019-2020",20,"KENDALL COUNTY","Black or African American",95
+"2019-2020",20,"KENDALL COUNTY","Hispanic/Latino",3041
+"2019-2020",20,"KENDALL COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",20,"KENDALL COUNTY","Two or more races",263
+"2019-2020",20,"KENDALL COUNTY","White",6105
+"2019-2020",02,"KENEDY COUNTY","Black or African American",4
+"2019-2020",02,"KENEDY COUNTY","Hispanic/Latino",53
+"2019-2020",02,"KENEDY COUNTY","Two or more races",2
+"2019-2020",02,"KENEDY COUNTY","White",14
+"2019-2020",17,"KENT COUNTY","Black or African American",1
+"2019-2020",17,"KENT COUNTY","Hispanic/Latino",42
+"2019-2020",17,"KENT COUNTY","Two or more races",3
+"2019-2020",17,"KENT COUNTY","White",123
+"2019-2020",20,"KERR COUNTY","American Indian or Alaska Nat",14
+"2019-2020",20,"KERR COUNTY","Asian",78
+"2019-2020",20,"KERR COUNTY","Black or African American",91
+"2019-2020",20,"KERR COUNTY","Hispanic/Latino",3116
+"2019-2020",20,"KERR COUNTY","Native Hawaiian/Other Pacific",9
+"2019-2020",20,"KERR COUNTY","Two or more races",111
+"2019-2020",20,"KERR COUNTY","White",3385
+"2019-2020",15,"KIMBLE COUNTY","Asian",1
+"2019-2020",15,"KIMBLE COUNTY","Black or African American",1
+"2019-2020",15,"KIMBLE COUNTY","Hispanic/Latino",228
+"2019-2020",15,"KIMBLE COUNTY","Two or more races",6
+"2019-2020",15,"KIMBLE COUNTY","White",348
+"2019-2020",17,"KING COUNTY","Asian",1
+"2019-2020",17,"KING COUNTY","Hispanic/Latino",8
+"2019-2020",17,"KING COUNTY","White",98
+"2019-2020",20,"KINNEY COUNTY","American Indian or Alaska Nat",1
+"2019-2020",20,"KINNEY COUNTY","Asian",1
+"2019-2020",20,"KINNEY COUNTY","Black or African American",1
+"2019-2020",20,"KINNEY COUNTY","Hispanic/Latino",403
+"2019-2020",20,"KINNEY COUNTY","Two or more races",7
+"2019-2020",20,"KINNEY COUNTY","White",159
+"2019-2020",02,"KLEBERG COUNTY","American Indian or Alaska Nat",6
+"2019-2020",02,"KLEBERG COUNTY","Asian",47
+"2019-2020",02,"KLEBERG COUNTY","Black or African American",126
+"2019-2020",02,"KLEBERG COUNTY","Hispanic/Latino",4118
+"2019-2020",02,"KLEBERG COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",02,"KLEBERG COUNTY","Two or more races",24
+"2019-2020",02,"KLEBERG COUNTY","White",688
+"2019-2020",09,"KNOX COUNTY","American Indian or Alaska Nat",1
+"2019-2020",09,"KNOX COUNTY","Asian",3
+"2019-2020",09,"KNOX COUNTY","Black or African American",30
+"2019-2020",09,"KNOX COUNTY","Hispanic/Latino",395
+"2019-2020",09,"KNOX COUNTY","Two or more races",24
+"2019-2020",09,"KNOX COUNTY","White",336
+"2019-2020",20,"LA SALLE COUNTY","American Indian or Alaska Nat",1
+"2019-2020",20,"LA SALLE COUNTY","Asian",5
+"2019-2020",20,"LA SALLE COUNTY","Black or African American",3
+"2019-2020",20,"LA SALLE COUNTY","Hispanic/Latino",1251
+"2019-2020",20,"LA SALLE COUNTY","Two or more races",3
+"2019-2020",20,"LA SALLE COUNTY","White",58
+"2019-2020",08,"LAMAR COUNTY","American Indian or Alaska Nat",124
+"2019-2020",08,"LAMAR COUNTY","Asian",64
+"2019-2020",08,"LAMAR COUNTY","Black or African American",1433
+"2019-2020",08,"LAMAR COUNTY","Hispanic/Latino",1384
+"2019-2020",08,"LAMAR COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",08,"LAMAR COUNTY","Two or more races",469
+"2019-2020",08,"LAMAR COUNTY","White",5134
+"2019-2020",17,"LAMB COUNTY","American Indian or Alaska Nat",4
+"2019-2020",17,"LAMB COUNTY","Asian",4
+"2019-2020",17,"LAMB COUNTY","Black or African American",84
+"2019-2020",17,"LAMB COUNTY","Hispanic/Latino",2027
+"2019-2020",17,"LAMB COUNTY","Two or more races",23
+"2019-2020",17,"LAMB COUNTY","White",707
+"2019-2020",12,"LAMPASAS COUNTY","American Indian or Alaska Nat",25
+"2019-2020",12,"LAMPASAS COUNTY","Asian",32
+"2019-2020",12,"LAMPASAS COUNTY","Black or African American",113
+"2019-2020",12,"LAMPASAS COUNTY","Hispanic/Latino",1077
+"2019-2020",12,"LAMPASAS COUNTY","Native Hawaiian/Other Pacific",26
+"2019-2020",12,"LAMPASAS COUNTY","Two or more races",196
+"2019-2020",12,"LAMPASAS COUNTY","White",2293
+"2019-2020",03,"LAVACA COUNTY","American Indian or Alaska Nat",8
+"2019-2020",03,"LAVACA COUNTY","Asian",12
+"2019-2020",03,"LAVACA COUNTY","Black or African American",158
+"2019-2020",03,"LAVACA COUNTY","Hispanic/Latino",520
+"2019-2020",03,"LAVACA COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",03,"LAVACA COUNTY","Two or more races",77
+"2019-2020",03,"LAVACA COUNTY","White",1675
+"2019-2020",13,"LEE COUNTY","American Indian or Alaska Nat",9
+"2019-2020",13,"LEE COUNTY","Asian",14
+"2019-2020",13,"LEE COUNTY","Black or African American",267
+"2019-2020",13,"LEE COUNTY","Hispanic/Latino",1318
+"2019-2020",13,"LEE COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",13,"LEE COUNTY","Two or more races",114
+"2019-2020",13,"LEE COUNTY","White",1410
+"2019-2020",06,"LEON COUNTY","American Indian or Alaska Nat",6
+"2019-2020",06,"LEON COUNTY","Asian",34
+"2019-2020",06,"LEON COUNTY","Black or African American",175
+"2019-2020",06,"LEON COUNTY","Hispanic/Latino",827
+"2019-2020",06,"LEON COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",06,"LEON COUNTY","Two or more races",64
+"2019-2020",06,"LEON COUNTY","White",2003
+"2019-2020",04,"LIBERTY COUNTY","American Indian or Alaska Nat",97
+"2019-2020",04,"LIBERTY COUNTY","Asian",41
+"2019-2020",04,"LIBERTY COUNTY","Black or African American",811
+"2019-2020",04,"LIBERTY COUNTY","Hispanic/Latino",8878
+"2019-2020",04,"LIBERTY COUNTY","Native Hawaiian/Other Pacific",11
+"2019-2020",04,"LIBERTY COUNTY","Two or more races",287
+"2019-2020",04,"LIBERTY COUNTY","White",6498
+"2019-2020",05,"LIBERTY COUNTY","American Indian or Alaska Nat",8
+"2019-2020",05,"LIBERTY COUNTY","Asian",17
+"2019-2020",05,"LIBERTY COUNTY","Black or African American",382
+"2019-2020",05,"LIBERTY COUNTY","Hispanic/Latino",930
+"2019-2020",05,"LIBERTY COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",05,"LIBERTY COUNTY","Two or more races",104
+"2019-2020",05,"LIBERTY COUNTY","White",1341
+"2019-2020",12,"LIMESTONE COUNTY","American Indian or Alaska Nat",11
+"2019-2020",12,"LIMESTONE COUNTY","Asian",33
+"2019-2020",12,"LIMESTONE COUNTY","Black or African American",710
+"2019-2020",12,"LIMESTONE COUNTY","Hispanic/Latino",1450
+"2019-2020",12,"LIMESTONE COUNTY","Two or more races",138
+"2019-2020",12,"LIMESTONE COUNTY","White",1437
+"2019-2020",16,"LIPSCOMB COUNTY","American Indian or Alaska Nat",7
+"2019-2020",16,"LIPSCOMB COUNTY","Black or African American",2
+"2019-2020",16,"LIPSCOMB COUNTY","Hispanic/Latino",429
+"2019-2020",16,"LIPSCOMB COUNTY","Two or more races",11
+"2019-2020",16,"LIPSCOMB COUNTY","White",283
+"2019-2020",02,"LIVE OAK COUNTY","American Indian or Alaska Nat",4
+"2019-2020",02,"LIVE OAK COUNTY","Asian",3
+"2019-2020",02,"LIVE OAK COUNTY","Black or African American",9
+"2019-2020",02,"LIVE OAK COUNTY","Hispanic/Latino",1068
+"2019-2020",02,"LIVE OAK COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",02,"LIVE OAK COUNTY","Two or more races",27
+"2019-2020",02,"LIVE OAK COUNTY","White",677
+"2019-2020",13,"LLANO COUNTY","American Indian or Alaska Nat",5
+"2019-2020",13,"LLANO COUNTY","Asian",11
+"2019-2020",13,"LLANO COUNTY","Black or African American",19
+"2019-2020",13,"LLANO COUNTY","Hispanic/Latino",480
+"2019-2020",13,"LLANO COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",13,"LLANO COUNTY","Two or more races",51
+"2019-2020",13,"LLANO COUNTY","White",1211
+"2019-2020",17,"LUBBOCK COUNTY","American Indian or Alaska Nat",184
+"2019-2020",17,"LUBBOCK COUNTY","Asian",931
+"2019-2020",17,"LUBBOCK COUNTY","Black or African American",4696
+"2019-2020",17,"LUBBOCK COUNTY","Hispanic/Latino",26600
+"2019-2020",17,"LUBBOCK COUNTY","Native Hawaiian/Other Pacific",61
+"2019-2020",17,"LUBBOCK COUNTY","Two or more races",1201
+"2019-2020",17,"LUBBOCK COUNTY","White",17357
+"2019-2020",17,"LYNN COUNTY","American Indian or Alaska Nat",2
+"2019-2020",17,"LYNN COUNTY","Asian",5
+"2019-2020",17,"LYNN COUNTY","Black or African American",21
+"2019-2020",17,"LYNN COUNTY","Hispanic/Latino",813
+"2019-2020",17,"LYNN COUNTY","Two or more races",18
+"2019-2020",17,"LYNN COUNTY","White",736
+"2019-2020",06,"MADISON COUNTY","American Indian or Alaska Nat",2
+"2019-2020",06,"MADISON COUNTY","Asian",21
+"2019-2020",06,"MADISON COUNTY","Black or African American",421
+"2019-2020",06,"MADISON COUNTY","Hispanic/Latino",906
+"2019-2020",06,"MADISON COUNTY","Two or more races",100
+"2019-2020",06,"MADISON COUNTY","White",1259
+"2019-2020",08,"MARION COUNTY","American Indian or Alaska Nat",3
+"2019-2020",08,"MARION COUNTY","Asian",9
+"2019-2020",08,"MARION COUNTY","Black or African American",380
+"2019-2020",08,"MARION COUNTY","Hispanic/Latino",71
+"2019-2020",08,"MARION COUNTY","Two or more races",52
+"2019-2020",08,"MARION COUNTY","White",756
+"2019-2020",18,"MARTIN COUNTY","American Indian or Alaska Nat",1
+"2019-2020",18,"MARTIN COUNTY","Asian",5
+"2019-2020",18,"MARTIN COUNTY","Black or African American",9
+"2019-2020",18,"MARTIN COUNTY","Hispanic/Latino",854
+"2019-2020",18,"MARTIN COUNTY","Two or more races",9
+"2019-2020",18,"MARTIN COUNTY","White",498
+"2019-2020",15,"MASON COUNTY","Asian",5
+"2019-2020",15,"MASON COUNTY","Black or African American",3
+"2019-2020",15,"MASON COUNTY","Hispanic/Latino",266
+"2019-2020",15,"MASON COUNTY","Two or more races",8
+"2019-2020",15,"MASON COUNTY","White",475
+"2019-2020",03,"MATAGORDA COUNTY","American Indian or Alaska Nat",5
+"2019-2020",03,"MATAGORDA COUNTY","Asian",124
+"2019-2020",03,"MATAGORDA COUNTY","Black or African American",727
+"2019-2020",03,"MATAGORDA COUNTY","Hispanic/Latino",4272
+"2019-2020",03,"MATAGORDA COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",03,"MATAGORDA COUNTY","Two or more races",165
+"2019-2020",03,"MATAGORDA COUNTY","White",1961
+"2019-2020",20,"MAVERICK COUNTY","American Indian or Alaska Nat",250
+"2019-2020",20,"MAVERICK COUNTY","Asian",28
+"2019-2020",20,"MAVERICK COUNTY","Black or African American",16
+"2019-2020",20,"MAVERICK COUNTY","Hispanic/Latino",14067
+"2019-2020",20,"MAVERICK COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",20,"MAVERICK COUNTY","Two or more races",20
+"2019-2020",20,"MAVERICK COUNTY","White",116
+"2019-2020",15,"MCCULLOCH COUNTY","Asian",9
+"2019-2020",15,"MCCULLOCH COUNTY","Black or African American",12
+"2019-2020",15,"MCCULLOCH COUNTY","Hispanic/Latino",552
+"2019-2020",15,"MCCULLOCH COUNTY","Two or more races",27
+"2019-2020",15,"MCCULLOCH COUNTY","White",737
+"2019-2020",12,"MCLENNAN COUNTY","American Indian or Alaska Nat",182
+"2019-2020",12,"MCLENNAN COUNTY","Asian",1766
+"2019-2020",12,"MCLENNAN COUNTY","Black or African American",10173
+"2019-2020",12,"MCLENNAN COUNTY","Hispanic/Latino",22047
+"2019-2020",12,"MCLENNAN COUNTY","Native Hawaiian/Other Pacific",62
+"2019-2020",12,"MCLENNAN COUNTY","Two or more races",1529
+"2019-2020",12,"MCLENNAN COUNTY","White",18866
+"2019-2020",02,"MCMULLEN COUNTY","American Indian or Alaska Nat",1
+"2019-2020",02,"MCMULLEN COUNTY","Asian",4
+"2019-2020",02,"MCMULLEN COUNTY","Hispanic/Latino",109
+"2019-2020",02,"MCMULLEN COUNTY","Two or more races",2
+"2019-2020",02,"MCMULLEN COUNTY","White",172
+"2019-2020",20,"MEDINA COUNTY","American Indian or Alaska Nat",32
+"2019-2020",20,"MEDINA COUNTY","Asian",53
+"2019-2020",20,"MEDINA COUNTY","Black or African American",239
+"2019-2020",20,"MEDINA COUNTY","Hispanic/Latino",7227
+"2019-2020",20,"MEDINA COUNTY","Native Hawaiian/Other Pacific",26
+"2019-2020",20,"MEDINA COUNTY","Two or more races",220
+"2019-2020",20,"MEDINA COUNTY","White",3384
+"2019-2020",15,"MENARD COUNTY","Asian",2
+"2019-2020",15,"MENARD COUNTY","Black or African American",2
+"2019-2020",15,"MENARD COUNTY","Hispanic/Latino",143
+"2019-2020",15,"MENARD COUNTY","Two or more races",3
+"2019-2020",15,"MENARD COUNTY","White",153
+"2019-2020",18,"MIDLAND COUNTY","American Indian or Alaska Nat",86
+"2019-2020",18,"MIDLAND COUNTY","Asian",685
+"2019-2020",18,"MIDLAND COUNTY","Black or African American",2074
+"2019-2020",18,"MIDLAND COUNTY","Hispanic/Latino",18546
+"2019-2020",18,"MIDLAND COUNTY","Native Hawaiian/Other Pacific",25
+"2019-2020",18,"MIDLAND COUNTY","Two or more races",557
+"2019-2020",18,"MIDLAND COUNTY","White",7819
+"2019-2020",06,"MILAM COUNTY","American Indian or Alaska Nat",8
+"2019-2020",06,"MILAM COUNTY","Asian",24
+"2019-2020",06,"MILAM COUNTY","Black or African American",438
+"2019-2020",06,"MILAM COUNTY","Hispanic/Latino",1877
+"2019-2020",06,"MILAM COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",06,"MILAM COUNTY","Two or more races",91
+"2019-2020",06,"MILAM COUNTY","White",1497
+"2019-2020",13,"MILAM COUNTY","American Indian or Alaska Nat",1
+"2019-2020",13,"MILAM COUNTY","Black or African American",5
+"2019-2020",13,"MILAM COUNTY","Hispanic/Latino",150
+"2019-2020",13,"MILAM COUNTY","Two or more races",12
+"2019-2020",13,"MILAM COUNTY","White",390
+"2019-2020",12,"MILLS COUNTY","American Indian or Alaska Nat",1
+"2019-2020",12,"MILLS COUNTY","Asian",4
+"2019-2020",12,"MILLS COUNTY","Black or African American",53
+"2019-2020",12,"MILLS COUNTY","Hispanic/Latino",283
+"2019-2020",12,"MILLS COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",12,"MILLS COUNTY","Two or more races",6
+"2019-2020",12,"MILLS COUNTY","White",600
+"2019-2020",14,"MITCHELL COUNTY","American Indian or Alaska Nat",5
+"2019-2020",14,"MITCHELL COUNTY","Asian",10
+"2019-2020",14,"MITCHELL COUNTY","Black or African American",92
+"2019-2020",14,"MITCHELL COUNTY","Hispanic/Latino",612
+"2019-2020",14,"MITCHELL COUNTY","Two or more races",25
+"2019-2020",14,"MITCHELL COUNTY","White",620
+"2019-2020",09,"MONTAGUE COUNTY","American Indian or Alaska Nat",16
+"2019-2020",09,"MONTAGUE COUNTY","Asian",16
+"2019-2020",09,"MONTAGUE COUNTY","Black or African American",27
+"2019-2020",09,"MONTAGUE COUNTY","Hispanic/Latino",687
+"2019-2020",09,"MONTAGUE COUNTY","Two or more races",117
+"2019-2020",09,"MONTAGUE COUNTY","White",2556
+"2019-2020",06,"MONTGOMERY COUNTY","American Indian or Alaska Nat",484
+"2019-2020",06,"MONTGOMERY COUNTY","Asian",3603
+"2019-2020",06,"MONTGOMERY COUNTY","Black or African American",7551
+"2019-2020",06,"MONTGOMERY COUNTY","Hispanic/Latino",45177
+"2019-2020",06,"MONTGOMERY COUNTY","Native Hawaiian/Other Pacific",197
+"2019-2020",06,"MONTGOMERY COUNTY","Two or more races",3253
+"2019-2020",06,"MONTGOMERY COUNTY","White",55487
+"2019-2020",16,"MOORE COUNTY","American Indian or Alaska Nat",30
+"2019-2020",16,"MOORE COUNTY","Asian",258
+"2019-2020",16,"MOORE COUNTY","Black or African American",113
+"2019-2020",16,"MOORE COUNTY","Hispanic/Latino",3514
+"2019-2020",16,"MOORE COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",16,"MOORE COUNTY","Two or more races",43
+"2019-2020",16,"MOORE COUNTY","White",919
+"2019-2020",08,"MORRIS COUNTY","American Indian or Alaska Nat",5
+"2019-2020",08,"MORRIS COUNTY","Asian",9
+"2019-2020",08,"MORRIS COUNTY","Black or African American",514
+"2019-2020",08,"MORRIS COUNTY","Hispanic/Latino",304
+"2019-2020",08,"MORRIS COUNTY","Two or more races",136
+"2019-2020",08,"MORRIS COUNTY","White",924
+"2019-2020",17,"MOTLEY COUNTY","Black or African American",1
+"2019-2020",17,"MOTLEY COUNTY","Hispanic/Latino",37
+"2019-2020",17,"MOTLEY COUNTY","Two or more races",4
+"2019-2020",17,"MOTLEY COUNTY","White",108
+"2019-2020",07,"NACOGDOCHES COUNTY","American Indian or Alaska Nat",21
+"2019-2020",07,"NACOGDOCHES COUNTY","Asian",130
+"2019-2020",07,"NACOGDOCHES COUNTY","Black or African American",2085
+"2019-2020",07,"NACOGDOCHES COUNTY","Hispanic/Latino",3796
+"2019-2020",07,"NACOGDOCHES COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",07,"NACOGDOCHES COUNTY","Two or more races",322
+"2019-2020",07,"NACOGDOCHES COUNTY","White",4688
+"2019-2020",12,"NAVARRO COUNTY","American Indian or Alaska Nat",28
+"2019-2020",12,"NAVARRO COUNTY","Asian",53
+"2019-2020",12,"NAVARRO COUNTY","Black or African American",1223
+"2019-2020",12,"NAVARRO COUNTY","Hispanic/Latino",4620
+"2019-2020",12,"NAVARRO COUNTY","Native Hawaiian/Other Pacific",223
+"2019-2020",12,"NAVARRO COUNTY","Two or more races",325
+"2019-2020",12,"NAVARRO COUNTY","White",3786
+"2019-2020",05,"NEWTON COUNTY","American Indian or Alaska Nat",8
+"2019-2020",05,"NEWTON COUNTY","Asian",5
+"2019-2020",05,"NEWTON COUNTY","Black or African American",429
+"2019-2020",05,"NEWTON COUNTY","Hispanic/Latino",89
+"2019-2020",05,"NEWTON COUNTY","Two or more races",79
+"2019-2020",05,"NEWTON COUNTY","White",1230
+"2019-2020",14,"NOLAN COUNTY","American Indian or Alaska Nat",6
+"2019-2020",14,"NOLAN COUNTY","Asian",17
+"2019-2020",14,"NOLAN COUNTY","Black or African American",160
+"2019-2020",14,"NOLAN COUNTY","Hispanic/Latino",1535
+"2019-2020",14,"NOLAN COUNTY","Two or more races",71
+"2019-2020",14,"NOLAN COUNTY","White",1393
+"2019-2020",02,"NUECES COUNTY","American Indian or Alaska Nat",90
+"2019-2020",02,"NUECES COUNTY","Asian",931
+"2019-2020",02,"NUECES COUNTY","Black or African American",1828
+"2019-2020",02,"NUECES COUNTY","Hispanic/Latino",46042
+"2019-2020",02,"NUECES COUNTY","Native Hawaiian/Other Pacific",53
+"2019-2020",02,"NUECES COUNTY","Two or more races",871
+"2019-2020",02,"NUECES COUNTY","White",11194
+"2019-2020",16,"OCHILTREE COUNTY","American Indian or Alaska Nat",3
+"2019-2020",16,"OCHILTREE COUNTY","Asian",4
+"2019-2020",16,"OCHILTREE COUNTY","Black or African American",1
+"2019-2020",16,"OCHILTREE COUNTY","Hispanic/Latino",1604
+"2019-2020",16,"OCHILTREE COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",16,"OCHILTREE COUNTY","Two or more races",28
+"2019-2020",16,"OCHILTREE COUNTY","White",572
+"2019-2020",16,"OLDHAM COUNTY","American Indian or Alaska Nat",4
+"2019-2020",16,"OLDHAM COUNTY","Asian",9
+"2019-2020",16,"OLDHAM COUNTY","Black or African American",26
+"2019-2020",16,"OLDHAM COUNTY","Hispanic/Latino",254
+"2019-2020",16,"OLDHAM COUNTY","Two or more races",32
+"2019-2020",16,"OLDHAM COUNTY","White",681
+"2019-2020",05,"ORANGE COUNTY","American Indian or Alaska Nat",45
+"2019-2020",05,"ORANGE COUNTY","Asian",193
+"2019-2020",05,"ORANGE COUNTY","Black or African American",1687
+"2019-2020",05,"ORANGE COUNTY","Hispanic/Latino",1893
+"2019-2020",05,"ORANGE COUNTY","Native Hawaiian/Other Pacific",15
+"2019-2020",05,"ORANGE COUNTY","Two or more races",453
+"2019-2020",05,"ORANGE COUNTY","White",10739
+"2019-2020",11,"PALO PINTO COUNTY","American Indian or Alaska Nat",9
+"2019-2020",11,"PALO PINTO COUNTY","Asian",27
+"2019-2020",11,"PALO PINTO COUNTY","Black or African American",107
+"2019-2020",11,"PALO PINTO COUNTY","Hispanic/Latino",1580
+"2019-2020",11,"PALO PINTO COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",11,"PALO PINTO COUNTY","Two or more races",135
+"2019-2020",11,"PALO PINTO COUNTY","White",2694
+"2019-2020",07,"PANOLA COUNTY","American Indian or Alaska Nat",7
+"2019-2020",07,"PANOLA COUNTY","Asian",16
+"2019-2020",07,"PANOLA COUNTY","Black or African American",606
+"2019-2020",07,"PANOLA COUNTY","Hispanic/Latino",658
+"2019-2020",07,"PANOLA COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",07,"PANOLA COUNTY","Two or more races",99
+"2019-2020",07,"PANOLA COUNTY","White",2648
+"2019-2020",11,"PARKER COUNTY","American Indian or Alaska Nat",115
+"2019-2020",11,"PARKER COUNTY","Asian",124
+"2019-2020",11,"PARKER COUNTY","Black or African American",334
+"2019-2020",11,"PARKER COUNTY","Hispanic/Latino",4629
+"2019-2020",11,"PARKER COUNTY","Native Hawaiian/Other Pacific",17
+"2019-2020",11,"PARKER COUNTY","Two or more races",726
+"2019-2020",11,"PARKER COUNTY","White",17031
+"2019-2020",16,"PARMER COUNTY","American Indian or Alaska Nat",6
+"2019-2020",16,"PARMER COUNTY","Asian",1
+"2019-2020",16,"PARMER COUNTY","Black or African American",4
+"2019-2020",16,"PARMER COUNTY","Hispanic/Latino",1835
+"2019-2020",16,"PARMER COUNTY","Two or more races",7
+"2019-2020",16,"PARMER COUNTY","White",463
+"2019-2020",18,"PECOS COUNTY","American Indian or Alaska Nat",7
+"2019-2020",18,"PECOS COUNTY","Asian",20
+"2019-2020",18,"PECOS COUNTY","Black or African American",36
+"2019-2020",18,"PECOS COUNTY","Hispanic/Latino",2621
+"2019-2020",18,"PECOS COUNTY","Two or more races",14
+"2019-2020",18,"PECOS COUNTY","White",403
+"2019-2020",06,"POLK COUNTY","American Indian or Alaska Nat",134
+"2019-2020",06,"POLK COUNTY","Asian",50
+"2019-2020",06,"POLK COUNTY","Black or African American",675
+"2019-2020",06,"POLK COUNTY","Hispanic/Latino",1629
+"2019-2020",06,"POLK COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",06,"POLK COUNTY","Two or more races",212
+"2019-2020",06,"POLK COUNTY","White",4200
+"2019-2020",16,"POTTER COUNTY","American Indian or Alaska Nat",153
+"2019-2020",16,"POTTER COUNTY","Asian",1772
+"2019-2020",16,"POTTER COUNTY","Black or African American",3469
+"2019-2020",16,"POTTER COUNTY","Hispanic/Latino",16024
+"2019-2020",16,"POTTER COUNTY","Native Hawaiian/Other Pacific",48
+"2019-2020",16,"POTTER COUNTY","Two or more races",1102
+"2019-2020",16,"POTTER COUNTY","White",13544
+"2019-2020",18,"PRESIDIO COUNTY","American Indian or Alaska Nat",1
+"2019-2020",18,"PRESIDIO COUNTY","Asian",20
+"2019-2020",18,"PRESIDIO COUNTY","Black or African American",8
+"2019-2020",18,"PRESIDIO COUNTY","Hispanic/Latino",1418
+"2019-2020",18,"PRESIDIO COUNTY","Two or more races",6
+"2019-2020",18,"PRESIDIO COUNTY","White",47
+"2019-2020",07,"RAINS COUNTY","American Indian or Alaska Nat",10
+"2019-2020",07,"RAINS COUNTY","Asian",7
+"2019-2020",07,"RAINS COUNTY","Black or African American",46
+"2019-2020",07,"RAINS COUNTY","Hispanic/Latino",304
+"2019-2020",07,"RAINS COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",07,"RAINS COUNTY","Two or more races",46
+"2019-2020",07,"RAINS COUNTY","White",1313
+"2019-2020",16,"RANDALL COUNTY","American Indian or Alaska Nat",63
+"2019-2020",16,"RANDALL COUNTY","Asian",165
+"2019-2020",16,"RANDALL COUNTY","Black or African American",286
+"2019-2020",16,"RANDALL COUNTY","Hispanic/Latino",2708
+"2019-2020",16,"RANDALL COUNTY","Native Hawaiian/Other Pacific",14
+"2019-2020",16,"RANDALL COUNTY","Two or more races",228
+"2019-2020",16,"RANDALL COUNTY","White",6917
+"2019-2020",18,"REAGAN COUNTY","American Indian or Alaska Nat",1
+"2019-2020",18,"REAGAN COUNTY","Asian",7
+"2019-2020",18,"REAGAN COUNTY","Black or African American",3
+"2019-2020",18,"REAGAN COUNTY","Hispanic/Latino",760
+"2019-2020",18,"REAGAN COUNTY","Two or more races",7
+"2019-2020",18,"REAGAN COUNTY","White",130
+"2019-2020",20,"REAL COUNTY","American Indian or Alaska Nat",1
+"2019-2020",20,"REAL COUNTY","Black or African American",8
+"2019-2020",20,"REAL COUNTY","Hispanic/Latino",219
+"2019-2020",20,"REAL COUNTY","Two or more races",15
+"2019-2020",20,"REAL COUNTY","White",264
+"2019-2020",08,"RED RIVER COUNTY","American Indian or Alaska Nat",18
+"2019-2020",08,"RED RIVER COUNTY","Asian",3
+"2019-2020",08,"RED RIVER COUNTY","Black or African American",321
+"2019-2020",08,"RED RIVER COUNTY","Hispanic/Latino",289
+"2019-2020",08,"RED RIVER COUNTY","Two or more races",132
+"2019-2020",08,"RED RIVER COUNTY","White",1330
+"2019-2020",18,"REEVES COUNTY","American Indian or Alaska Nat",6
+"2019-2020",18,"REEVES COUNTY","Asian",27
+"2019-2020",18,"REEVES COUNTY","Black or African American",27
+"2019-2020",18,"REEVES COUNTY","Hispanic/Latino",2759
+"2019-2020",18,"REEVES COUNTY","Two or more races",6
+"2019-2020",18,"REEVES COUNTY","White",213
+"2019-2020",03,"REFUGIO COUNTY","American Indian or Alaska Nat",2
+"2019-2020",03,"REFUGIO COUNTY","Asian",4
+"2019-2020",03,"REFUGIO COUNTY","Black or African American",80
+"2019-2020",03,"REFUGIO COUNTY","Hispanic/Latino",829
+"2019-2020",03,"REFUGIO COUNTY","Two or more races",10
+"2019-2020",03,"REFUGIO COUNTY","White",379
+"2019-2020",16,"ROBERTS COUNTY","American Indian or Alaska Nat",1
+"2019-2020",16,"ROBERTS COUNTY","Hispanic/Latino",25
+"2019-2020",16,"ROBERTS COUNTY","White",164
+"2019-2020",06,"ROBERTSON COUNTY","American Indian or Alaska Nat",2
+"2019-2020",06,"ROBERTSON COUNTY","Asian",23
+"2019-2020",06,"ROBERTSON COUNTY","Black or African American",625
+"2019-2020",06,"ROBERTSON COUNTY","Hispanic/Latino",995
+"2019-2020",06,"ROBERTSON COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",06,"ROBERTSON COUNTY","Two or more races",75
+"2019-2020",06,"ROBERTSON COUNTY","White",1534
+"2019-2020",10,"ROCKWALL COUNTY","American Indian or Alaska Nat",163
+"2019-2020",10,"ROCKWALL COUNTY","Asian",563
+"2019-2020",10,"ROCKWALL COUNTY","Black or African American",2114
+"2019-2020",10,"ROCKWALL COUNTY","Hispanic/Latino",6032
+"2019-2020",10,"ROCKWALL COUNTY","Native Hawaiian/Other Pacific",41
+"2019-2020",10,"ROCKWALL COUNTY","Two or more races",900
+"2019-2020",10,"ROCKWALL COUNTY","White",13794
+"2019-2020",15,"RUNNELS COUNTY","American Indian or Alaska Nat",2
+"2019-2020",15,"RUNNELS COUNTY","Asian",8
+"2019-2020",15,"RUNNELS COUNTY","Black or African American",23
+"2019-2020",15,"RUNNELS COUNTY","Hispanic/Latino",1029
+"2019-2020",15,"RUNNELS COUNTY","Two or more races",34
+"2019-2020",15,"RUNNELS COUNTY","White",993
+"2019-2020",07,"RUSK COUNTY","American Indian or Alaska Nat",35
+"2019-2020",07,"RUSK COUNTY","Asian",37
+"2019-2020",07,"RUSK COUNTY","Black or African American",1290
+"2019-2020",07,"RUSK COUNTY","Hispanic/Latino",2423
+"2019-2020",07,"RUSK COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",07,"RUSK COUNTY","Two or more races",255
+"2019-2020",07,"RUSK COUNTY","White",3855
+"2019-2020",07,"SABINE COUNTY","American Indian or Alaska Nat",10
+"2019-2020",07,"SABINE COUNTY","Asian",6
+"2019-2020",07,"SABINE COUNTY","Black or African American",140
+"2019-2020",07,"SABINE COUNTY","Hispanic/Latino",98
+"2019-2020",07,"SABINE COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",07,"SABINE COUNTY","Two or more races",80
+"2019-2020",07,"SABINE COUNTY","White",1172
+"2019-2020",07,"SAN AUGUSTINE COUNTY","Asian",1
+"2019-2020",07,"SAN AUGUSTINE COUNTY","Black or African American",384
+"2019-2020",07,"SAN AUGUSTINE COUNTY","Hispanic/Latino",211
+"2019-2020",07,"SAN AUGUSTINE COUNTY","Two or more races",47
+"2019-2020",07,"SAN AUGUSTINE COUNTY","White",483
+"2019-2020",06,"SAN JACINTO COUNTY","American Indian or Alaska Nat",9
+"2019-2020",06,"SAN JACINTO COUNTY","Asian",6
+"2019-2020",06,"SAN JACINTO COUNTY","Black or African American",351
+"2019-2020",06,"SAN JACINTO COUNTY","Hispanic/Latino",868
+"2019-2020",06,"SAN JACINTO COUNTY","Two or more races",166
+"2019-2020",06,"SAN JACINTO COUNTY","White",2173
+"2019-2020",02,"SAN PATRICIO COUNTY","American Indian or Alaska Nat",41
+"2019-2020",02,"SAN PATRICIO COUNTY","Asian",152
+"2019-2020",02,"SAN PATRICIO COUNTY","Black or African American",184
+"2019-2020",02,"SAN PATRICIO COUNTY","Hispanic/Latino",9673
+"2019-2020",02,"SAN PATRICIO COUNTY","Native Hawaiian/Other Pacific",12
+"2019-2020",02,"SAN PATRICIO COUNTY","Two or more races",198
+"2019-2020",02,"SAN PATRICIO COUNTY","White",3714
+"2019-2020",15,"SAN SABA COUNTY","American Indian or Alaska Nat",1
+"2019-2020",15,"SAN SABA COUNTY","Asian",3
+"2019-2020",15,"SAN SABA COUNTY","Black or African American",7
+"2019-2020",15,"SAN SABA COUNTY","Hispanic/Latino",473
+"2019-2020",15,"SAN SABA COUNTY","Two or more races",14
+"2019-2020",15,"SAN SABA COUNTY","White",497
+"2019-2020",15,"SCHLEICHER COUNTY","Hispanic/Latino",380
+"2019-2020",15,"SCHLEICHER COUNTY","Two or more races",7
+"2019-2020",15,"SCHLEICHER COUNTY","White",118
+"2019-2020",14,"SCURRY COUNTY","American Indian or Alaska Nat",16
+"2019-2020",14,"SCURRY COUNTY","Asian",18
+"2019-2020",14,"SCURRY COUNTY","Black or African American",58
+"2019-2020",14,"SCURRY COUNTY","Hispanic/Latino",1921
+"2019-2020",14,"SCURRY COUNTY","Two or more races",55
+"2019-2020",14,"SCURRY COUNTY","White",1112
+"2019-2020",14,"SHACKELFORD COUNTY","American Indian or Alaska Nat",4
+"2019-2020",14,"SHACKELFORD COUNTY","Asian",2
+"2019-2020",14,"SHACKELFORD COUNTY","Black or African American",13
+"2019-2020",14,"SHACKELFORD COUNTY","Hispanic/Latino",97
+"2019-2020",14,"SHACKELFORD COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",14,"SHACKELFORD COUNTY","Two or more races",16
+"2019-2020",14,"SHACKELFORD COUNTY","White",500
+"2019-2020",07,"SHELBY COUNTY","American Indian or Alaska Nat",12
+"2019-2020",07,"SHELBY COUNTY","Asian",86
+"2019-2020",07,"SHELBY COUNTY","Black or African American",983
+"2019-2020",07,"SHELBY COUNTY","Hispanic/Latino",1696
+"2019-2020",07,"SHELBY COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",07,"SHELBY COUNTY","Two or more races",140
+"2019-2020",07,"SHELBY COUNTY","White",2459
+"2019-2020",16,"SHERMAN COUNTY","American Indian or Alaska Nat",2
+"2019-2020",16,"SHERMAN COUNTY","Asian",1
+"2019-2020",16,"SHERMAN COUNTY","Hispanic/Latino",449
+"2019-2020",16,"SHERMAN COUNTY","Two or more races",13
+"2019-2020",16,"SHERMAN COUNTY","White",270
+"2019-2020",07,"SMITH COUNTY","American Indian or Alaska Nat",122
+"2019-2020",07,"SMITH COUNTY","Asian",640
+"2019-2020",07,"SMITH COUNTY","Black or African American",7343
+"2019-2020",07,"SMITH COUNTY","Hispanic/Latino",13269
+"2019-2020",07,"SMITH COUNTY","Native Hawaiian/Other Pacific",21
+"2019-2020",07,"SMITH COUNTY","Two or more races",1385
+"2019-2020",07,"SMITH COUNTY","White",16776
+"2019-2020",11,"SOMERVELL COUNTY","American Indian or Alaska Nat",14
+"2019-2020",11,"SOMERVELL COUNTY","Asian",24
+"2019-2020",11,"SOMERVELL COUNTY","Black or African American",50
+"2019-2020",11,"SOMERVELL COUNTY","Hispanic/Latino",638
+"2019-2020",11,"SOMERVELL COUNTY","Two or more races",63
+"2019-2020",11,"SOMERVELL COUNTY","White",1383
+"2019-2020",01,"STARR COUNTY","American Indian or Alaska Nat",1
+"2019-2020",01,"STARR COUNTY","Asian",15
+"2019-2020",01,"STARR COUNTY","Black or African American",1
+"2019-2020",01,"STARR COUNTY","Hispanic/Latino",16476
+"2019-2020",01,"STARR COUNTY","Two or more races",1
+"2019-2020",01,"STARR COUNTY","White",27
+"2019-2020",14,"STEPHENS COUNTY","American Indian or Alaska Nat",21
+"2019-2020",14,"STEPHENS COUNTY","Asian",11
+"2019-2020",14,"STEPHENS COUNTY","Black or African American",21
+"2019-2020",14,"STEPHENS COUNTY","Hispanic/Latino",491
+"2019-2020",14,"STEPHENS COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",14,"STEPHENS COUNTY","Two or more races",24
+"2019-2020",14,"STEPHENS COUNTY","White",887
+"2019-2020",15,"STERLING COUNTY","Asian",1
+"2019-2020",15,"STERLING COUNTY","Black or African American",2
+"2019-2020",15,"STERLING COUNTY","Hispanic/Latino",146
+"2019-2020",15,"STERLING COUNTY","Two or more races",5
+"2019-2020",15,"STERLING COUNTY","White",189
+"2019-2020",14,"STONEWALL COUNTY","Asian",3
+"2019-2020",14,"STONEWALL COUNTY","Black or African American",4
+"2019-2020",14,"STONEWALL COUNTY","Hispanic/Latino",64
+"2019-2020",14,"STONEWALL COUNTY","Two or more races",1
+"2019-2020",14,"STONEWALL COUNTY","White",148
+"2019-2020",15,"SUTTON COUNTY","Asian",3
+"2019-2020",15,"SUTTON COUNTY","Hispanic/Latino",577
+"2019-2020",15,"SUTTON COUNTY","Two or more races",5
+"2019-2020",15,"SUTTON COUNTY","White",194
+"2019-2020",16,"SWISHER COUNTY","American Indian or Alaska Nat",2
+"2019-2020",16,"SWISHER COUNTY","Asian",1
+"2019-2020",16,"SWISHER COUNTY","Black or African American",105
+"2019-2020",16,"SWISHER COUNTY","Hispanic/Latino",861
+"2019-2020",16,"SWISHER COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",16,"SWISHER COUNTY","Two or more races",21
+"2019-2020",16,"SWISHER COUNTY","White",555
+"2019-2020",11,"TARRANT COUNTY","American Indian or Alaska Nat",1191
+"2019-2020",11,"TARRANT COUNTY","Asian",19119
+"2019-2020",11,"TARRANT COUNTY","Black or African American",72260
+"2019-2020",11,"TARRANT COUNTY","Hispanic/Latino",149401
+"2019-2020",11,"TARRANT COUNTY","Native Hawaiian/Other Pacific",1171
+"2019-2020",11,"TARRANT COUNTY","Two or more races",12856
+"2019-2020",11,"TARRANT COUNTY","White",104068
+"2019-2020",14,"TAYLOR COUNTY","American Indian or Alaska Nat",132
+"2019-2020",14,"TAYLOR COUNTY","Asian",1293
+"2019-2020",14,"TAYLOR COUNTY","Black or African American",4520
+"2019-2020",14,"TAYLOR COUNTY","Hispanic/Latino",12805
+"2019-2020",14,"TAYLOR COUNTY","Native Hawaiian/Other Pacific",67
+"2019-2020",14,"TAYLOR COUNTY","Two or more races",1613
+"2019-2020",14,"TAYLOR COUNTY","White",16676
+"2019-2020",18,"TERRELL COUNTY","Asian",4
+"2019-2020",18,"TERRELL COUNTY","Black or African American",1
+"2019-2020",18,"TERRELL COUNTY","Hispanic/Latino",74
+"2019-2020",18,"TERRELL COUNTY","Two or more races",3
+"2019-2020",18,"TERRELL COUNTY","White",43
+"2019-2020",17,"TERRY COUNTY","American Indian or Alaska Nat",3
+"2019-2020",17,"TERRY COUNTY","Asian",5
+"2019-2020",17,"TERRY COUNTY","Black or African American",45
+"2019-2020",17,"TERRY COUNTY","Hispanic/Latino",1680
+"2019-2020",17,"TERRY COUNTY","Two or more races",35
+"2019-2020",17,"TERRY COUNTY","White",513
+"2019-2020",09,"THROCKMORTON COUNTY","Black or African American",2
+"2019-2020",09,"THROCKMORTON COUNTY","Hispanic/Latino",49
+"2019-2020",09,"THROCKMORTON COUNTY","Two or more races",3
+"2019-2020",09,"THROCKMORTON COUNTY","White",262
+"2019-2020",08,"TITUS COUNTY","American Indian or Alaska Nat",10
+"2019-2020",08,"TITUS COUNTY","Asian",45
+"2019-2020",08,"TITUS COUNTY","Black or African American",642
+"2019-2020",08,"TITUS COUNTY","Hispanic/Latino",4441
+"2019-2020",08,"TITUS COUNTY","Native Hawaiian/Other Pacific",4
+"2019-2020",08,"TITUS COUNTY","Two or more races",128
+"2019-2020",08,"TITUS COUNTY","White",1764
+"2019-2020",15,"TOM GREEN COUNTY","American Indian or Alaska Nat",62
+"2019-2020",15,"TOM GREEN COUNTY","Asian",227
+"2019-2020",15,"TOM GREEN COUNTY","Black or African American",915
+"2019-2020",15,"TOM GREEN COUNTY","Hispanic/Latino",11395
+"2019-2020",15,"TOM GREEN COUNTY","Native Hawaiian/Other Pacific",24
+"2019-2020",15,"TOM GREEN COUNTY","Two or more races",505
+"2019-2020",15,"TOM GREEN COUNTY","White",7946
+"2019-2020",04,"TRAVIS COUNTY","American Indian or Alaska Nat",117
+"2019-2020",04,"TRAVIS COUNTY","Asian",503
+"2019-2020",04,"TRAVIS COUNTY","Black or African American",7167
+"2019-2020",04,"TRAVIS COUNTY","Hispanic/Latino",20191
+"2019-2020",04,"TRAVIS COUNTY","Native Hawaiian/Other Pacific",29
+"2019-2020",04,"TRAVIS COUNTY","Two or more races",251
+"2019-2020",04,"TRAVIS COUNTY","White",414
+"2019-2020",13,"TRAVIS COUNTY","American Indian or Alaska Nat",287
+"2019-2020",13,"TRAVIS COUNTY","Asian",8840
+"2019-2020",13,"TRAVIS COUNTY","Black or African American",14470
+"2019-2020",13,"TRAVIS COUNTY","Hispanic/Latino",85417
+"2019-2020",13,"TRAVIS COUNTY","Native Hawaiian/Other Pacific",160
+"2019-2020",13,"TRAVIS COUNTY","Two or more races",5834
+"2019-2020",13,"TRAVIS COUNTY","White",48430
+"2019-2020",06,"TRINITY COUNTY","American Indian or Alaska Nat",3
+"2019-2020",06,"TRINITY COUNTY","Asian",8
+"2019-2020",06,"TRINITY COUNTY","Black or African American",243
+"2019-2020",06,"TRINITY COUNTY","Hispanic/Latino",438
+"2019-2020",06,"TRINITY COUNTY","Two or more races",83
+"2019-2020",06,"TRINITY COUNTY","White",1539
+"2019-2020",05,"TYLER COUNTY","American Indian or Alaska Nat",65
+"2019-2020",05,"TYLER COUNTY","Asian",21
+"2019-2020",05,"TYLER COUNTY","Black or African American",337
+"2019-2020",05,"TYLER COUNTY","Hispanic/Latino",270
+"2019-2020",05,"TYLER COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",05,"TYLER COUNTY","Two or more races",127
+"2019-2020",05,"TYLER COUNTY","White",2916
+"2019-2020",07,"UPSHUR COUNTY","American Indian or Alaska Nat",41
+"2019-2020",07,"UPSHUR COUNTY","Asian",33
+"2019-2020",07,"UPSHUR COUNTY","Black or African American",493
+"2019-2020",07,"UPSHUR COUNTY","Hispanic/Latino",1223
+"2019-2020",07,"UPSHUR COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",07,"UPSHUR COUNTY","Two or more races",392
+"2019-2020",07,"UPSHUR COUNTY","White",5433
+"2019-2020",18,"UPTON COUNTY","American Indian or Alaska Nat",7
+"2019-2020",18,"UPTON COUNTY","Asian",1
+"2019-2020",18,"UPTON COUNTY","Black or African American",22
+"2019-2020",18,"UPTON COUNTY","Hispanic/Latino",562
+"2019-2020",18,"UPTON COUNTY","Two or more races",13
+"2019-2020",18,"UPTON COUNTY","White",265
+"2019-2020",20,"UVALDE COUNTY","American Indian or Alaska Nat",4
+"2019-2020",20,"UVALDE COUNTY","Asian",25
+"2019-2020",20,"UVALDE COUNTY","Black or African American",16
+"2019-2020",20,"UVALDE COUNTY","Hispanic/Latino",4479
+"2019-2020",20,"UVALDE COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",20,"UVALDE COUNTY","Two or more races",28
+"2019-2020",20,"UVALDE COUNTY","White",833
+"2019-2020",15,"VAL VERDE COUNTY","American Indian or Alaska Nat",8
+"2019-2020",15,"VAL VERDE COUNTY","Asian",38
+"2019-2020",15,"VAL VERDE COUNTY","Black or African American",77
+"2019-2020",15,"VAL VERDE COUNTY","Hispanic/Latino",9721
+"2019-2020",15,"VAL VERDE COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",15,"VAL VERDE COUNTY","Two or more races",33
+"2019-2020",15,"VAL VERDE COUNTY","White",656
+"2019-2020",07,"VAN ZANDT COUNTY","American Indian or Alaska Nat",14
+"2019-2020",07,"VAN ZANDT COUNTY","Asian",19
+"2019-2020",07,"VAN ZANDT COUNTY","Black or African American",140
+"2019-2020",07,"VAN ZANDT COUNTY","Hispanic/Latino",1096
+"2019-2020",07,"VAN ZANDT COUNTY","Two or more races",171
+"2019-2020",07,"VAN ZANDT COUNTY","White",4058
+"2019-2020",10,"VAN ZANDT COUNTY","American Indian or Alaska Nat",42
+"2019-2020",10,"VAN ZANDT COUNTY","Asian",37
+"2019-2020",10,"VAN ZANDT COUNTY","Black or African American",172
+"2019-2020",10,"VAN ZANDT COUNTY","Hispanic/Latino",979
+"2019-2020",10,"VAN ZANDT COUNTY","Native Hawaiian/Other Pacific",2
+"2019-2020",10,"VAN ZANDT COUNTY","Two or more races",159
+"2019-2020",10,"VAN ZANDT COUNTY","White",3373
+"2019-2020",03,"VICTORIA COUNTY","American Indian or Alaska Nat",23
+"2019-2020",03,"VICTORIA COUNTY","Asian",148
+"2019-2020",03,"VICTORIA COUNTY","Black or African American",911
+"2019-2020",03,"VICTORIA COUNTY","Hispanic/Latino",9958
+"2019-2020",03,"VICTORIA COUNTY","Native Hawaiian/Other Pacific",6
+"2019-2020",03,"VICTORIA COUNTY","Two or more races",233
+"2019-2020",03,"VICTORIA COUNTY","White",3550
+"2019-2020",06,"WALKER COUNTY","American Indian or Alaska Nat",56
+"2019-2020",06,"WALKER COUNTY","Asian",158
+"2019-2020",06,"WALKER COUNTY","Black or African American",2184
+"2019-2020",06,"WALKER COUNTY","Hispanic/Latino",3443
+"2019-2020",06,"WALKER COUNTY","Native Hawaiian/Other Pacific",11
+"2019-2020",06,"WALKER COUNTY","Two or more races",422
+"2019-2020",06,"WALKER COUNTY","White",4319
+"2019-2020",04,"WALLER COUNTY","American Indian or Alaska Nat",33
+"2019-2020",04,"WALLER COUNTY","Asian",61
+"2019-2020",04,"WALLER COUNTY","Black or African American",1556
+"2019-2020",04,"WALLER COUNTY","Hispanic/Latino",7090
+"2019-2020",04,"WALLER COUNTY","Native Hawaiian/Other Pacific",12
+"2019-2020",04,"WALLER COUNTY","Two or more races",233
+"2019-2020",04,"WALLER COUNTY","White",2792
+"2019-2020",18,"WARD COUNTY","American Indian or Alaska Nat",9
+"2019-2020",18,"WARD COUNTY","Asian",13
+"2019-2020",18,"WARD COUNTY","Black or African American",136
+"2019-2020",18,"WARD COUNTY","Hispanic/Latino",1607
+"2019-2020",18,"WARD COUNTY","Two or more races",19
+"2019-2020",18,"WARD COUNTY","White",799
+"2019-2020",06,"WASHINGTON COUNTY","American Indian or Alaska Nat",7
+"2019-2020",06,"WASHINGTON COUNTY","Asian",80
+"2019-2020",06,"WASHINGTON COUNTY","Black or African American",1166
+"2019-2020",06,"WASHINGTON COUNTY","Hispanic/Latino",1899
+"2019-2020",06,"WASHINGTON COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",06,"WASHINGTON COUNTY","Two or more races",140
+"2019-2020",06,"WASHINGTON COUNTY","White",2286
+"2019-2020",01,"WEBB COUNTY","American Indian or Alaska Nat",11
+"2019-2020",01,"WEBB COUNTY","Asian",171
+"2019-2020",01,"WEBB COUNTY","Black or African American",64
+"2019-2020",01,"WEBB COUNTY","Hispanic/Latino",66711
+"2019-2020",01,"WEBB COUNTY","Native Hawaiian/Other Pacific",7
+"2019-2020",01,"WEBB COUNTY","Two or more races",19
+"2019-2020",01,"WEBB COUNTY","White",284
+"2019-2020",03,"WHARTON COUNTY","American Indian or Alaska Nat",10
+"2019-2020",03,"WHARTON COUNTY","Asian",37
+"2019-2020",03,"WHARTON COUNTY","Black or African American",1044
+"2019-2020",03,"WHARTON COUNTY","Hispanic/Latino",4764
+"2019-2020",03,"WHARTON COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",03,"WHARTON COUNTY","Two or more races",99
+"2019-2020",03,"WHARTON COUNTY","White",2278
+"2019-2020",16,"WHEELER COUNTY","American Indian or Alaska Nat",10
+"2019-2020",16,"WHEELER COUNTY","Asian",4
+"2019-2020",16,"WHEELER COUNTY","Black or African American",20
+"2019-2020",16,"WHEELER COUNTY","Hispanic/Latino",444
+"2019-2020",16,"WHEELER COUNTY","Two or more races",42
+"2019-2020",16,"WHEELER COUNTY","White",569
+"2019-2020",09,"WICHITA COUNTY","American Indian or Alaska Nat",129
+"2019-2020",09,"WICHITA COUNTY","Asian",370
+"2019-2020",09,"WICHITA COUNTY","Black or African American",2322
+"2019-2020",09,"WICHITA COUNTY","Hispanic/Latino",6376
+"2019-2020",09,"WICHITA COUNTY","Native Hawaiian/Other Pacific",30
+"2019-2020",09,"WICHITA COUNTY","Two or more races",1313
+"2019-2020",09,"WICHITA COUNTY","White",10235
+"2019-2020",09,"WILBARGER COUNTY","American Indian or Alaska Nat",18
+"2019-2020",09,"WILBARGER COUNTY","Asian",136
+"2019-2020",09,"WILBARGER COUNTY","Black or African American",172
+"2019-2020",09,"WILBARGER COUNTY","Hispanic/Latino",960
+"2019-2020",09,"WILBARGER COUNTY","Native Hawaiian/Other Pacific",9
+"2019-2020",09,"WILBARGER COUNTY","Two or more races",94
+"2019-2020",09,"WILBARGER COUNTY","White",899
+"2019-2020",01,"WILLACY COUNTY","American Indian or Alaska Nat",5
+"2019-2020",01,"WILLACY COUNTY","Asian",7
+"2019-2020",01,"WILLACY COUNTY","Black or African American",9
+"2019-2020",01,"WILLACY COUNTY","Hispanic/Latino",4025
+"2019-2020",01,"WILLACY COUNTY","Two or more races",5
+"2019-2020",01,"WILLACY COUNTY","White",96
+"2019-2020",13,"WILLIAMSON COUNTY","American Indian or Alaska Nat",420
+"2019-2020",13,"WILLIAMSON COUNTY","Asian",14210
+"2019-2020",13,"WILLIAMSON COUNTY","Black or African American",8515
+"2019-2020",13,"WILLIAMSON COUNTY","Hispanic/Latino",40699
+"2019-2020",13,"WILLIAMSON COUNTY","Native Hawaiian/Other Pacific",205
+"2019-2020",13,"WILLIAMSON COUNTY","Two or more races",5748
+"2019-2020",13,"WILLIAMSON COUNTY","White",57477
+"2019-2020",20,"WILSON COUNTY","American Indian or Alaska Nat",35
+"2019-2020",20,"WILSON COUNTY","Asian",25
+"2019-2020",20,"WILSON COUNTY","Black or African American",91
+"2019-2020",20,"WILSON COUNTY","Hispanic/Latino",4541
+"2019-2020",20,"WILSON COUNTY","Native Hawaiian/Other Pacific",9
+"2019-2020",20,"WILSON COUNTY","Two or more races",140
+"2019-2020",20,"WILSON COUNTY","White",4357
+"2019-2020",18,"WINKLER COUNTY","American Indian or Alaska Nat",7
+"2019-2020",18,"WINKLER COUNTY","Asian",11
+"2019-2020",18,"WINKLER COUNTY","Black or African American",34
+"2019-2020",18,"WINKLER COUNTY","Hispanic/Latino",1364
+"2019-2020",18,"WINKLER COUNTY","Two or more races",13
+"2019-2020",18,"WINKLER COUNTY","White",472
+"2019-2020",11,"WISE COUNTY","American Indian or Alaska Nat",67
+"2019-2020",11,"WISE COUNTY","Asian",42
+"2019-2020",11,"WISE COUNTY","Black or African American",66
+"2019-2020",11,"WISE COUNTY","Hispanic/Latino",2982
+"2019-2020",11,"WISE COUNTY","Native Hawaiian/Other Pacific",3
+"2019-2020",11,"WISE COUNTY","Two or more races",204
+"2019-2020",11,"WISE COUNTY","White",6365
+"2019-2020",07,"WOOD COUNTY","American Indian or Alaska Nat",24
+"2019-2020",07,"WOOD COUNTY","Asian",40
+"2019-2020",07,"WOOD COUNTY","Black or African American",229
+"2019-2020",07,"WOOD COUNTY","Hispanic/Latino",1242
+"2019-2020",07,"WOOD COUNTY","Native Hawaiian/Other Pacific",5
+"2019-2020",07,"WOOD COUNTY","Two or more races",228
+"2019-2020",07,"WOOD COUNTY","White",4528
+"2019-2020",17,"YOAKUM COUNTY","American Indian or Alaska Nat",6
+"2019-2020",17,"YOAKUM COUNTY","Asian",12
+"2019-2020",17,"YOAKUM COUNTY","Black or African American",9
+"2019-2020",17,"YOAKUM COUNTY","Hispanic/Latino",1702
+"2019-2020",17,"YOAKUM COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",17,"YOAKUM COUNTY","Two or more races",16
+"2019-2020",17,"YOAKUM COUNTY","White",412
+"2019-2020",09,"YOUNG COUNTY","American Indian or Alaska Nat",19
+"2019-2020",09,"YOUNG COUNTY","Asian",16
+"2019-2020",09,"YOUNG COUNTY","Black or African American",41
+"2019-2020",09,"YOUNG COUNTY","Hispanic/Latino",981
+"2019-2020",09,"YOUNG COUNTY","Native Hawaiian/Other Pacific",1
+"2019-2020",09,"YOUNG COUNTY","Two or more races",70
+"2019-2020",09,"YOUNG COUNTY","White",2068
+"2019-2020",01,"ZAPATA COUNTY","Asian",3
+"2019-2020",01,"ZAPATA COUNTY","Hispanic/Latino",3523
+"2019-2020",01,"ZAPATA COUNTY","Two or more races",2
+"2019-2020",01,"ZAPATA COUNTY","White",21
+"2019-2020",20,"ZAVALA COUNTY","American Indian or Alaska Nat",2
+"2019-2020",20,"ZAVALA COUNTY","Asian",3
+"2019-2020",20,"ZAVALA COUNTY","Black or African American",10
+"2019-2020",20,"ZAVALA COUNTY","Hispanic/Latino",2375
+"2019-2020",20,"ZAVALA COUNTY","Two or more races",1
+"2019-2020",20,"ZAVALA COUNTY","White",28
+

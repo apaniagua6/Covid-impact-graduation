@@ -1,0 +1,20 @@
+T E X A S  E D U C A T I O N  A G E N C Y
+
+PEIMS Student Enrollment Data for 2019-2020
+
+"YEAR","ETHNICITY","GENDER","ENROLLMENT"
+"2019-2020","American Indian or Alaska Nat","Female",9772
+"2019-2020","American Indian or Alaska Nat","Male",10290
+"2019-2020","Asian","Female",122110
+"2019-2020","Asian","Male",128353
+"2019-2020","Black or African American","Female",338850
+"2019-2020","Black or African American","Male",354075
+"2019-2020","Hispanic/Latino","Female",1417526
+"2019-2020","Hispanic/Latino","Male",1481978
+"2019-2020","Native Hawaiian/Other Pacific","Female",4237
+"2019-2020","Native Hawaiian/Other Pacific","Male",4244
+"2019-2020","Two or more races","Female",68694
+"2019-2020","Two or more races","Male",70123
+"2019-2020","White","Female",717430
+"2019-2020","White","Male",766258
+
