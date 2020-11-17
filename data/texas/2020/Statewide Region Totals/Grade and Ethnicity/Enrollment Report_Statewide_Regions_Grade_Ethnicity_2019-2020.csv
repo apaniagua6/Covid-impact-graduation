@@ -1,0 +1,2083 @@
+T E X A S  E D U C A T I O N  A G E N C Y
+
+PEIMS Student Enrollment Data for 2019-2020
+
+"YEAR","REGION","ETHNICITY","GRADE","ENROLLMENT"
+"2019-2020",01,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",01,"Asian","Early Education",1
+"2019-2020",01,"Black or African American","Early Education",3
+"2019-2020",01,"Hispanic/Latino","Early Education",854
+"2019-2020",01,"Two or more races","Early Education",2
+"2019-2020",01,"White","Early Education",17
+"2019-2020",01,"American Indian or Alaska Nat","Pre-kindergarten",17
+"2019-2020",01,"Asian","Pre-kindergarten",104
+"2019-2020",01,"Black or African American","Pre-kindergarten",153
+"2019-2020",01,"Hispanic/Latino","Pre-kindergarten",30460
+"2019-2020",01,"Native Hawaiian/Other Pacific","Pre-kindergarten",3
+"2019-2020",01,"Two or more races","Pre-kindergarten",77
+"2019-2020",01,"White","Pre-kindergarten",862
+"2019-2020",01,"American Indian or Alaska Nat","Kindergarten",17
+"2019-2020",01,"Asian","Kindergarten",122
+"2019-2020",01,"Black or African American","Kindergarten",391
+"2019-2020",01,"Hispanic/Latino","Kindergarten",28544
+"2019-2020",01,"Native Hawaiian/Other Pacific","Kindergarten",2
+"2019-2020",01,"Two or more races","Kindergarten",113
+"2019-2020",01,"White","Kindergarten",707
+"2019-2020",01,"American Indian or Alaska Nat","Grade 1",17
+"2019-2020",01,"Asian","Grade 1",137
+"2019-2020",01,"Black or African American","Grade 1",378
+"2019-2020",01,"Hispanic/Latino","Grade 1",29493
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 1",5
+"2019-2020",01,"Two or more races","Grade 1",90
+"2019-2020",01,"White","Grade 1",664
+"2019-2020",01,"American Indian or Alaska Nat","Grade 2",13
+"2019-2020",01,"Asian","Grade 2",128
+"2019-2020",01,"Black or African American","Grade 2",322
+"2019-2020",01,"Hispanic/Latino","Grade 2",29276
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 2",7
+"2019-2020",01,"Two or more races","Grade 2",86
+"2019-2020",01,"White","Grade 2",605
+"2019-2020",01,"American Indian or Alaska Nat","Grade 3",2
+"2019-2020",01,"Asian","Grade 3",122
+"2019-2020",01,"Black or African American","Grade 3",213
+"2019-2020",01,"Hispanic/Latino","Grade 3",29235
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 3",6
+"2019-2020",01,"Two or more races","Grade 3",43
+"2019-2020",01,"White","Grade 3",450
+"2019-2020",01,"American Indian or Alaska Nat","Grade 4",4
+"2019-2020",01,"Asian","Grade 4",103
+"2019-2020",01,"Black or African American","Grade 4",178
+"2019-2020",01,"Hispanic/Latino","Grade 4",28881
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 4",5
+"2019-2020",01,"Two or more races","Grade 4",30
+"2019-2020",01,"White","Grade 4",413
+"2019-2020",01,"American Indian or Alaska Nat","Grade 5",9
+"2019-2020",01,"Asian","Grade 5",124
+"2019-2020",01,"Black or African American","Grade 5",223
+"2019-2020",01,"Hispanic/Latino","Grade 5",30556
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 5",3
+"2019-2020",01,"Two or more races","Grade 5",39
+"2019-2020",01,"White","Grade 5",417
+"2019-2020",01,"American Indian or Alaska Nat","Grade 6",15
+"2019-2020",01,"Asian","Grade 6",149
+"2019-2020",01,"Black or African American","Grade 6",324
+"2019-2020",01,"Hispanic/Latino","Grade 6",32002
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 6",6
+"2019-2020",01,"Two or more races","Grade 6",56
+"2019-2020",01,"White","Grade 6",631
+"2019-2020",01,"American Indian or Alaska Nat","Grade 7",18
+"2019-2020",01,"Asian","Grade 7",166
+"2019-2020",01,"Black or African American","Grade 7",242
+"2019-2020",01,"Hispanic/Latino","Grade 7",31983
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 7",6
+"2019-2020",01,"Two or more races","Grade 7",62
+"2019-2020",01,"White","Grade 7",601
+"2019-2020",01,"American Indian or Alaska Nat","Grade 8",8
+"2019-2020",01,"Asian","Grade 8",128
+"2019-2020",01,"Black or African American","Grade 8",166
+"2019-2020",01,"Hispanic/Latino","Grade 8",31330
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 8",9
+"2019-2020",01,"Two or more races","Grade 8",41
+"2019-2020",01,"White","Grade 8",562
+"2019-2020",01,"American Indian or Alaska Nat","Grade 9",12
+"2019-2020",01,"Asian","Grade 9",157
+"2019-2020",01,"Black or African American","Grade 9",136
+"2019-2020",01,"Hispanic/Latino","Grade 9",34826
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 9",6
+"2019-2020",01,"Two or more races","Grade 9",37
+"2019-2020",01,"White","Grade 9",541
+"2019-2020",01,"American Indian or Alaska Nat","Grade 10",21
+"2019-2020",01,"Asian","Grade 10",150
+"2019-2020",01,"Black or African American","Grade 10",117
+"2019-2020",01,"Hispanic/Latino","Grade 10",31586
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 10",4
+"2019-2020",01,"Two or more races","Grade 10",33
+"2019-2020",01,"White","Grade 10",519
+"2019-2020",01,"American Indian or Alaska Nat","Grade 11",9
+"2019-2020",01,"Asian","Grade 11",157
+"2019-2020",01,"Black or African American","Grade 11",83
+"2019-2020",01,"Hispanic/Latino","Grade 11",28742
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 11",11
+"2019-2020",01,"Two or more races","Grade 11",26
+"2019-2020",01,"White","Grade 11",470
+"2019-2020",01,"American Indian or Alaska Nat","Grade 12",10
+"2019-2020",01,"Asian","Grade 12",150
+"2019-2020",01,"Black or African American","Grade 12",53
+"2019-2020",01,"Hispanic/Latino","Grade 12",28128
+"2019-2020",01,"Native Hawaiian/Other Pacific","Grade 12",4
+"2019-2020",01,"Two or more races","Grade 12",26
+"2019-2020",01,"White","Grade 12",392
+"2019-2020",02,"Asian","Early Education",1
+"2019-2020",02,"Black or African American","Early Education",9
+"2019-2020",02,"Hispanic/Latino","Early Education",335
+"2019-2020",02,"Native Hawaiian/Other Pacific","Early Education",1
+"2019-2020",02,"Two or more races","Early Education",5
+"2019-2020",02,"White","Early Education",105
+"2019-2020",02,"American Indian or Alaska Nat","Pre-kindergarten",3
+"2019-2020",02,"Asian","Pre-kindergarten",36
+"2019-2020",02,"Black or African American","Pre-kindergarten",100
+"2019-2020",02,"Hispanic/Latino","Pre-kindergarten",3711
+"2019-2020",02,"Native Hawaiian/Other Pacific","Pre-kindergarten",1
+"2019-2020",02,"Two or more races","Pre-kindergarten",57
+"2019-2020",02,"White","Pre-kindergarten",531
+"2019-2020",02,"American Indian or Alaska Nat","Kindergarten",7
+"2019-2020",02,"Asian","Kindergarten",71
+"2019-2020",02,"Black or African American","Kindergarten",128
+"2019-2020",02,"Hispanic/Latino","Kindergarten",5574
+"2019-2020",02,"Native Hawaiian/Other Pacific","Kindergarten",3
+"2019-2020",02,"Two or more races","Kindergarten",130
+"2019-2020",02,"White","Kindergarten",1364
+"2019-2020",02,"American Indian or Alaska Nat","Grade 1",12
+"2019-2020",02,"Asian","Grade 1",82
+"2019-2020",02,"Black or African American","Grade 1",136
+"2019-2020",02,"Hispanic/Latino","Grade 1",5513
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 1",2
+"2019-2020",02,"Two or more races","Grade 1",114
+"2019-2020",02,"White","Grade 1",1392
+"2019-2020",02,"American Indian or Alaska Nat","Grade 2",9
+"2019-2020",02,"Asian","Grade 2",82
+"2019-2020",02,"Black or African American","Grade 2",156
+"2019-2020",02,"Hispanic/Latino","Grade 2",5408
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 2",8
+"2019-2020",02,"Two or more races","Grade 2",79
+"2019-2020",02,"White","Grade 2",1326
+"2019-2020",02,"American Indian or Alaska Nat","Grade 3",7
+"2019-2020",02,"Asian","Grade 3",104
+"2019-2020",02,"Black or African American","Grade 3",160
+"2019-2020",02,"Hispanic/Latino","Grade 3",5375
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 3",10
+"2019-2020",02,"Two or more races","Grade 3",89
+"2019-2020",02,"White","Grade 3",1466
+"2019-2020",02,"American Indian or Alaska Nat","Grade 4",13
+"2019-2020",02,"Asian","Grade 4",95
+"2019-2020",02,"Black or African American","Grade 4",195
+"2019-2020",02,"Hispanic/Latino","Grade 4",5459
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 4",6
+"2019-2020",02,"Two or more races","Grade 4",93
+"2019-2020",02,"White","Grade 4",1448
+"2019-2020",02,"American Indian or Alaska Nat","Grade 5",8
+"2019-2020",02,"Asian","Grade 5",87
+"2019-2020",02,"Black or African American","Grade 5",187
+"2019-2020",02,"Hispanic/Latino","Grade 5",5826
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 5",9
+"2019-2020",02,"Two or more races","Grade 5",97
+"2019-2020",02,"White","Grade 5",1508
+"2019-2020",02,"American Indian or Alaska Nat","Grade 6",9
+"2019-2020",02,"Asian","Grade 6",100
+"2019-2020",02,"Black or African American","Grade 6",213
+"2019-2020",02,"Hispanic/Latino","Grade 6",5872
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 6",3
+"2019-2020",02,"Two or more races","Grade 6",109
+"2019-2020",02,"White","Grade 6",1599
+"2019-2020",02,"American Indian or Alaska Nat","Grade 7",13
+"2019-2020",02,"Asian","Grade 7",83
+"2019-2020",02,"Black or African American","Grade 7",175
+"2019-2020",02,"Hispanic/Latino","Grade 7",5771
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 7",4
+"2019-2020",02,"Two or more races","Grade 7",98
+"2019-2020",02,"White","Grade 7",1587
+"2019-2020",02,"American Indian or Alaska Nat","Grade 8",24
+"2019-2020",02,"Asian","Grade 8",111
+"2019-2020",02,"Black or African American","Grade 8",159
+"2019-2020",02,"Hispanic/Latino","Grade 8",5769
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 8",7
+"2019-2020",02,"Two or more races","Grade 8",81
+"2019-2020",02,"White","Grade 8",1640
+"2019-2020",02,"American Indian or Alaska Nat","Grade 9",22
+"2019-2020",02,"Asian","Grade 9",93
+"2019-2020",02,"Black or African American","Grade 9",199
+"2019-2020",02,"Hispanic/Latino","Grade 9",6222
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 9",9
+"2019-2020",02,"Two or more races","Grade 9",95
+"2019-2020",02,"White","Grade 9",1648
+"2019-2020",02,"American Indian or Alaska Nat","Grade 10",12
+"2019-2020",02,"Asian","Grade 10",97
+"2019-2020",02,"Black or African American","Grade 10",188
+"2019-2020",02,"Hispanic/Latino","Grade 10",5456
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 10",6
+"2019-2020",02,"Two or more races","Grade 10",90
+"2019-2020",02,"White","Grade 10",1477
+"2019-2020",02,"American Indian or Alaska Nat","Grade 11",14
+"2019-2020",02,"Asian","Grade 11",116
+"2019-2020",02,"Black or African American","Grade 11",185
+"2019-2020",02,"Hispanic/Latino","Grade 11",4951
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 11",5
+"2019-2020",02,"Two or more races","Grade 11",85
+"2019-2020",02,"White","Grade 11",1418
+"2019-2020",02,"American Indian or Alaska Nat","Grade 12",10
+"2019-2020",02,"Asian","Grade 12",100
+"2019-2020",02,"Black or African American","Grade 12",165
+"2019-2020",02,"Hispanic/Latino","Grade 12",4889
+"2019-2020",02,"Native Hawaiian/Other Pacific","Grade 12",3
+"2019-2020",02,"Two or more races","Grade 12",78
+"2019-2020",02,"White","Grade 12",1420
+"2019-2020",03,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",03,"Asian","Early Education",3
+"2019-2020",03,"Black or African American","Early Education",17
+"2019-2020",03,"Hispanic/Latino","Early Education",191
+"2019-2020",03,"Two or more races","Early Education",6
+"2019-2020",03,"White","Early Education",85
+"2019-2020",03,"American Indian or Alaska Nat","Pre-kindergarten",1
+"2019-2020",03,"Asian","Pre-kindergarten",30
+"2019-2020",03,"Black or African American","Pre-kindergarten",198
+"2019-2020",03,"Hispanic/Latino","Pre-kindergarten",1608
+"2019-2020",03,"Two or more races","Pre-kindergarten",53
+"2019-2020",03,"White","Pre-kindergarten",581
+"2019-2020",03,"American Indian or Alaska Nat","Kindergarten",7
+"2019-2020",03,"Asian","Kindergarten",45
+"2019-2020",03,"Black or African American","Kindergarten",246
+"2019-2020",03,"Hispanic/Latino","Kindergarten",2241
+"2019-2020",03,"Native Hawaiian/Other Pacific","Kindergarten",2
+"2019-2020",03,"Two or more races","Kindergarten",81
+"2019-2020",03,"White","Kindergarten",1122
+"2019-2020",03,"American Indian or Alaska Nat","Grade 1",6
+"2019-2020",03,"Asian","Grade 1",48
+"2019-2020",03,"Black or African American","Grade 1",259
+"2019-2020",03,"Hispanic/Latino","Grade 1",2241
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 1",1
+"2019-2020",03,"Two or more races","Grade 1",70
+"2019-2020",03,"White","Grade 1",1178
+"2019-2020",03,"American Indian or Alaska Nat","Grade 2",6
+"2019-2020",03,"Asian","Grade 2",37
+"2019-2020",03,"Black or African American","Grade 2",259
+"2019-2020",03,"Hispanic/Latino","Grade 2",2179
+"2019-2020",03,"Two or more races","Grade 2",58
+"2019-2020",03,"White","Grade 2",1135
+"2019-2020",03,"American Indian or Alaska Nat","Grade 3",5
+"2019-2020",03,"Asian","Grade 3",32
+"2019-2020",03,"Black or African American","Grade 3",272
+"2019-2020",03,"Hispanic/Latino","Grade 3",2140
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 3",2
+"2019-2020",03,"Two or more races","Grade 3",75
+"2019-2020",03,"White","Grade 3",1149
+"2019-2020",03,"American Indian or Alaska Nat","Grade 4",6
+"2019-2020",03,"Asian","Grade 4",43
+"2019-2020",03,"Black or African American","Grade 4",305
+"2019-2020",03,"Hispanic/Latino","Grade 4",2267
+"2019-2020",03,"Two or more races","Grade 4",66
+"2019-2020",03,"White","Grade 4",1188
+"2019-2020",03,"American Indian or Alaska Nat","Grade 5",6
+"2019-2020",03,"Asian","Grade 5",34
+"2019-2020",03,"Black or African American","Grade 5",306
+"2019-2020",03,"Hispanic/Latino","Grade 5",2331
+"2019-2020",03,"Two or more races","Grade 5",58
+"2019-2020",03,"White","Grade 5",1204
+"2019-2020",03,"American Indian or Alaska Nat","Grade 6",2
+"2019-2020",03,"Asian","Grade 6",44
+"2019-2020",03,"Black or African American","Grade 6",359
+"2019-2020",03,"Hispanic/Latino","Grade 6",2437
+"2019-2020",03,"Two or more races","Grade 6",63
+"2019-2020",03,"White","Grade 6",1295
+"2019-2020",03,"American Indian or Alaska Nat","Grade 7",4
+"2019-2020",03,"Asian","Grade 7",41
+"2019-2020",03,"Black or African American","Grade 7",322
+"2019-2020",03,"Hispanic/Latino","Grade 7",2465
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 7",1
+"2019-2020",03,"Two or more races","Grade 7",60
+"2019-2020",03,"White","Grade 7",1244
+"2019-2020",03,"American Indian or Alaska Nat","Grade 8",5
+"2019-2020",03,"Asian","Grade 8",46
+"2019-2020",03,"Black or African American","Grade 8",304
+"2019-2020",03,"Hispanic/Latino","Grade 8",2340
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 8",3
+"2019-2020",03,"Two or more races","Grade 8",57
+"2019-2020",03,"White","Grade 8",1173
+"2019-2020",03,"American Indian or Alaska Nat","Grade 9",6
+"2019-2020",03,"Asian","Grade 9",50
+"2019-2020",03,"Black or African American","Grade 9",343
+"2019-2020",03,"Hispanic/Latino","Grade 9",2487
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 9",2
+"2019-2020",03,"Two or more races","Grade 9",58
+"2019-2020",03,"White","Grade 9",1265
+"2019-2020",03,"American Indian or Alaska Nat","Grade 10",7
+"2019-2020",03,"Asian","Grade 10",63
+"2019-2020",03,"Black or African American","Grade 10",307
+"2019-2020",03,"Hispanic/Latino","Grade 10",2147
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 10",4
+"2019-2020",03,"Two or more races","Grade 10",50
+"2019-2020",03,"White","Grade 10",1210
+"2019-2020",03,"American Indian or Alaska Nat","Grade 11",8
+"2019-2020",03,"Asian","Grade 11",56
+"2019-2020",03,"Black or African American","Grade 11",289
+"2019-2020",03,"Hispanic/Latino","Grade 11",1950
+"2019-2020",03,"Two or more races","Grade 11",56
+"2019-2020",03,"White","Grade 11",1250
+"2019-2020",03,"American Indian or Alaska Nat","Grade 12",6
+"2019-2020",03,"Asian","Grade 12",56
+"2019-2020",03,"Black or African American","Grade 12",290
+"2019-2020",03,"Hispanic/Latino","Grade 12",1857
+"2019-2020",03,"Native Hawaiian/Other Pacific","Grade 12",3
+"2019-2020",03,"Two or more races","Grade 12",53
+"2019-2020",03,"White","Grade 12",1240
+"2019-2020",04,"American Indian or Alaska Nat","Early Education",32
+"2019-2020",04,"Asian","Early Education",414
+"2019-2020",04,"Black or African American","Early Education",896
+"2019-2020",04,"Hispanic/Latino","Early Education",2922
+"2019-2020",04,"Native Hawaiian/Other Pacific","Early Education",7
+"2019-2020",04,"Two or more races","Early Education",173
+"2019-2020",04,"White","Early Education",1688
+"2019-2020",04,"American Indian or Alaska Nat","Pre-kindergarten",171
+"2019-2020",04,"Asian","Pre-kindergarten",3041
+"2019-2020",04,"Black or African American","Pre-kindergarten",11899
+"2019-2020",04,"Hispanic/Latino","Pre-kindergarten",34118
+"2019-2020",04,"Native Hawaiian/Other Pacific","Pre-kindergarten",39
+"2019-2020",04,"Two or more races","Pre-kindergarten",833
+"2019-2020",04,"White","Pre-kindergarten",4114
+"2019-2020",04,"American Indian or Alaska Nat","Kindergarten",303
+"2019-2020",04,"Asian","Kindergarten",5847
+"2019-2020",04,"Black or African American","Kindergarten",15166
+"2019-2020",04,"Hispanic/Latino","Kindergarten",43848
+"2019-2020",04,"Native Hawaiian/Other Pacific","Kindergarten",90
+"2019-2020",04,"Two or more races","Kindergarten",2313
+"2019-2020",04,"White","Kindergarten",18302
+"2019-2020",04,"American Indian or Alaska Nat","Grade 1",361
+"2019-2020",04,"Asian","Grade 1",6151
+"2019-2020",04,"Black or African American","Grade 1",15837
+"2019-2020",04,"Hispanic/Latino","Grade 1",46107
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 1",126
+"2019-2020",04,"Two or more races","Grade 1",2300
+"2019-2020",04,"White","Grade 1",18313
+"2019-2020",04,"American Indian or Alaska Nat","Grade 2",390
+"2019-2020",04,"Asian","Grade 2",6408
+"2019-2020",04,"Black or African American","Grade 2",15981
+"2019-2020",04,"Hispanic/Latino","Grade 2",45535
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 2",120
+"2019-2020",04,"Two or more races","Grade 2",2263
+"2019-2020",04,"White","Grade 2",18325
+"2019-2020",04,"American Indian or Alaska Nat","Grade 3",426
+"2019-2020",04,"Asian","Grade 3",6312
+"2019-2020",04,"Black or African American","Grade 3",16299
+"2019-2020",04,"Hispanic/Latino","Grade 3",46629
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 3",106
+"2019-2020",04,"Two or more races","Grade 3",2153
+"2019-2020",04,"White","Grade 3",18464
+"2019-2020",04,"American Indian or Alaska Nat","Grade 4",484
+"2019-2020",04,"Asian","Grade 4",6485
+"2019-2020",04,"Black or African American","Grade 4",16852
+"2019-2020",04,"Hispanic/Latino","Grade 4",47519
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 4",132
+"2019-2020",04,"Two or more races","Grade 4",2084
+"2019-2020",04,"White","Grade 4",18851
+"2019-2020",04,"American Indian or Alaska Nat","Grade 5",491
+"2019-2020",04,"Asian","Grade 5",6632
+"2019-2020",04,"Black or African American","Grade 5",17511
+"2019-2020",04,"Hispanic/Latino","Grade 5",50167
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 5",107
+"2019-2020",04,"Two or more races","Grade 5",2111
+"2019-2020",04,"White","Grade 5",19600
+"2019-2020",04,"American Indian or Alaska Nat","Grade 6",426
+"2019-2020",04,"Asian","Grade 6",6712
+"2019-2020",04,"Black or African American","Grade 6",17543
+"2019-2020",04,"Hispanic/Latino","Grade 6",49948
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 6",108
+"2019-2020",04,"Two or more races","Grade 6",2052
+"2019-2020",04,"White","Grade 6",19274
+"2019-2020",04,"American Indian or Alaska Nat","Grade 7",396
+"2019-2020",04,"Asian","Grade 7",6547
+"2019-2020",04,"Black or African American","Grade 7",18071
+"2019-2020",04,"Hispanic/Latino","Grade 7",50010
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 7",136
+"2019-2020",04,"Two or more races","Grade 7",1995
+"2019-2020",04,"White","Grade 7",19531
+"2019-2020",04,"American Indian or Alaska Nat","Grade 8",387
+"2019-2020",04,"Asian","Grade 8",6583
+"2019-2020",04,"Black or African American","Grade 8",17306
+"2019-2020",04,"Hispanic/Latino","Grade 8",47970
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 8",117
+"2019-2020",04,"Two or more races","Grade 8",1877
+"2019-2020",04,"White","Grade 8",19092
+"2019-2020",04,"American Indian or Alaska Nat","Grade 9",382
+"2019-2020",04,"Asian","Grade 9",6877
+"2019-2020",04,"Black or African American","Grade 9",19036
+"2019-2020",04,"Hispanic/Latino","Grade 9",52995
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 9",129
+"2019-2020",04,"Two or more races","Grade 9",1905
+"2019-2020",04,"White","Grade 9",20134
+"2019-2020",04,"American Indian or Alaska Nat","Grade 10",347
+"2019-2020",04,"Asian","Grade 10",6801
+"2019-2020",04,"Black or African American","Grade 10",16716
+"2019-2020",04,"Hispanic/Latino","Grade 10",45924
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 10",105
+"2019-2020",04,"Two or more races","Grade 10",1772
+"2019-2020",04,"White","Grade 10",19208
+"2019-2020",04,"American Indian or Alaska Nat","Grade 11",323
+"2019-2020",04,"Asian","Grade 11",6767
+"2019-2020",04,"Black or African American","Grade 11",15480
+"2019-2020",04,"Hispanic/Latino","Grade 11",42759
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 11",112
+"2019-2020",04,"Two or more races","Grade 11",1563
+"2019-2020",04,"White","Grade 11",18965
+"2019-2020",04,"American Indian or Alaska Nat","Grade 12",240
+"2019-2020",04,"Asian","Grade 12",6528
+"2019-2020",04,"Black or African American","Grade 12",14386
+"2019-2020",04,"Hispanic/Latino","Grade 12",39580
+"2019-2020",04,"Native Hawaiian/Other Pacific","Grade 12",96
+"2019-2020",04,"Two or more races","Grade 12",1405
+"2019-2020",04,"White","Grade 12",17961
+"2019-2020",05,"American Indian or Alaska Nat","Early Education",15
+"2019-2020",05,"Asian","Early Education",11
+"2019-2020",05,"Black or African American","Early Education",201
+"2019-2020",05,"Hispanic/Latino","Early Education",127
+"2019-2020",05,"Two or more races","Early Education",12
+"2019-2020",05,"White","Early Education",232
+"2019-2020",05,"American Indian or Alaska Nat","Pre-kindergarten",25
+"2019-2020",05,"Asian","Pre-kindergarten",65
+"2019-2020",05,"Black or African American","Pre-kindergarten",1784
+"2019-2020",05,"Hispanic/Latino","Pre-kindergarten",1172
+"2019-2020",05,"Native Hawaiian/Other Pacific","Pre-kindergarten",3
+"2019-2020",05,"Two or more races","Pre-kindergarten",162
+"2019-2020",05,"White","Pre-kindergarten",1199
+"2019-2020",05,"American Indian or Alaska Nat","Kindergarten",38
+"2019-2020",05,"Asian","Kindergarten",102
+"2019-2020",05,"Black or African American","Kindergarten",1479
+"2019-2020",05,"Hispanic/Latino","Kindergarten",1497
+"2019-2020",05,"Native Hawaiian/Other Pacific","Kindergarten",5
+"2019-2020",05,"Two or more races","Kindergarten",201
+"2019-2020",05,"White","Kindergarten",2883
+"2019-2020",05,"American Indian or Alaska Nat","Grade 1",47
+"2019-2020",05,"Asian","Grade 1",120
+"2019-2020",05,"Black or African American","Grade 1",1466
+"2019-2020",05,"Hispanic/Latino","Grade 1",1558
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 1",4
+"2019-2020",05,"Two or more races","Grade 1",191
+"2019-2020",05,"White","Grade 1",3051
+"2019-2020",05,"American Indian or Alaska Nat","Grade 2",43
+"2019-2020",05,"Asian","Grade 2",133
+"2019-2020",05,"Black or African American","Grade 2",1417
+"2019-2020",05,"Hispanic/Latino","Grade 2",1489
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 2",2
+"2019-2020",05,"Two or more races","Grade 2",185
+"2019-2020",05,"White","Grade 2",2857
+"2019-2020",05,"American Indian or Alaska Nat","Grade 3",45
+"2019-2020",05,"Asian","Grade 3",118
+"2019-2020",05,"Black or African American","Grade 3",1422
+"2019-2020",05,"Hispanic/Latino","Grade 3",1439
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 3",4
+"2019-2020",05,"Two or more races","Grade 3",185
+"2019-2020",05,"White","Grade 3",2830
+"2019-2020",05,"American Indian or Alaska Nat","Grade 4",27
+"2019-2020",05,"Asian","Grade 4",140
+"2019-2020",05,"Black or African American","Grade 4",1518
+"2019-2020",05,"Hispanic/Latino","Grade 4",1481
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 4",4
+"2019-2020",05,"Two or more races","Grade 4",175
+"2019-2020",05,"White","Grade 4",2955
+"2019-2020",05,"American Indian or Alaska Nat","Grade 5",31
+"2019-2020",05,"Asian","Grade 5",115
+"2019-2020",05,"Black or African American","Grade 5",1572
+"2019-2020",05,"Hispanic/Latino","Grade 5",1512
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 5",2
+"2019-2020",05,"Two or more races","Grade 5",156
+"2019-2020",05,"White","Grade 5",3073
+"2019-2020",05,"American Indian or Alaska Nat","Grade 6",24
+"2019-2020",05,"Asian","Grade 6",142
+"2019-2020",05,"Black or African American","Grade 6",1558
+"2019-2020",05,"Hispanic/Latino","Grade 6",1509
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 6",4
+"2019-2020",05,"Two or more races","Grade 6",174
+"2019-2020",05,"White","Grade 6",3007
+"2019-2020",05,"American Indian or Alaska Nat","Grade 7",42
+"2019-2020",05,"Asian","Grade 7",117
+"2019-2020",05,"Black or African American","Grade 7",1548
+"2019-2020",05,"Hispanic/Latino","Grade 7",1437
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 7",6
+"2019-2020",05,"Two or more races","Grade 7",152
+"2019-2020",05,"White","Grade 7",3056
+"2019-2020",05,"American Indian or Alaska Nat","Grade 8",35
+"2019-2020",05,"Asian","Grade 8",144
+"2019-2020",05,"Black or African American","Grade 8",1532
+"2019-2020",05,"Hispanic/Latino","Grade 8",1416
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 8",2
+"2019-2020",05,"Two or more races","Grade 8",147
+"2019-2020",05,"White","Grade 8",2927
+"2019-2020",05,"American Indian or Alaska Nat","Grade 9",51
+"2019-2020",05,"Asian","Grade 9",127
+"2019-2020",05,"Black or African American","Grade 9",1641
+"2019-2020",05,"Hispanic/Latino","Grade 9",1529
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 9",4
+"2019-2020",05,"Two or more races","Grade 9",129
+"2019-2020",05,"White","Grade 9",3041
+"2019-2020",05,"American Indian or Alaska Nat","Grade 10",25
+"2019-2020",05,"Asian","Grade 10",162
+"2019-2020",05,"Black or African American","Grade 10",1360
+"2019-2020",05,"Hispanic/Latino","Grade 10",1263
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 10",3
+"2019-2020",05,"Two or more races","Grade 10",126
+"2019-2020",05,"White","Grade 10",2904
+"2019-2020",05,"American Indian or Alaska Nat","Grade 11",35
+"2019-2020",05,"Asian","Grade 11",166
+"2019-2020",05,"Black or African American","Grade 11",1272
+"2019-2020",05,"Hispanic/Latino","Grade 11",1149
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 11",4
+"2019-2020",05,"Two or more races","Grade 11",115
+"2019-2020",05,"White","Grade 11",2634
+"2019-2020",05,"American Indian or Alaska Nat","Grade 12",31
+"2019-2020",05,"Asian","Grade 12",145
+"2019-2020",05,"Black or African American","Grade 12",1244
+"2019-2020",05,"Hispanic/Latino","Grade 12",1024
+"2019-2020",05,"Native Hawaiian/Other Pacific","Grade 12",5
+"2019-2020",05,"Two or more races","Grade 12",107
+"2019-2020",05,"White","Grade 12",2655
+"2019-2020",06,"American Indian or Alaska Nat","Early Education",6
+"2019-2020",06,"Asian","Early Education",28
+"2019-2020",06,"Black or African American","Early Education",109
+"2019-2020",06,"Hispanic/Latino","Early Education",376
+"2019-2020",06,"Native Hawaiian/Other Pacific","Early Education",2
+"2019-2020",06,"Two or more races","Early Education",28
+"2019-2020",06,"White","Early Education",555
+"2019-2020",06,"American Indian or Alaska Nat","Pre-kindergarten",35
+"2019-2020",06,"Asian","Pre-kindergarten",152
+"2019-2020",06,"Black or African American","Pre-kindergarten",1082
+"2019-2020",06,"Hispanic/Latino","Pre-kindergarten",3610
+"2019-2020",06,"Native Hawaiian/Other Pacific","Pre-kindergarten",5
+"2019-2020",06,"Two or more races","Pre-kindergarten",271
+"2019-2020",06,"White","Pre-kindergarten",2210
+"2019-2020",06,"American Indian or Alaska Nat","Kindergarten",49
+"2019-2020",06,"Asian","Kindergarten",374
+"2019-2020",06,"Black or African American","Kindergarten",1537
+"2019-2020",06,"Hispanic/Latino","Kindergarten",5223
+"2019-2020",06,"Native Hawaiian/Other Pacific","Kindergarten",13
+"2019-2020",06,"Two or more races","Kindergarten",531
+"2019-2020",06,"White","Kindergarten",6640
+"2019-2020",06,"American Indian or Alaska Nat","Grade 1",82
+"2019-2020",06,"Asian","Grade 1",367
+"2019-2020",06,"Black or African American","Grade 1",1509
+"2019-2020",06,"Hispanic/Latino","Grade 1",5231
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 1",20
+"2019-2020",06,"Two or more races","Grade 1",403
+"2019-2020",06,"White","Grade 1",6963
+"2019-2020",06,"American Indian or Alaska Nat","Grade 2",76
+"2019-2020",06,"Asian","Grade 2",408
+"2019-2020",06,"Black or African American","Grade 2",1525
+"2019-2020",06,"Hispanic/Latino","Grade 2",5157
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 2",28
+"2019-2020",06,"Two or more races","Grade 2",401
+"2019-2020",06,"White","Grade 2",6983
+"2019-2020",06,"American Indian or Alaska Nat","Grade 3",60
+"2019-2020",06,"Asian","Grade 3",378
+"2019-2020",06,"Black or African American","Grade 3",1578
+"2019-2020",06,"Hispanic/Latino","Grade 3",5308
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 3",25
+"2019-2020",06,"Two or more races","Grade 3",490
+"2019-2020",06,"White","Grade 3",6780
+"2019-2020",06,"American Indian or Alaska Nat","Grade 4",81
+"2019-2020",06,"Asian","Grade 4",384
+"2019-2020",06,"Black or African American","Grade 4",1594
+"2019-2020",06,"Hispanic/Latino","Grade 4",5691
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 4",24
+"2019-2020",06,"Two or more races","Grade 4",445
+"2019-2020",06,"White","Grade 4",6958
+"2019-2020",06,"American Indian or Alaska Nat","Grade 5",73
+"2019-2020",06,"Asian","Grade 5",337
+"2019-2020",06,"Black or African American","Grade 5",1655
+"2019-2020",06,"Hispanic/Latino","Grade 5",6163
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 5",25
+"2019-2020",06,"Two or more races","Grade 5",474
+"2019-2020",06,"White","Grade 5",7130
+"2019-2020",06,"American Indian or Alaska Nat","Grade 6",56
+"2019-2020",06,"Asian","Grade 6",415
+"2019-2020",06,"Black or African American","Grade 6",1670
+"2019-2020",06,"Hispanic/Latino","Grade 6",6131
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 6",13
+"2019-2020",06,"Two or more races","Grade 6",469
+"2019-2020",06,"White","Grade 6",7275
+"2019-2020",06,"American Indian or Alaska Nat","Grade 7",55
+"2019-2020",06,"Asian","Grade 7",431
+"2019-2020",06,"Black or African American","Grade 7",1729
+"2019-2020",06,"Hispanic/Latino","Grade 7",6231
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 7",25
+"2019-2020",06,"Two or more races","Grade 7",436
+"2019-2020",06,"White","Grade 7",7179
+"2019-2020",06,"American Indian or Alaska Nat","Grade 8",72
+"2019-2020",06,"Asian","Grade 8",363
+"2019-2020",06,"Black or African American","Grade 8",1630
+"2019-2020",06,"Hispanic/Latino","Grade 8",5999
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 8",14
+"2019-2020",06,"Two or more races","Grade 8",449
+"2019-2020",06,"White","Grade 8",7114
+"2019-2020",06,"American Indian or Alaska Nat","Grade 9",59
+"2019-2020",06,"Asian","Grade 9",406
+"2019-2020",06,"Black or African American","Grade 9",1787
+"2019-2020",06,"Hispanic/Latino","Grade 9",6321
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 9",20
+"2019-2020",06,"Two or more races","Grade 9",449
+"2019-2020",06,"White","Grade 9",7736
+"2019-2020",06,"American Indian or Alaska Nat","Grade 10",51
+"2019-2020",06,"Asian","Grade 10",374
+"2019-2020",06,"Black or African American","Grade 10",1607
+"2019-2020",06,"Hispanic/Latino","Grade 10",5753
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 10",17
+"2019-2020",06,"Two or more races","Grade 10",392
+"2019-2020",06,"White","Grade 10",7424
+"2019-2020",06,"American Indian or Alaska Nat","Grade 11",52
+"2019-2020",06,"Asian","Grade 11",385
+"2019-2020",06,"Black or African American","Grade 11",1420
+"2019-2020",06,"Hispanic/Latino","Grade 11",5191
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 11",21
+"2019-2020",06,"Two or more races","Grade 11",363
+"2019-2020",06,"White","Grade 11",6903
+"2019-2020",06,"American Indian or Alaska Nat","Grade 12",53
+"2019-2020",06,"Asian","Grade 12",345
+"2019-2020",06,"Black or African American","Grade 12",1310
+"2019-2020",06,"Hispanic/Latino","Grade 12",4722
+"2019-2020",06,"Native Hawaiian/Other Pacific","Grade 12",19
+"2019-2020",06,"Two or more races","Grade 12",289
+"2019-2020",06,"White","Grade 12",6519
+"2019-2020",07,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",07,"Asian","Early Education",9
+"2019-2020",07,"Black or African American","Early Education",80
+"2019-2020",07,"Hispanic/Latino","Early Education",166
+"2019-2020",07,"Native Hawaiian/Other Pacific","Early Education",2
+"2019-2020",07,"Two or more races","Early Education",23
+"2019-2020",07,"White","Early Education",302
+"2019-2020",07,"American Indian or Alaska Nat","Pre-kindergarten",16
+"2019-2020",07,"Asian","Pre-kindergarten",59
+"2019-2020",07,"Black or African American","Pre-kindergarten",1738
+"2019-2020",07,"Hispanic/Latino","Pre-kindergarten",2778
+"2019-2020",07,"Native Hawaiian/Other Pacific","Pre-kindergarten",3
+"2019-2020",07,"Two or more races","Pre-kindergarten",333
+"2019-2020",07,"White","Pre-kindergarten",3012
+"2019-2020",07,"American Indian or Alaska Nat","Kindergarten",29
+"2019-2020",07,"Asian","Kindergarten",101
+"2019-2020",07,"Black or African American","Kindergarten",1837
+"2019-2020",07,"Hispanic/Latino","Kindergarten",3637
+"2019-2020",07,"Native Hawaiian/Other Pacific","Kindergarten",13
+"2019-2020",07,"Two or more races","Kindergarten",491
+"2019-2020",07,"White","Kindergarten",6211
+"2019-2020",07,"American Indian or Alaska Nat","Grade 1",28
+"2019-2020",07,"Asian","Grade 1",119
+"2019-2020",07,"Black or African American","Grade 1",1987
+"2019-2020",07,"Hispanic/Latino","Grade 1",3703
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 1",9
+"2019-2020",07,"Two or more races","Grade 1",525
+"2019-2020",07,"White","Grade 1",6023
+"2019-2020",07,"American Indian or Alaska Nat","Grade 2",27
+"2019-2020",07,"Asian","Grade 2",81
+"2019-2020",07,"Black or African American","Grade 2",1983
+"2019-2020",07,"Hispanic/Latino","Grade 2",3521
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 2",11
+"2019-2020",07,"Two or more races","Grade 2",463
+"2019-2020",07,"White","Grade 2",6118
+"2019-2020",07,"American Indian or Alaska Nat","Grade 3",43
+"2019-2020",07,"Asian","Grade 3",103
+"2019-2020",07,"Black or African American","Grade 3",1933
+"2019-2020",07,"Hispanic/Latino","Grade 3",3570
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 3",8
+"2019-2020",07,"Two or more races","Grade 3",518
+"2019-2020",07,"White","Grade 3",6128
+"2019-2020",07,"American Indian or Alaska Nat","Grade 4",56
+"2019-2020",07,"Asian","Grade 4",108
+"2019-2020",07,"Black or African American","Grade 4",2046
+"2019-2020",07,"Hispanic/Latino","Grade 4",3717
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 4",7
+"2019-2020",07,"Two or more races","Grade 4",535
+"2019-2020",07,"White","Grade 4",6142
+"2019-2020",07,"American Indian or Alaska Nat","Grade 5",35
+"2019-2020",07,"Asian","Grade 5",125
+"2019-2020",07,"Black or African American","Grade 5",2142
+"2019-2020",07,"Hispanic/Latino","Grade 5",3741
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 5",12
+"2019-2020",07,"Two or more races","Grade 5",528
+"2019-2020",07,"White","Grade 5",6467
+"2019-2020",07,"American Indian or Alaska Nat","Grade 6",51
+"2019-2020",07,"Asian","Grade 6",128
+"2019-2020",07,"Black or African American","Grade 6",2194
+"2019-2020",07,"Hispanic/Latino","Grade 6",3990
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 6",12
+"2019-2020",07,"Two or more races","Grade 6",511
+"2019-2020",07,"White","Grade 6",6555
+"2019-2020",07,"American Indian or Alaska Nat","Grade 7",52
+"2019-2020",07,"Asian","Grade 7",110
+"2019-2020",07,"Black or African American","Grade 7",2239
+"2019-2020",07,"Hispanic/Latino","Grade 7",4180
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 7",8
+"2019-2020",07,"Two or more races","Grade 7",477
+"2019-2020",07,"White","Grade 7",6775
+"2019-2020",07,"American Indian or Alaska Nat","Grade 8",57
+"2019-2020",07,"Asian","Grade 8",139
+"2019-2020",07,"Black or African American","Grade 8",2134
+"2019-2020",07,"Hispanic/Latino","Grade 8",4085
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 8",5
+"2019-2020",07,"Two or more races","Grade 8",454
+"2019-2020",07,"White","Grade 8",6657
+"2019-2020",07,"American Indian or Alaska Nat","Grade 9",56
+"2019-2020",07,"Asian","Grade 9",121
+"2019-2020",07,"Black or African American","Grade 9",2363
+"2019-2020",07,"Hispanic/Latino","Grade 9",4350
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 9",14
+"2019-2020",07,"Two or more races","Grade 9",460
+"2019-2020",07,"White","Grade 9",7152
+"2019-2020",07,"American Indian or Alaska Nat","Grade 10",50
+"2019-2020",07,"Asian","Grade 10",184
+"2019-2020",07,"Black or African American","Grade 10",2109
+"2019-2020",07,"Hispanic/Latino","Grade 10",3886
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 10",4
+"2019-2020",07,"Two or more races","Grade 10",443
+"2019-2020",07,"White","Grade 10",6704
+"2019-2020",07,"American Indian or Alaska Nat","Grade 11",60
+"2019-2020",07,"Asian","Grade 11",157
+"2019-2020",07,"Black or African American","Grade 11",2016
+"2019-2020",07,"Hispanic/Latino","Grade 11",3550
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 11",6
+"2019-2020",07,"Two or more races","Grade 11",408
+"2019-2020",07,"White","Grade 11",6340
+"2019-2020",07,"American Indian or Alaska Nat","Grade 12",46
+"2019-2020",07,"Asian","Grade 12",148
+"2019-2020",07,"Black or African American","Grade 12",1915
+"2019-2020",07,"Hispanic/Latino","Grade 12",3174
+"2019-2020",07,"Native Hawaiian/Other Pacific","Grade 12",5
+"2019-2020",07,"Two or more races","Grade 12",323
+"2019-2020",07,"White","Grade 12",6035
+"2019-2020",08,"Asian","Early Education",2
+"2019-2020",08,"Black or African American","Early Education",62
+"2019-2020",08,"Hispanic/Latino","Early Education",64
+"2019-2020",08,"Two or more races","Early Education",15
+"2019-2020",08,"White","Early Education",116
+"2019-2020",08,"American Indian or Alaska Nat","Pre-kindergarten",10
+"2019-2020",08,"Asian","Pre-kindergarten",20
+"2019-2020",08,"Black or African American","Pre-kindergarten",961
+"2019-2020",08,"Hispanic/Latino","Pre-kindergarten",815
+"2019-2020",08,"Native Hawaiian/Other Pacific","Pre-kindergarten",4
+"2019-2020",08,"Two or more races","Pre-kindergarten",233
+"2019-2020",08,"White","Pre-kindergarten",1401
+"2019-2020",08,"American Indian or Alaska Nat","Kindergarten",19
+"2019-2020",08,"Asian","Kindergarten",31
+"2019-2020",08,"Black or African American","Kindergarten",797
+"2019-2020",08,"Hispanic/Latino","Kindergarten",898
+"2019-2020",08,"Native Hawaiian/Other Pacific","Kindergarten",4
+"2019-2020",08,"Two or more races","Kindergarten",258
+"2019-2020",08,"White","Kindergarten",2125
+"2019-2020",08,"American Indian or Alaska Nat","Grade 1",20
+"2019-2020",08,"Asian","Grade 1",31
+"2019-2020",08,"Black or African American","Grade 1",773
+"2019-2020",08,"Hispanic/Latino","Grade 1",918
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 1",3
+"2019-2020",08,"Two or more races","Grade 1",245
+"2019-2020",08,"White","Grade 1",2106
+"2019-2020",08,"American Indian or Alaska Nat","Grade 2",16
+"2019-2020",08,"Asian","Grade 2",33
+"2019-2020",08,"Black or African American","Grade 2",797
+"2019-2020",08,"Hispanic/Latino","Grade 2",838
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 2",6
+"2019-2020",08,"Two or more races","Grade 2",234
+"2019-2020",08,"White","Grade 2",2091
+"2019-2020",08,"American Indian or Alaska Nat","Grade 3",18
+"2019-2020",08,"Asian","Grade 3",30
+"2019-2020",08,"Black or African American","Grade 3",747
+"2019-2020",08,"Hispanic/Latino","Grade 3",850
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 3",5
+"2019-2020",08,"Two or more races","Grade 3",196
+"2019-2020",08,"White","Grade 3",2112
+"2019-2020",08,"American Indian or Alaska Nat","Grade 4",19
+"2019-2020",08,"Asian","Grade 4",32
+"2019-2020",08,"Black or African American","Grade 4",711
+"2019-2020",08,"Hispanic/Latino","Grade 4",920
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 4",1
+"2019-2020",08,"Two or more races","Grade 4",206
+"2019-2020",08,"White","Grade 4",2186
+"2019-2020",08,"American Indian or Alaska Nat","Grade 5",31
+"2019-2020",08,"Asian","Grade 5",30
+"2019-2020",08,"Black or African American","Grade 5",835
+"2019-2020",08,"Hispanic/Latino","Grade 5",959
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 5",6
+"2019-2020",08,"Two or more races","Grade 5",214
+"2019-2020",08,"White","Grade 5",2143
+"2019-2020",08,"American Indian or Alaska Nat","Grade 6",24
+"2019-2020",08,"Asian","Grade 6",31
+"2019-2020",08,"Black or African American","Grade 6",805
+"2019-2020",08,"Hispanic/Latino","Grade 6",1027
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 6",6
+"2019-2020",08,"Two or more races","Grade 6",214
+"2019-2020",08,"White","Grade 6",2359
+"2019-2020",08,"American Indian or Alaska Nat","Grade 7",28
+"2019-2020",08,"Asian","Grade 7",27
+"2019-2020",08,"Black or African American","Grade 7",842
+"2019-2020",08,"Hispanic/Latino","Grade 7",968
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 7",4
+"2019-2020",08,"Two or more races","Grade 7",211
+"2019-2020",08,"White","Grade 7",2362
+"2019-2020",08,"American Indian or Alaska Nat","Grade 8",26
+"2019-2020",08,"Asian","Grade 8",30
+"2019-2020",08,"Black or African American","Grade 8",738
+"2019-2020",08,"Hispanic/Latino","Grade 8",1027
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 8",5
+"2019-2020",08,"Two or more races","Grade 8",162
+"2019-2020",08,"White","Grade 8",2260
+"2019-2020",08,"American Indian or Alaska Nat","Grade 9",24
+"2019-2020",08,"Asian","Grade 9",41
+"2019-2020",08,"Black or African American","Grade 9",911
+"2019-2020",08,"Hispanic/Latino","Grade 9",1084
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 9",4
+"2019-2020",08,"Two or more races","Grade 9",164
+"2019-2020",08,"White","Grade 9",2408
+"2019-2020",08,"American Indian or Alaska Nat","Grade 10",27
+"2019-2020",08,"Asian","Grade 10",38
+"2019-2020",08,"Black or African American","Grade 10",807
+"2019-2020",08,"Hispanic/Latino","Grade 10",967
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 10",1
+"2019-2020",08,"Two or more races","Grade 10",150
+"2019-2020",08,"White","Grade 10",2321
+"2019-2020",08,"American Indian or Alaska Nat","Grade 11",29
+"2019-2020",08,"Asian","Grade 11",51
+"2019-2020",08,"Black or African American","Grade 11",702
+"2019-2020",08,"Hispanic/Latino","Grade 11",843
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 11",3
+"2019-2020",08,"Two or more races","Grade 11",137
+"2019-2020",08,"White","Grade 11",2192
+"2019-2020",08,"American Indian or Alaska Nat","Grade 12",28
+"2019-2020",08,"Asian","Grade 12",37
+"2019-2020",08,"Black or African American","Grade 12",685
+"2019-2020",08,"Hispanic/Latino","Grade 12",699
+"2019-2020",08,"Native Hawaiian/Other Pacific","Grade 12",1
+"2019-2020",08,"Two or more races","Grade 12",93
+"2019-2020",08,"White","Grade 12",2095
+"2019-2020",09,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",09,"Black or African American","Early Education",10
+"2019-2020",09,"Hispanic/Latino","Early Education",56
+"2019-2020",09,"Two or more races","Early Education",8
+"2019-2020",09,"White","Early Education",129
+"2019-2020",09,"American Indian or Alaska Nat","Pre-kindergarten",6
+"2019-2020",09,"Asian","Pre-kindergarten",26
+"2019-2020",09,"Black or African American","Pre-kindergarten",205
+"2019-2020",09,"Hispanic/Latino","Pre-kindergarten",729
+"2019-2020",09,"Native Hawaiian/Other Pacific","Pre-kindergarten",2
+"2019-2020",09,"Two or more races","Pre-kindergarten",121
+"2019-2020",09,"White","Pre-kindergarten",973
+"2019-2020",09,"American Indian or Alaska Nat","Kindergarten",10
+"2019-2020",09,"Asian","Kindergarten",44
+"2019-2020",09,"Black or African American","Kindergarten",190
+"2019-2020",09,"Hispanic/Latino","Kindergarten",778
+"2019-2020",09,"Native Hawaiian/Other Pacific","Kindergarten",1
+"2019-2020",09,"Two or more races","Kindergarten",151
+"2019-2020",09,"White","Kindergarten",1563
+"2019-2020",09,"American Indian or Alaska Nat","Grade 1",11
+"2019-2020",09,"Asian","Grade 1",33
+"2019-2020",09,"Black or African American","Grade 1",175
+"2019-2020",09,"Hispanic/Latino","Grade 1",804
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 1",2
+"2019-2020",09,"Two or more races","Grade 1",174
+"2019-2020",09,"White","Grade 1",1526
+"2019-2020",09,"American Indian or Alaska Nat","Grade 2",14
+"2019-2020",09,"Asian","Grade 2",37
+"2019-2020",09,"Black or African American","Grade 2",178
+"2019-2020",09,"Hispanic/Latino","Grade 2",748
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 2",2
+"2019-2020",09,"Two or more races","Grade 2",156
+"2019-2020",09,"White","Grade 2",1605
+"2019-2020",09,"American Indian or Alaska Nat","Grade 3",17
+"2019-2020",09,"Asian","Grade 3",35
+"2019-2020",09,"Black or African American","Grade 3",190
+"2019-2020",09,"Hispanic/Latino","Grade 3",730
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 3",3
+"2019-2020",09,"Two or more races","Grade 3",148
+"2019-2020",09,"White","Grade 3",1564
+"2019-2020",09,"American Indian or Alaska Nat","Grade 4",17
+"2019-2020",09,"Asian","Grade 4",40
+"2019-2020",09,"Black or African American","Grade 4",174
+"2019-2020",09,"Hispanic/Latino","Grade 4",757
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 4",5
+"2019-2020",09,"Two or more races","Grade 4",139
+"2019-2020",09,"White","Grade 4",1582
+"2019-2020",09,"American Indian or Alaska Nat","Grade 5",17
+"2019-2020",09,"Asian","Grade 5",34
+"2019-2020",09,"Black or African American","Grade 5",204
+"2019-2020",09,"Hispanic/Latino","Grade 5",842
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 5",2
+"2019-2020",09,"Two or more races","Grade 5",121
+"2019-2020",09,"White","Grade 5",1649
+"2019-2020",09,"American Indian or Alaska Nat","Grade 6",9
+"2019-2020",09,"Asian","Grade 6",41
+"2019-2020",09,"Black or African American","Grade 6",182
+"2019-2020",09,"Hispanic/Latino","Grade 6",828
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 6",1
+"2019-2020",09,"Two or more races","Grade 6",141
+"2019-2020",09,"White","Grade 6",1658
+"2019-2020",09,"American Indian or Alaska Nat","Grade 7",20
+"2019-2020",09,"Asian","Grade 7",38
+"2019-2020",09,"Black or African American","Grade 7",216
+"2019-2020",09,"Hispanic/Latino","Grade 7",822
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 7",4
+"2019-2020",09,"Two or more races","Grade 7",133
+"2019-2020",09,"White","Grade 7",1586
+"2019-2020",09,"American Indian or Alaska Nat","Grade 8",20
+"2019-2020",09,"Asian","Grade 8",49
+"2019-2020",09,"Black or African American","Grade 8",196
+"2019-2020",09,"Hispanic/Latino","Grade 8",824
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 8",6
+"2019-2020",09,"Two or more races","Grade 8",138
+"2019-2020",09,"White","Grade 8",1554
+"2019-2020",09,"American Indian or Alaska Nat","Grade 9",17
+"2019-2020",09,"Asian","Grade 9",47
+"2019-2020",09,"Black or African American","Grade 9",192
+"2019-2020",09,"Hispanic/Latino","Grade 9",793
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 9",1
+"2019-2020",09,"Two or more races","Grade 9",115
+"2019-2020",09,"White","Grade 9",1577
+"2019-2020",09,"American Indian or Alaska Nat","Grade 10",30
+"2019-2020",09,"Asian","Grade 10",44
+"2019-2020",09,"Black or African American","Grade 10",180
+"2019-2020",09,"Hispanic/Latino","Grade 10",755
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 10",6
+"2019-2020",09,"Two or more races","Grade 10",96
+"2019-2020",09,"White","Grade 10",1517
+"2019-2020",09,"American Indian or Alaska Nat","Grade 11",21
+"2019-2020",09,"Asian","Grade 11",48
+"2019-2020",09,"Black or African American","Grade 11",177
+"2019-2020",09,"Hispanic/Latino","Grade 11",659
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 11",5
+"2019-2020",09,"Two or more races","Grade 11",99
+"2019-2020",09,"White","Grade 11",1506
+"2019-2020",09,"American Indian or Alaska Nat","Grade 12",16
+"2019-2020",09,"Asian","Grade 12",52
+"2019-2020",09,"Black or African American","Grade 12",177
+"2019-2020",09,"Hispanic/Latino","Grade 12",661
+"2019-2020",09,"Native Hawaiian/Other Pacific","Grade 12",2
+"2019-2020",09,"Two or more races","Grade 12",92
+"2019-2020",09,"White","Grade 12",1482
+"2019-2020",10,"American Indian or Alaska Nat","Early Education",30
+"2019-2020",10,"Asian","Early Education",444
+"2019-2020",10,"Black or African American","Early Education",740
+"2019-2020",10,"Hispanic/Latino","Early Education",1505
+"2019-2020",10,"Native Hawaiian/Other Pacific","Early Education",6
+"2019-2020",10,"Two or more races","Early Education",212
+"2019-2020",10,"White","Early Education",1500
+"2019-2020",10,"American Indian or Alaska Nat","Pre-kindergarten",318
+"2019-2020",10,"Asian","Pre-kindergarten",1904
+"2019-2020",10,"Black or African American","Pre-kindergarten",8545
+"2019-2020",10,"Hispanic/Latino","Pre-kindergarten",20412
+"2019-2020",10,"Native Hawaiian/Other Pacific","Pre-kindergarten",32
+"2019-2020",10,"Two or more races","Pre-kindergarten",870
+"2019-2020",10,"White","Pre-kindergarten",4132
+"2019-2020",10,"American Indian or Alaska Nat","Kindergarten",349
+"2019-2020",10,"Asian","Kindergarten",5503
+"2019-2020",10,"Black or African American","Kindergarten",10697
+"2019-2020",10,"Hispanic/Latino","Kindergarten",26306
+"2019-2020",10,"Native Hawaiian/Other Pacific","Kindergarten",55
+"2019-2020",10,"Two or more races","Kindergarten",2420
+"2019-2020",10,"White","Kindergarten",16619
+"2019-2020",10,"American Indian or Alaska Nat","Grade 1",354
+"2019-2020",10,"Asian","Grade 1",5812
+"2019-2020",10,"Black or African American","Grade 1",11217
+"2019-2020",10,"Hispanic/Latino","Grade 1",26577
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 1",75
+"2019-2020",10,"Two or more races","Grade 1",2142
+"2019-2020",10,"White","Grade 1",16770
+"2019-2020",10,"American Indian or Alaska Nat","Grade 2",372
+"2019-2020",10,"Asian","Grade 2",5942
+"2019-2020",10,"Black or African American","Grade 2",11294
+"2019-2020",10,"Hispanic/Latino","Grade 2",26478
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 2",67
+"2019-2020",10,"Two or more races","Grade 2",2105
+"2019-2020",10,"White","Grade 2",17018
+"2019-2020",10,"American Indian or Alaska Nat","Grade 3",299
+"2019-2020",10,"Asian","Grade 3",5709
+"2019-2020",10,"Black or African American","Grade 3",11531
+"2019-2020",10,"Hispanic/Latino","Grade 3",27082
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 3",58
+"2019-2020",10,"Two or more races","Grade 3",2058
+"2019-2020",10,"White","Grade 3",16929
+"2019-2020",10,"American Indian or Alaska Nat","Grade 4",833
+"2019-2020",10,"Asian","Grade 4",5654
+"2019-2020",10,"Black or African American","Grade 4",11880
+"2019-2020",10,"Hispanic/Latino","Grade 4",27030
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 4",58
+"2019-2020",10,"Two or more races","Grade 4",1940
+"2019-2020",10,"White","Grade 4",17603
+"2019-2020",10,"American Indian or Alaska Nat","Grade 5",508
+"2019-2020",10,"Asian","Grade 5",5619
+"2019-2020",10,"Black or African American","Grade 5",12401
+"2019-2020",10,"Hispanic/Latino","Grade 5",29729
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 5",49
+"2019-2020",10,"Two or more races","Grade 5",1935
+"2019-2020",10,"White","Grade 5",17538
+"2019-2020",10,"American Indian or Alaska Nat","Grade 6",404
+"2019-2020",10,"Asian","Grade 6",5698
+"2019-2020",10,"Black or African American","Grade 6",12529
+"2019-2020",10,"Hispanic/Latino","Grade 6",30316
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 6",55
+"2019-2020",10,"Two or more races","Grade 6",2014
+"2019-2020",10,"White","Grade 6",18031
+"2019-2020",10,"American Indian or Alaska Nat","Grade 7",341
+"2019-2020",10,"Asian","Grade 7",5467
+"2019-2020",10,"Black or African American","Grade 7",12595
+"2019-2020",10,"Hispanic/Latino","Grade 7",30412
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 7",81
+"2019-2020",10,"Two or more races","Grade 7",1945
+"2019-2020",10,"White","Grade 7",18295
+"2019-2020",10,"American Indian or Alaska Nat","Grade 8",333
+"2019-2020",10,"Asian","Grade 8",5160
+"2019-2020",10,"Black or African American","Grade 8",12350
+"2019-2020",10,"Hispanic/Latino","Grade 8",29056
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 8",62
+"2019-2020",10,"Two or more races","Grade 8",1791
+"2019-2020",10,"White","Grade 8",17976
+"2019-2020",10,"American Indian or Alaska Nat","Grade 9",327
+"2019-2020",10,"Asian","Grade 9",5323
+"2019-2020",10,"Black or African American","Grade 9",13511
+"2019-2020",10,"Hispanic/Latino","Grade 9",32605
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 9",69
+"2019-2020",10,"Two or more races","Grade 9",1856
+"2019-2020",10,"White","Grade 9",18943
+"2019-2020",10,"American Indian or Alaska Nat","Grade 10",294
+"2019-2020",10,"Asian","Grade 10",5209
+"2019-2020",10,"Black or African American","Grade 10",12014
+"2019-2020",10,"Hispanic/Latino","Grade 10",28672
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 10",61
+"2019-2020",10,"Two or more races","Grade 10",1695
+"2019-2020",10,"White","Grade 10",18159
+"2019-2020",10,"American Indian or Alaska Nat","Grade 11",294
+"2019-2020",10,"Asian","Grade 11",4851
+"2019-2020",10,"Black or African American","Grade 11",10947
+"2019-2020",10,"Hispanic/Latino","Grade 11",25927
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 11",68
+"2019-2020",10,"Two or more races","Grade 11",1453
+"2019-2020",10,"White","Grade 11",17539
+"2019-2020",10,"American Indian or Alaska Nat","Grade 12",279
+"2019-2020",10,"Asian","Grade 12",4503
+"2019-2020",10,"Black or African American","Grade 12",10204
+"2019-2020",10,"Hispanic/Latino","Grade 12",23394
+"2019-2020",10,"Native Hawaiian/Other Pacific","Grade 12",87
+"2019-2020",10,"Two or more races","Grade 12",1324
+"2019-2020",10,"White","Grade 12",17058
+"2019-2020",11,"American Indian or Alaska Nat","Early Education",5
+"2019-2020",11,"Asian","Early Education",145
+"2019-2020",11,"Black or African American","Early Education",390
+"2019-2020",11,"Hispanic/Latino","Early Education",872
+"2019-2020",11,"Native Hawaiian/Other Pacific","Early Education",6
+"2019-2020",11,"Two or more races","Early Education",119
+"2019-2020",11,"White","Early Education",1355
+"2019-2020",11,"American Indian or Alaska Nat","Pre-kindergarten",70
+"2019-2020",11,"Asian","Pre-kindergarten",1311
+"2019-2020",11,"Black or African American","Pre-kindergarten",4492
+"2019-2020",11,"Hispanic/Latino","Pre-kindergarten",11006
+"2019-2020",11,"Native Hawaiian/Other Pacific","Pre-kindergarten",49
+"2019-2020",11,"Two or more races","Pre-kindergarten",611
+"2019-2020",11,"White","Pre-kindergarten",4441
+"2019-2020",11,"American Indian or Alaska Nat","Kindergarten",152
+"2019-2020",11,"Asian","Kindergarten",2122
+"2019-2020",11,"Black or African American","Kindergarten",5793
+"2019-2020",11,"Hispanic/Latino","Kindergarten",15095
+"2019-2020",11,"Native Hawaiian/Other Pacific","Kindergarten",132
+"2019-2020",11,"Two or more races","Kindergarten",1575
+"2019-2020",11,"White","Kindergarten",16439
+"2019-2020",11,"American Indian or Alaska Nat","Grade 1",143
+"2019-2020",11,"Asian","Grade 1",2105
+"2019-2020",11,"Black or African American","Grade 1",6040
+"2019-2020",11,"Hispanic/Latino","Grade 1",15146
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 1",144
+"2019-2020",11,"Two or more races","Grade 1",1610
+"2019-2020",11,"White","Grade 1",16685
+"2019-2020",11,"American Indian or Alaska Nat","Grade 2",142
+"2019-2020",11,"Asian","Grade 2",2101
+"2019-2020",11,"Black or African American","Grade 2",6065
+"2019-2020",11,"Hispanic/Latino","Grade 2",15090
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 2",162
+"2019-2020",11,"Two or more races","Grade 2",1480
+"2019-2020",11,"White","Grade 2",16396
+"2019-2020",11,"American Indian or Alaska Nat","Grade 3",153
+"2019-2020",11,"Asian","Grade 3",2082
+"2019-2020",11,"Black or African American","Grade 3",6436
+"2019-2020",11,"Hispanic/Latino","Grade 3",15330
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 3",156
+"2019-2020",11,"Two or more races","Grade 3",1599
+"2019-2020",11,"White","Grade 3",16459
+"2019-2020",11,"American Indian or Alaska Nat","Grade 4",176
+"2019-2020",11,"Asian","Grade 4",2106
+"2019-2020",11,"Black or African American","Grade 4",6463
+"2019-2020",11,"Hispanic/Latino","Grade 4",15935
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 4",129
+"2019-2020",11,"Two or more races","Grade 4",1602
+"2019-2020",11,"White","Grade 4",16939
+"2019-2020",11,"American Indian or Alaska Nat","Grade 5",173
+"2019-2020",11,"Asian","Grade 5",2136
+"2019-2020",11,"Black or African American","Grade 5",7051
+"2019-2020",11,"Hispanic/Latino","Grade 5",16791
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 5",159
+"2019-2020",11,"Two or more races","Grade 5",1646
+"2019-2020",11,"White","Grade 5",17256
+"2019-2020",11,"American Indian or Alaska Nat","Grade 6",190
+"2019-2020",11,"Asian","Grade 6",2333
+"2019-2020",11,"Black or African American","Grade 6",7031
+"2019-2020",11,"Hispanic/Latino","Grade 6",16732
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 6",137
+"2019-2020",11,"Two or more races","Grade 6",1597
+"2019-2020",11,"White","Grade 6",17858
+"2019-2020",11,"American Indian or Alaska Nat","Grade 7",193
+"2019-2020",11,"Asian","Grade 7",2221
+"2019-2020",11,"Black or African American","Grade 7",7040
+"2019-2020",11,"Hispanic/Latino","Grade 7",17130
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 7",114
+"2019-2020",11,"Two or more races","Grade 7",1507
+"2019-2020",11,"White","Grade 7",17807
+"2019-2020",11,"American Indian or Alaska Nat","Grade 8",192
+"2019-2020",11,"Asian","Grade 8",2282
+"2019-2020",11,"Black or African American","Grade 8",7176
+"2019-2020",11,"Hispanic/Latino","Grade 8",16531
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 8",128
+"2019-2020",11,"Two or more races","Grade 8",1433
+"2019-2020",11,"White","Grade 8",17816
+"2019-2020",11,"American Indian or Alaska Nat","Grade 9",215
+"2019-2020",11,"Asian","Grade 9",2429
+"2019-2020",11,"Black or African American","Grade 9",8039
+"2019-2020",11,"Hispanic/Latino","Grade 9",19022
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 9",144
+"2019-2020",11,"Two or more races","Grade 9",1560
+"2019-2020",11,"White","Grade 9",19174
+"2019-2020",11,"American Indian or Alaska Nat","Grade 10",190
+"2019-2020",11,"Asian","Grade 10",2455
+"2019-2020",11,"Black or African American","Grade 10",7071
+"2019-2020",11,"Hispanic/Latino","Grade 10",16737
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 10",131
+"2019-2020",11,"Two or more races","Grade 10",1338
+"2019-2020",11,"White","Grade 10",18401
+"2019-2020",11,"American Indian or Alaska Nat","Grade 11",195
+"2019-2020",11,"Asian","Grade 11",2397
+"2019-2020",11,"Black or African American","Grade 11",6392
+"2019-2020",11,"Hispanic/Latino","Grade 11",15231
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 11",117
+"2019-2020",11,"Two or more races","Grade 11",1209
+"2019-2020",11,"White","Grade 11",17865
+"2019-2020",11,"American Indian or Alaska Nat","Grade 12",199
+"2019-2020",11,"Asian","Grade 12",2359
+"2019-2020",11,"Black or African American","Grade 12",5844
+"2019-2020",11,"Hispanic/Latino","Grade 12",13897
+"2019-2020",11,"Native Hawaiian/Other Pacific","Grade 12",113
+"2019-2020",11,"Two or more races","Grade 12",1124
+"2019-2020",11,"White","Grade 12",17010
+"2019-2020",12,"American Indian or Alaska Nat","Early Education",5
+"2019-2020",12,"Asian","Early Education",6
+"2019-2020",12,"Black or African American","Early Education",82
+"2019-2020",12,"Hispanic/Latino","Early Education",213
+"2019-2020",12,"Native Hawaiian/Other Pacific","Early Education",3
+"2019-2020",12,"Two or more races","Early Education",33
+"2019-2020",12,"White","Early Education",321
+"2019-2020",12,"American Indian or Alaska Nat","Pre-kindergarten",68
+"2019-2020",12,"Asian","Pre-kindergarten",138
+"2019-2020",12,"Black or African American","Pre-kindergarten",2094
+"2019-2020",12,"Hispanic/Latino","Pre-kindergarten",3741
+"2019-2020",12,"Native Hawaiian/Other Pacific","Pre-kindergarten",71
+"2019-2020",12,"Two or more races","Pre-kindergarten",613
+"2019-2020",12,"White","Pre-kindergarten",2865
+"2019-2020",12,"American Indian or Alaska Nat","Kindergarten",76
+"2019-2020",12,"Asian","Kindergarten",271
+"2019-2020",12,"Black or African American","Kindergarten",2468
+"2019-2020",12,"Hispanic/Latino","Kindergarten",4553
+"2019-2020",12,"Native Hawaiian/Other Pacific","Kindergarten",112
+"2019-2020",12,"Two or more races","Kindergarten",794
+"2019-2020",12,"White","Kindergarten",4903
+"2019-2020",12,"American Indian or Alaska Nat","Grade 1",46
+"2019-2020",12,"Asian","Grade 1",272
+"2019-2020",12,"Black or African American","Grade 1",2625
+"2019-2020",12,"Hispanic/Latino","Grade 1",4591
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 1",145
+"2019-2020",12,"Two or more races","Grade 1",746
+"2019-2020",12,"White","Grade 1",5006
+"2019-2020",12,"American Indian or Alaska Nat","Grade 2",43
+"2019-2020",12,"Asian","Grade 2",271
+"2019-2020",12,"Black or African American","Grade 2",2615
+"2019-2020",12,"Hispanic/Latino","Grade 2",4545
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 2",124
+"2019-2020",12,"Two or more races","Grade 2",680
+"2019-2020",12,"White","Grade 2",4831
+"2019-2020",12,"American Indian or Alaska Nat","Grade 3",41
+"2019-2020",12,"Asian","Grade 3",269
+"2019-2020",12,"Black or African American","Grade 3",2583
+"2019-2020",12,"Hispanic/Latino","Grade 3",4569
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 3",121
+"2019-2020",12,"Two or more races","Grade 3",689
+"2019-2020",12,"White","Grade 3",4691
+"2019-2020",12,"American Indian or Alaska Nat","Grade 4",33
+"2019-2020",12,"Asian","Grade 4",283
+"2019-2020",12,"Black or African American","Grade 4",2627
+"2019-2020",12,"Hispanic/Latino","Grade 4",4512
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 4",111
+"2019-2020",12,"Two or more races","Grade 4",641
+"2019-2020",12,"White","Grade 4",4828
+"2019-2020",12,"American Indian or Alaska Nat","Grade 5",45
+"2019-2020",12,"Asian","Grade 5",287
+"2019-2020",12,"Black or African American","Grade 5",2622
+"2019-2020",12,"Hispanic/Latino","Grade 5",4659
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 5",124
+"2019-2020",12,"Two or more races","Grade 5",709
+"2019-2020",12,"White","Grade 5",4968
+"2019-2020",12,"American Indian or Alaska Nat","Grade 6",55
+"2019-2020",12,"Asian","Grade 6",276
+"2019-2020",12,"Black or African American","Grade 6",2600
+"2019-2020",12,"Hispanic/Latino","Grade 6",4951
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 6",137
+"2019-2020",12,"Two or more races","Grade 6",680
+"2019-2020",12,"White","Grade 6",4872
+"2019-2020",12,"American Indian or Alaska Nat","Grade 7",64
+"2019-2020",12,"Asian","Grade 7",267
+"2019-2020",12,"Black or African American","Grade 7",2692
+"2019-2020",12,"Hispanic/Latino","Grade 7",4856
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 7",109
+"2019-2020",12,"Two or more races","Grade 7",643
+"2019-2020",12,"White","Grade 7",5052
+"2019-2020",12,"American Indian or Alaska Nat","Grade 8",45
+"2019-2020",12,"Asian","Grade 8",247
+"2019-2020",12,"Black or African American","Grade 8",2583
+"2019-2020",12,"Hispanic/Latino","Grade 8",4758
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 8",115
+"2019-2020",12,"Two or more races","Grade 8",517
+"2019-2020",12,"White","Grade 8",4848
+"2019-2020",12,"American Indian or Alaska Nat","Grade 9",45
+"2019-2020",12,"Asian","Grade 9",277
+"2019-2020",12,"Black or African American","Grade 9",2805
+"2019-2020",12,"Hispanic/Latino","Grade 9",4930
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 9",128
+"2019-2020",12,"Two or more races","Grade 9",571
+"2019-2020",12,"White","Grade 9",5086
+"2019-2020",12,"American Indian or Alaska Nat","Grade 10",49
+"2019-2020",12,"Asian","Grade 10",335
+"2019-2020",12,"Black or African American","Grade 10",2486
+"2019-2020",12,"Hispanic/Latino","Grade 10",4561
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 10",109
+"2019-2020",12,"Two or more races","Grade 10",537
+"2019-2020",12,"White","Grade 10",4707
+"2019-2020",12,"American Indian or Alaska Nat","Grade 11",38
+"2019-2020",12,"Asian","Grade 11",199
+"2019-2020",12,"Black or African American","Grade 11",2054
+"2019-2020",12,"Hispanic/Latino","Grade 11",3703
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 11",86
+"2019-2020",12,"Two or more races","Grade 11",432
+"2019-2020",12,"White","Grade 11",4399
+"2019-2020",12,"American Indian or Alaska Nat","Grade 12",40
+"2019-2020",12,"Asian","Grade 12",239
+"2019-2020",12,"Black or African American","Grade 12",2011
+"2019-2020",12,"Hispanic/Latino","Grade 12",3531
+"2019-2020",12,"Native Hawaiian/Other Pacific","Grade 12",94
+"2019-2020",12,"Two or more races","Grade 12",385
+"2019-2020",12,"White","Grade 12",4403
+"2019-2020",13,"American Indian or Alaska Nat","Early Education",2
+"2019-2020",13,"Asian","Early Education",140
+"2019-2020",13,"Black or African American","Early Education",141
+"2019-2020",13,"Hispanic/Latino","Early Education",997
+"2019-2020",13,"Native Hawaiian/Other Pacific","Early Education",2
+"2019-2020",13,"Two or more races","Early Education",104
+"2019-2020",13,"White","Early Education",861
+"2019-2020",13,"American Indian or Alaska Nat","Pre-kindergarten",39
+"2019-2020",13,"Asian","Pre-kindergarten",834
+"2019-2020",13,"Black or African American","Pre-kindergarten",1438
+"2019-2020",13,"Hispanic/Latino","Pre-kindergarten",10386
+"2019-2020",13,"Native Hawaiian/Other Pacific","Pre-kindergarten",12
+"2019-2020",13,"Two or more races","Pre-kindergarten",464
+"2019-2020",13,"White","Pre-kindergarten",2658
+"2019-2020",13,"American Indian or Alaska Nat","Kindergarten",53
+"2019-2020",13,"Asian","Kindergarten",1770
+"2019-2020",13,"Black or African American","Kindergarten",1733
+"2019-2020",13,"Hispanic/Latino","Kindergarten",12787
+"2019-2020",13,"Native Hawaiian/Other Pacific","Kindergarten",26
+"2019-2020",13,"Two or more races","Kindergarten",1206
+"2019-2020",13,"White","Kindergarten",10482
+"2019-2020",13,"American Indian or Alaska Nat","Grade 1",58
+"2019-2020",13,"Asian","Grade 1",1958
+"2019-2020",13,"Black or African American","Grade 1",1668
+"2019-2020",13,"Hispanic/Latino","Grade 1",12823
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 1",26
+"2019-2020",13,"Two or more races","Grade 1",1164
+"2019-2020",13,"White","Grade 1",10521
+"2019-2020",13,"American Indian or Alaska Nat","Grade 2",47
+"2019-2020",13,"Asian","Grade 2",1929
+"2019-2020",13,"Black or African American","Grade 2",1742
+"2019-2020",13,"Hispanic/Latino","Grade 2",12470
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 2",26
+"2019-2020",13,"Two or more races","Grade 2",1092
+"2019-2020",13,"White","Grade 2",10307
+"2019-2020",13,"American Indian or Alaska Nat","Grade 3",82
+"2019-2020",13,"Asian","Grade 3",1874
+"2019-2020",13,"Black or African American","Grade 3",1850
+"2019-2020",13,"Hispanic/Latino","Grade 3",12962
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 3",32
+"2019-2020",13,"Two or more races","Grade 3",1089
+"2019-2020",13,"White","Grade 3",10719
+"2019-2020",13,"American Indian or Alaska Nat","Grade 4",61
+"2019-2020",13,"Asian","Grade 4",1854
+"2019-2020",13,"Black or African American","Grade 4",1876
+"2019-2020",13,"Hispanic/Latino","Grade 4",13301
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 4",39
+"2019-2020",13,"Two or more races","Grade 4",1099
+"2019-2020",13,"White","Grade 4",10583
+"2019-2020",13,"American Indian or Alaska Nat","Grade 5",68
+"2019-2020",13,"Asian","Grade 5",1741
+"2019-2020",13,"Black or African American","Grade 5",1981
+"2019-2020",13,"Hispanic/Latino","Grade 5",14055
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 5",37
+"2019-2020",13,"Two or more races","Grade 5",1107
+"2019-2020",13,"White","Grade 5",10920
+"2019-2020",13,"American Indian or Alaska Nat","Grade 6",67
+"2019-2020",13,"Asian","Grade 6",1800
+"2019-2020",13,"Black or African American","Grade 6",2027
+"2019-2020",13,"Hispanic/Latino","Grade 6",13968
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 6",31
+"2019-2020",13,"Two or more races","Grade 6",1123
+"2019-2020",13,"White","Grade 6",11145
+"2019-2020",13,"American Indian or Alaska Nat","Grade 7",81
+"2019-2020",13,"Asian","Grade 7",1725
+"2019-2020",13,"Black or African American","Grade 7",2032
+"2019-2020",13,"Hispanic/Latino","Grade 7",14001
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 7",42
+"2019-2020",13,"Two or more races","Grade 7",1077
+"2019-2020",13,"White","Grade 7",11137
+"2019-2020",13,"American Indian or Alaska Nat","Grade 8",75
+"2019-2020",13,"Asian","Grade 8",1687
+"2019-2020",13,"Black or African American","Grade 8",2023
+"2019-2020",13,"Hispanic/Latino","Grade 8",13880
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 8",33
+"2019-2020",13,"Two or more races","Grade 8",1009
+"2019-2020",13,"White","Grade 8",11036
+"2019-2020",13,"American Indian or Alaska Nat","Grade 9",88
+"2019-2020",13,"Asian","Grade 9",1757
+"2019-2020",13,"Black or African American","Grade 9",2229
+"2019-2020",13,"Hispanic/Latino","Grade 9",15084
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 9",34
+"2019-2020",13,"Two or more races","Grade 9",1019
+"2019-2020",13,"White","Grade 9",11865
+"2019-2020",13,"American Indian or Alaska Nat","Grade 10",80
+"2019-2020",13,"Asian","Grade 10",1674
+"2019-2020",13,"Black or African American","Grade 10",2076
+"2019-2020",13,"Hispanic/Latino","Grade 10",13162
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 10",39
+"2019-2020",13,"Two or more races","Grade 10",960
+"2019-2020",13,"White","Grade 10",11276
+"2019-2020",13,"American Indian or Alaska Nat","Grade 11",81
+"2019-2020",13,"Asian","Grade 11",1594
+"2019-2020",13,"Black or African American","Grade 11",1959
+"2019-2020",13,"Hispanic/Latino","Grade 11",11932
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 11",32
+"2019-2020",13,"Two or more races","Grade 11",845
+"2019-2020",13,"White","Grade 11",10917
+"2019-2020",13,"American Indian or Alaska Nat","Grade 12",59
+"2019-2020",13,"Asian","Grade 12",1467
+"2019-2020",13,"Black or African American","Grade 12",1897
+"2019-2020",13,"Hispanic/Latino","Grade 12",10982
+"2019-2020",13,"Native Hawaiian/Other Pacific","Grade 12",32
+"2019-2020",13,"Two or more races","Grade 12",760
+"2019-2020",13,"White","Grade 12",10407
+"2019-2020",14,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",14,"Asian","Early Education",4
+"2019-2020",14,"Black or African American","Early Education",34
+"2019-2020",14,"Hispanic/Latino","Early Education",223
+"2019-2020",14,"Two or more races","Early Education",16
+"2019-2020",14,"White","Early Education",161
+"2019-2020",14,"American Indian or Alaska Nat","Pre-kindergarten",8
+"2019-2020",14,"Asian","Pre-kindergarten",18
+"2019-2020",14,"Black or African American","Pre-kindergarten",237
+"2019-2020",14,"Hispanic/Latino","Pre-kindergarten",1044
+"2019-2020",14,"Native Hawaiian/Other Pacific","Pre-kindergarten",4
+"2019-2020",14,"Two or more races","Pre-kindergarten",75
+"2019-2020",14,"White","Pre-kindergarten",1017
+"2019-2020",14,"American Indian or Alaska Nat","Kindergarten",20
+"2019-2020",14,"Asian","Kindergarten",127
+"2019-2020",14,"Black or African American","Kindergarten",464
+"2019-2020",14,"Hispanic/Latino","Kindergarten",1638
+"2019-2020",14,"Native Hawaiian/Other Pacific","Kindergarten",9
+"2019-2020",14,"Two or more races","Kindergarten",192
+"2019-2020",14,"White","Kindergarten",2245
+"2019-2020",14,"American Indian or Alaska Nat","Grade 1",18
+"2019-2020",14,"Asian","Grade 1",123
+"2019-2020",14,"Black or African American","Grade 1",429
+"2019-2020",14,"Hispanic/Latino","Grade 1",1704
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 1",8
+"2019-2020",14,"Two or more races","Grade 1",187
+"2019-2020",14,"White","Grade 1",2246
+"2019-2020",14,"American Indian or Alaska Nat","Grade 2",12
+"2019-2020",14,"Asian","Grade 2",141
+"2019-2020",14,"Black or African American","Grade 2",469
+"2019-2020",14,"Hispanic/Latino","Grade 2",1565
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 2",6
+"2019-2020",14,"Two or more races","Grade 2",162
+"2019-2020",14,"White","Grade 2",2117
+"2019-2020",14,"American Indian or Alaska Nat","Grade 3",15
+"2019-2020",14,"Asian","Grade 3",142
+"2019-2020",14,"Black or African American","Grade 3",428
+"2019-2020",14,"Hispanic/Latino","Grade 3",1605
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 3",6
+"2019-2020",14,"Two or more races","Grade 3",168
+"2019-2020",14,"White","Grade 3",2097
+"2019-2020",14,"American Indian or Alaska Nat","Grade 4",15
+"2019-2020",14,"Asian","Grade 4",106
+"2019-2020",14,"Black or African American","Grade 4",408
+"2019-2020",14,"Hispanic/Latino","Grade 4",1623
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 4",5
+"2019-2020",14,"Two or more races","Grade 4",189
+"2019-2020",14,"White","Grade 4",2209
+"2019-2020",14,"American Indian or Alaska Nat","Grade 5",18
+"2019-2020",14,"Asian","Grade 5",138
+"2019-2020",14,"Black or African American","Grade 5",409
+"2019-2020",14,"Hispanic/Latino","Grade 5",1666
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 5",5
+"2019-2020",14,"Two or more races","Grade 5",176
+"2019-2020",14,"White","Grade 5",2180
+"2019-2020",14,"American Indian or Alaska Nat","Grade 6",17
+"2019-2020",14,"Asian","Grade 6",122
+"2019-2020",14,"Black or African American","Grade 6",406
+"2019-2020",14,"Hispanic/Latino","Grade 6",1709
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 6",4
+"2019-2020",14,"Two or more races","Grade 6",160
+"2019-2020",14,"White","Grade 6",2316
+"2019-2020",14,"American Indian or Alaska Nat","Grade 7",18
+"2019-2020",14,"Asian","Grade 7",100
+"2019-2020",14,"Black or African American","Grade 7",394
+"2019-2020",14,"Hispanic/Latino","Grade 7",1623
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 7",2
+"2019-2020",14,"Two or more races","Grade 7",136
+"2019-2020",14,"White","Grade 7",2260
+"2019-2020",14,"American Indian or Alaska Nat","Grade 8",23
+"2019-2020",14,"Asian","Grade 8",99
+"2019-2020",14,"Black or African American","Grade 8",369
+"2019-2020",14,"Hispanic/Latino","Grade 8",1590
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 8",5
+"2019-2020",14,"Two or more races","Grade 8",164
+"2019-2020",14,"White","Grade 8",2268
+"2019-2020",14,"American Indian or Alaska Nat","Grade 9",18
+"2019-2020",14,"Asian","Grade 9",82
+"2019-2020",14,"Black or African American","Grade 9",326
+"2019-2020",14,"Hispanic/Latino","Grade 9",1682
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 9",9
+"2019-2020",14,"Two or more races","Grade 9",145
+"2019-2020",14,"White","Grade 9",2172
+"2019-2020",14,"American Indian or Alaska Nat","Grade 10",12
+"2019-2020",14,"Asian","Grade 10",72
+"2019-2020",14,"Black or African American","Grade 10",256
+"2019-2020",14,"Hispanic/Latino","Grade 10",1352
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 10",2
+"2019-2020",14,"Two or more races","Grade 10",104
+"2019-2020",14,"White","Grade 10",1995
+"2019-2020",14,"American Indian or Alaska Nat","Grade 11",12
+"2019-2020",14,"Asian","Grade 11",59
+"2019-2020",14,"Black or African American","Grade 11",209
+"2019-2020",14,"Hispanic/Latino","Grade 11",1178
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 11",4
+"2019-2020",14,"Two or more races","Grade 11",98
+"2019-2020",14,"White","Grade 11",1899
+"2019-2020",14,"American Indian or Alaska Nat","Grade 12",19
+"2019-2020",14,"Asian","Grade 12",68
+"2019-2020",14,"Black or African American","Grade 12",234
+"2019-2020",14,"Hispanic/Latino","Grade 12",1129
+"2019-2020",14,"Native Hawaiian/Other Pacific","Grade 12",7
+"2019-2020",14,"Two or more races","Grade 12",94
+"2019-2020",14,"White","Grade 12",1626
+"2019-2020",15,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",15,"Asian","Early Education",2
+"2019-2020",15,"Black or African American","Early Education",7
+"2019-2020",15,"Hispanic/Latino","Early Education",119
+"2019-2020",15,"Native Hawaiian/Other Pacific","Early Education",1
+"2019-2020",15,"Two or more races","Early Education",5
+"2019-2020",15,"White","Early Education",149
+"2019-2020",15,"American Indian or Alaska Nat","Pre-kindergarten",1
+"2019-2020",15,"Asian","Pre-kindergarten",17
+"2019-2020",15,"Black or African American","Pre-kindergarten",46
+"2019-2020",15,"Hispanic/Latino","Pre-kindergarten",1141
+"2019-2020",15,"Native Hawaiian/Other Pacific","Pre-kindergarten",2
+"2019-2020",15,"Two or more races","Pre-kindergarten",33
+"2019-2020",15,"White","Pre-kindergarten",585
+"2019-2020",15,"American Indian or Alaska Nat","Kindergarten",6
+"2019-2020",15,"Asian","Kindergarten",22
+"2019-2020",15,"Black or African American","Kindergarten",105
+"2019-2020",15,"Hispanic/Latino","Kindergarten",2003
+"2019-2020",15,"Native Hawaiian/Other Pacific","Kindergarten",5
+"2019-2020",15,"Two or more races","Kindergarten",86
+"2019-2020",15,"White","Kindergarten",1389
+"2019-2020",15,"American Indian or Alaska Nat","Grade 1",1
+"2019-2020",15,"Asian","Grade 1",37
+"2019-2020",15,"Black or African American","Grade 1",106
+"2019-2020",15,"Hispanic/Latino","Grade 1",2072
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 1",4
+"2019-2020",15,"Two or more races","Grade 1",84
+"2019-2020",15,"White","Grade 1",1428
+"2019-2020",15,"American Indian or Alaska Nat","Grade 2",9
+"2019-2020",15,"Asian","Grade 2",30
+"2019-2020",15,"Black or African American","Grade 2",90
+"2019-2020",15,"Hispanic/Latino","Grade 2",2073
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 2",3
+"2019-2020",15,"Two or more races","Grade 2",84
+"2019-2020",15,"White","Grade 2",1354
+"2019-2020",15,"American Indian or Alaska Nat","Grade 3",5
+"2019-2020",15,"Asian","Grade 3",29
+"2019-2020",15,"Black or African American","Grade 3",95
+"2019-2020",15,"Hispanic/Latino","Grade 3",2018
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 3",1
+"2019-2020",15,"Two or more races","Grade 3",69
+"2019-2020",15,"White","Grade 3",1328
+"2019-2020",15,"American Indian or Alaska Nat","Grade 4",5
+"2019-2020",15,"Asian","Grade 4",28
+"2019-2020",15,"Black or African American","Grade 4",104
+"2019-2020",15,"Hispanic/Latino","Grade 4",2131
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 4",1
+"2019-2020",15,"Two or more races","Grade 4",62
+"2019-2020",15,"White","Grade 4",1362
+"2019-2020",15,"American Indian or Alaska Nat","Grade 5",9
+"2019-2020",15,"Asian","Grade 5",27
+"2019-2020",15,"Black or African American","Grade 5",122
+"2019-2020",15,"Hispanic/Latino","Grade 5",2316
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 5",5
+"2019-2020",15,"Two or more races","Grade 5",62
+"2019-2020",15,"White","Grade 5",1342
+"2019-2020",15,"American Indian or Alaska Nat","Grade 6",10
+"2019-2020",15,"Asian","Grade 6",28
+"2019-2020",15,"Black or African American","Grade 6",111
+"2019-2020",15,"Hispanic/Latino","Grade 6",2356
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 6",1
+"2019-2020",15,"Two or more races","Grade 6",73
+"2019-2020",15,"White","Grade 6",1371
+"2019-2020",15,"American Indian or Alaska Nat","Grade 7",10
+"2019-2020",15,"Asian","Grade 7",25
+"2019-2020",15,"Black or African American","Grade 7",106
+"2019-2020",15,"Hispanic/Latino","Grade 7",2136
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 7",2
+"2019-2020",15,"Two or more races","Grade 7",66
+"2019-2020",15,"White","Grade 7",1412
+"2019-2020",15,"American Indian or Alaska Nat","Grade 8",12
+"2019-2020",15,"Asian","Grade 8",25
+"2019-2020",15,"Black or African American","Grade 8",117
+"2019-2020",15,"Hispanic/Latino","Grade 8",2259
+"2019-2020",15,"Two or more races","Grade 8",67
+"2019-2020",15,"White","Grade 8",1308
+"2019-2020",15,"American Indian or Alaska Nat","Grade 9",10
+"2019-2020",15,"Asian","Grade 9",22
+"2019-2020",15,"Black or African American","Grade 9",102
+"2019-2020",15,"Hispanic/Latino","Grade 9",2347
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 9",2
+"2019-2020",15,"Two or more races","Grade 9",76
+"2019-2020",15,"White","Grade 9",1395
+"2019-2020",15,"American Indian or Alaska Nat","Grade 10",10
+"2019-2020",15,"Asian","Grade 10",22
+"2019-2020",15,"Black or African American","Grade 10",80
+"2019-2020",15,"Hispanic/Latino","Grade 10",2159
+"2019-2020",15,"Two or more races","Grade 10",63
+"2019-2020",15,"White","Grade 10",1243
+"2019-2020",15,"American Indian or Alaska Nat","Grade 11",9
+"2019-2020",15,"Asian","Grade 11",32
+"2019-2020",15,"Black or African American","Grade 11",62
+"2019-2020",15,"Hispanic/Latino","Grade 11",1977
+"2019-2020",15,"Native Hawaiian/Other Pacific","Grade 11",3
+"2019-2020",15,"Two or more races","Grade 11",51
+"2019-2020",15,"White","Grade 11",1181
+"2019-2020",15,"American Indian or Alaska Nat","Grade 12",6
+"2019-2020",15,"Asian","Grade 12",25
+"2019-2020",15,"Black or African American","Grade 12",67
+"2019-2020",15,"Hispanic/Latino","Grade 12",1772
+"2019-2020",15,"Two or more races","Grade 12",49
+"2019-2020",15,"White","Grade 12",1110
+"2019-2020",16,"Asian","Early Education",3
+"2019-2020",16,"Black or African American","Early Education",21
+"2019-2020",16,"Hispanic/Latino","Early Education",171
+"2019-2020",16,"Two or more races","Early Education",10
+"2019-2020",16,"White","Early Education",181
+"2019-2020",16,"American Indian or Alaska Nat","Pre-kindergarten",12
+"2019-2020",16,"Asian","Pre-kindergarten",152
+"2019-2020",16,"Black or African American","Pre-kindergarten",321
+"2019-2020",16,"Hispanic/Latino","Pre-kindergarten",2396
+"2019-2020",16,"Two or more races","Pre-kindergarten",118
+"2019-2020",16,"White","Pre-kindergarten",1183
+"2019-2020",16,"American Indian or Alaska Nat","Kindergarten",24
+"2019-2020",16,"Asian","Kindergarten",201
+"2019-2020",16,"Black or African American","Kindergarten",347
+"2019-2020",16,"Hispanic/Latino","Kindergarten",2991
+"2019-2020",16,"Native Hawaiian/Other Pacific","Kindergarten",7
+"2019-2020",16,"Two or more races","Kindergarten",178
+"2019-2020",16,"White","Kindergarten",2479
+"2019-2020",16,"American Indian or Alaska Nat","Grade 1",17
+"2019-2020",16,"Asian","Grade 1",164
+"2019-2020",16,"Black or African American","Grade 1",338
+"2019-2020",16,"Hispanic/Latino","Grade 1",2965
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 1",3
+"2019-2020",16,"Two or more races","Grade 1",180
+"2019-2020",16,"White","Grade 1",2456
+"2019-2020",16,"American Indian or Alaska Nat","Grade 2",26
+"2019-2020",16,"Asian","Grade 2",158
+"2019-2020",16,"Black or African American","Grade 2",300
+"2019-2020",16,"Hispanic/Latino","Grade 2",2821
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 2",6
+"2019-2020",16,"Two or more races","Grade 2",152
+"2019-2020",16,"White","Grade 2",2456
+"2019-2020",16,"American Indian or Alaska Nat","Grade 3",22
+"2019-2020",16,"Asian","Grade 3",195
+"2019-2020",16,"Black or African American","Grade 3",319
+"2019-2020",16,"Hispanic/Latino","Grade 3",2936
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 3",6
+"2019-2020",16,"Two or more races","Grade 3",150
+"2019-2020",16,"White","Grade 3",2430
+"2019-2020",16,"American Indian or Alaska Nat","Grade 4",23
+"2019-2020",16,"Asian","Grade 4",169
+"2019-2020",16,"Black or African American","Grade 4",320
+"2019-2020",16,"Hispanic/Latino","Grade 4",2994
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 4",5
+"2019-2020",16,"Two or more races","Grade 4",134
+"2019-2020",16,"White","Grade 4",2492
+"2019-2020",16,"American Indian or Alaska Nat","Grade 5",24
+"2019-2020",16,"Asian","Grade 5",191
+"2019-2020",16,"Black or African American","Grade 5",313
+"2019-2020",16,"Hispanic/Latino","Grade 5",3124
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 5",10
+"2019-2020",16,"Two or more races","Grade 5",142
+"2019-2020",16,"White","Grade 5",2687
+"2019-2020",16,"American Indian or Alaska Nat","Grade 6",22
+"2019-2020",16,"Asian","Grade 6",158
+"2019-2020",16,"Black or African American","Grade 6",344
+"2019-2020",16,"Hispanic/Latino","Grade 6",3079
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 6",4
+"2019-2020",16,"Two or more races","Grade 6",131
+"2019-2020",16,"White","Grade 6",2748
+"2019-2020",16,"American Indian or Alaska Nat","Grade 7",28
+"2019-2020",16,"Asian","Grade 7",149
+"2019-2020",16,"Black or African American","Grade 7",329
+"2019-2020",16,"Hispanic/Latino","Grade 7",3173
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 7",6
+"2019-2020",16,"Two or more races","Grade 7",155
+"2019-2020",16,"White","Grade 7",2733
+"2019-2020",16,"American Indian or Alaska Nat","Grade 8",29
+"2019-2020",16,"Asian","Grade 8",166
+"2019-2020",16,"Black or African American","Grade 8",332
+"2019-2020",16,"Hispanic/Latino","Grade 8",2927
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 8",4
+"2019-2020",16,"Two or more races","Grade 8",135
+"2019-2020",16,"White","Grade 8",2606
+"2019-2020",16,"American Indian or Alaska Nat","Grade 9",34
+"2019-2020",16,"Asian","Grade 9",164
+"2019-2020",16,"Black or African American","Grade 9",367
+"2019-2020",16,"Hispanic/Latino","Grade 9",3156
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 9",10
+"2019-2020",16,"Two or more races","Grade 9",148
+"2019-2020",16,"White","Grade 9",2791
+"2019-2020",16,"American Indian or Alaska Nat","Grade 10",34
+"2019-2020",16,"Asian","Grade 10",156
+"2019-2020",16,"Black or African American","Grade 10",276
+"2019-2020",16,"Hispanic/Latino","Grade 10",2878
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 10",3
+"2019-2020",16,"Two or more races","Grade 10",120
+"2019-2020",16,"White","Grade 10",2557
+"2019-2020",16,"American Indian or Alaska Nat","Grade 11",34
+"2019-2020",16,"Asian","Grade 11",133
+"2019-2020",16,"Black or African American","Grade 11",259
+"2019-2020",16,"Hispanic/Latino","Grade 11",2582
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 11",5
+"2019-2020",16,"Two or more races","Grade 11",103
+"2019-2020",16,"White","Grade 11",2496
+"2019-2020",16,"American Indian or Alaska Nat","Grade 12",39
+"2019-2020",16,"Asian","Grade 12",157
+"2019-2020",16,"Black or African American","Grade 12",252
+"2019-2020",16,"Hispanic/Latino","Grade 12",2311
+"2019-2020",16,"Native Hawaiian/Other Pacific","Grade 12",4
+"2019-2020",16,"Two or more races","Grade 12",100
+"2019-2020",16,"White","Grade 12",2383
+"2019-2020",17,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",17,"Asian","Early Education",5
+"2019-2020",17,"Black or African American","Early Education",16
+"2019-2020",17,"Hispanic/Latino","Early Education",235
+"2019-2020",17,"Two or more races","Early Education",9
+"2019-2020",17,"White","Early Education",147
+"2019-2020",17,"American Indian or Alaska Nat","Pre-kindergarten",16
+"2019-2020",17,"Asian","Pre-kindergarten",46
+"2019-2020",17,"Black or African American","Pre-kindergarten",348
+"2019-2020",17,"Hispanic/Latino","Pre-kindergarten",2571
+"2019-2020",17,"Native Hawaiian/Other Pacific","Pre-kindergarten",19
+"2019-2020",17,"Two or more races","Pre-kindergarten",68
+"2019-2020",17,"White","Pre-kindergarten",1047
+"2019-2020",17,"American Indian or Alaska Nat","Kindergarten",24
+"2019-2020",17,"Asian","Kindergarten",70
+"2019-2020",17,"Black or African American","Kindergarten",412
+"2019-2020",17,"Hispanic/Latino","Kindergarten",3524
+"2019-2020",17,"Native Hawaiian/Other Pacific","Kindergarten",9
+"2019-2020",17,"Two or more races","Kindergarten",142
+"2019-2020",17,"White","Kindergarten",1966
+"2019-2020",17,"American Indian or Alaska Nat","Grade 1",23
+"2019-2020",17,"Asian","Grade 1",93
+"2019-2020",17,"Black or African American","Grade 1",381
+"2019-2020",17,"Hispanic/Latino","Grade 1",3487
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 1",7
+"2019-2020",17,"Two or more races","Grade 1",107
+"2019-2020",17,"White","Grade 1",1979
+"2019-2020",17,"American Indian or Alaska Nat","Grade 2",10
+"2019-2020",17,"Asian","Grade 2",72
+"2019-2020",17,"Black or African American","Grade 2",349
+"2019-2020",17,"Hispanic/Latino","Grade 2",3502
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 2",4
+"2019-2020",17,"Two or more races","Grade 2",116
+"2019-2020",17,"White","Grade 2",2004
+"2019-2020",17,"American Indian or Alaska Nat","Grade 3",15
+"2019-2020",17,"Asian","Grade 3",64
+"2019-2020",17,"Black or African American","Grade 3",362
+"2019-2020",17,"Hispanic/Latino","Grade 3",3562
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 3",3
+"2019-2020",17,"Two or more races","Grade 3",112
+"2019-2020",17,"White","Grade 3",1913
+"2019-2020",17,"American Indian or Alaska Nat","Grade 4",16
+"2019-2020",17,"Asian","Grade 4",61
+"2019-2020",17,"Black or African American","Grade 4",404
+"2019-2020",17,"Hispanic/Latino","Grade 4",3774
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 4",5
+"2019-2020",17,"Two or more races","Grade 4",128
+"2019-2020",17,"White","Grade 4",2023
+"2019-2020",17,"American Indian or Alaska Nat","Grade 5",21
+"2019-2020",17,"Asian","Grade 5",72
+"2019-2020",17,"Black or African American","Grade 5",435
+"2019-2020",17,"Hispanic/Latino","Grade 5",3947
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 5",6
+"2019-2020",17,"Two or more races","Grade 5",124
+"2019-2020",17,"White","Grade 5",2009
+"2019-2020",17,"American Indian or Alaska Nat","Grade 6",12
+"2019-2020",17,"Asian","Grade 6",86
+"2019-2020",17,"Black or African American","Grade 6",421
+"2019-2020",17,"Hispanic/Latino","Grade 6",3962
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 6",4
+"2019-2020",17,"Two or more races","Grade 6",121
+"2019-2020",17,"White","Grade 6",1982
+"2019-2020",17,"American Indian or Alaska Nat","Grade 7",30
+"2019-2020",17,"Asian","Grade 7",82
+"2019-2020",17,"Black or African American","Grade 7",448
+"2019-2020",17,"Hispanic/Latino","Grade 7",4031
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 7",3
+"2019-2020",17,"Two or more races","Grade 7",133
+"2019-2020",17,"White","Grade 7",2067
+"2019-2020",17,"American Indian or Alaska Nat","Grade 8",24
+"2019-2020",17,"Asian","Grade 8",74
+"2019-2020",17,"Black or African American","Grade 8",396
+"2019-2020",17,"Hispanic/Latino","Grade 8",3516
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 8",1
+"2019-2020",17,"Two or more races","Grade 8",94
+"2019-2020",17,"White","Grade 8",2000
+"2019-2020",17,"American Indian or Alaska Nat","Grade 9",22
+"2019-2020",17,"Asian","Grade 9",70
+"2019-2020",17,"Black or African American","Grade 9",432
+"2019-2020",17,"Hispanic/Latino","Grade 9",3807
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 9",6
+"2019-2020",17,"Two or more races","Grade 9",113
+"2019-2020",17,"White","Grade 9",1926
+"2019-2020",17,"American Indian or Alaska Nat","Grade 10",18
+"2019-2020",17,"Asian","Grade 10",74
+"2019-2020",17,"Black or African American","Grade 10",394
+"2019-2020",17,"Hispanic/Latino","Grade 10",3403
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 10",4
+"2019-2020",17,"Two or more races","Grade 10",118
+"2019-2020",17,"White","Grade 10",1900
+"2019-2020",17,"American Indian or Alaska Nat","Grade 11",18
+"2019-2020",17,"Asian","Grade 11",76
+"2019-2020",17,"Black or African American","Grade 11",345
+"2019-2020",17,"Hispanic/Latino","Grade 11",3187
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 11",1
+"2019-2020",17,"Two or more races","Grade 11",86
+"2019-2020",17,"White","Grade 11",1918
+"2019-2020",17,"American Indian or Alaska Nat","Grade 12",9
+"2019-2020",17,"Asian","Grade 12",78
+"2019-2020",17,"Black or African American","Grade 12",367
+"2019-2020",17,"Hispanic/Latino","Grade 12",2913
+"2019-2020",17,"Native Hawaiian/Other Pacific","Grade 12",3
+"2019-2020",17,"Two or more races","Grade 12",93
+"2019-2020",17,"White","Grade 12",1779
+"2019-2020",18,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",18,"Asian","Early Education",6
+"2019-2020",18,"Black or African American","Early Education",9
+"2019-2020",18,"Hispanic/Latino","Early Education",184
+"2019-2020",18,"Two or more races","Early Education",5
+"2019-2020",18,"White","Early Education",86
+"2019-2020",18,"American Indian or Alaska Nat","Pre-kindergarten",6
+"2019-2020",18,"Asian","Pre-kindergarten",77
+"2019-2020",18,"Black or African American","Pre-kindergarten",171
+"2019-2020",18,"Hispanic/Latino","Pre-kindergarten",2857
+"2019-2020",18,"Native Hawaiian/Other Pacific","Pre-kindergarten",5
+"2019-2020",18,"Two or more races","Pre-kindergarten",48
+"2019-2020",18,"White","Pre-kindergarten",581
+"2019-2020",18,"American Indian or Alaska Nat","Kindergarten",13
+"2019-2020",18,"Asian","Kindergarten",87
+"2019-2020",18,"Black or African American","Kindergarten",317
+"2019-2020",18,"Hispanic/Latino","Kindergarten",5260
+"2019-2020",18,"Native Hawaiian/Other Pacific","Kindergarten",14
+"2019-2020",18,"Two or more races","Kindergarten",116
+"2019-2020",18,"White","Kindergarten",1826
+"2019-2020",18,"American Indian or Alaska Nat","Grade 1",16
+"2019-2020",18,"Asian","Grade 1",119
+"2019-2020",18,"Black or African American","Grade 1",279
+"2019-2020",18,"Hispanic/Latino","Grade 1",5261
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 1",10
+"2019-2020",18,"Two or more races","Grade 1",138
+"2019-2020",18,"White","Grade 1",1829
+"2019-2020",18,"American Indian or Alaska Nat","Grade 2",22
+"2019-2020",18,"Asian","Grade 2",109
+"2019-2020",18,"Black or African American","Grade 2",279
+"2019-2020",18,"Hispanic/Latino","Grade 2",5078
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 2",15
+"2019-2020",18,"Two or more races","Grade 2",110
+"2019-2020",18,"White","Grade 2",1700
+"2019-2020",18,"American Indian or Alaska Nat","Grade 3",20
+"2019-2020",18,"Asian","Grade 3",95
+"2019-2020",18,"Black or African American","Grade 3",314
+"2019-2020",18,"Hispanic/Latino","Grade 3",4924
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 3",13
+"2019-2020",18,"Two or more races","Grade 3",104
+"2019-2020",18,"White","Grade 3",1689
+"2019-2020",18,"American Indian or Alaska Nat","Grade 4",11
+"2019-2020",18,"Asian","Grade 4",122
+"2019-2020",18,"Black or African American","Grade 4",316
+"2019-2020",18,"Hispanic/Latino","Grade 4",4905
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 4",14
+"2019-2020",18,"Two or more races","Grade 4",114
+"2019-2020",18,"White","Grade 4",1653
+"2019-2020",18,"American Indian or Alaska Nat","Grade 5",26
+"2019-2020",18,"Asian","Grade 5",93
+"2019-2020",18,"Black or African American","Grade 5",302
+"2019-2020",18,"Hispanic/Latino","Grade 5",5322
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 5",8
+"2019-2020",18,"Two or more races","Grade 5",94
+"2019-2020",18,"White","Grade 5",1737
+"2019-2020",18,"American Indian or Alaska Nat","Grade 6",27
+"2019-2020",18,"Asian","Grade 6",85
+"2019-2020",18,"Black or African American","Grade 6",341
+"2019-2020",18,"Hispanic/Latino","Grade 6",5184
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 6",14
+"2019-2020",18,"Two or more races","Grade 6",106
+"2019-2020",18,"White","Grade 6",1726
+"2019-2020",18,"American Indian or Alaska Nat","Grade 7",20
+"2019-2020",18,"Asian","Grade 7",65
+"2019-2020",18,"Black or African American","Grade 7",313
+"2019-2020",18,"Hispanic/Latino","Grade 7",5178
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 7",10
+"2019-2020",18,"Two or more races","Grade 7",105
+"2019-2020",18,"White","Grade 7",1684
+"2019-2020",18,"American Indian or Alaska Nat","Grade 8",17
+"2019-2020",18,"Asian","Grade 8",66
+"2019-2020",18,"Black or African American","Grade 8",299
+"2019-2020",18,"Hispanic/Latino","Grade 8",4649
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 8",8
+"2019-2020",18,"Two or more races","Grade 8",90
+"2019-2020",18,"White","Grade 8",1524
+"2019-2020",18,"American Indian or Alaska Nat","Grade 9",23
+"2019-2020",18,"Asian","Grade 9",88
+"2019-2020",18,"Black or African American","Grade 9",323
+"2019-2020",18,"Hispanic/Latino","Grade 9",5309
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 9",10
+"2019-2020",18,"Two or more races","Grade 9",89
+"2019-2020",18,"White","Grade 9",1646
+"2019-2020",18,"American Indian or Alaska Nat","Grade 10",20
+"2019-2020",18,"Asian","Grade 10",71
+"2019-2020",18,"Black or African American","Grade 10",296
+"2019-2020",18,"Hispanic/Latino","Grade 10",4597
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 10",3
+"2019-2020",18,"Two or more races","Grade 10",81
+"2019-2020",18,"White","Grade 10",1402
+"2019-2020",18,"American Indian or Alaska Nat","Grade 11",19
+"2019-2020",18,"Asian","Grade 11",63
+"2019-2020",18,"Black or African American","Grade 11",227
+"2019-2020",18,"Hispanic/Latino","Grade 11",3964
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 11",5
+"2019-2020",18,"Two or more races","Grade 11",52
+"2019-2020",18,"White","Grade 11",1349
+"2019-2020",18,"American Indian or Alaska Nat","Grade 12",12
+"2019-2020",18,"Asian","Grade 12",65
+"2019-2020",18,"Black or African American","Grade 12",217
+"2019-2020",18,"Hispanic/Latino","Grade 12",3411
+"2019-2020",18,"Native Hawaiian/Other Pacific","Grade 12",1
+"2019-2020",18,"Two or more races","Grade 12",68
+"2019-2020",18,"White","Grade 12",1183
+"2019-2020",19,"American Indian or Alaska Nat","Early Education",1
+"2019-2020",19,"Asian","Early Education",10
+"2019-2020",19,"Black or African American","Early Education",21
+"2019-2020",19,"Hispanic/Latino","Early Education",720
+"2019-2020",19,"Native Hawaiian/Other Pacific","Early Education",2
+"2019-2020",19,"Two or more races","Early Education",12
+"2019-2020",19,"White","Early Education",56
+"2019-2020",19,"American Indian or Alaska Nat","Pre-kindergarten",9
+"2019-2020",19,"Asian","Pre-kindergarten",56
+"2019-2020",19,"Black or African American","Pre-kindergarten",212
+"2019-2020",19,"Hispanic/Latino","Pre-kindergarten",7296
+"2019-2020",19,"Native Hawaiian/Other Pacific","Pre-kindergarten",25
+"2019-2020",19,"Two or more races","Pre-kindergarten",117
+"2019-2020",19,"White","Pre-kindergarten",519
+"2019-2020",19,"American Indian or Alaska Nat","Kindergarten",18
+"2019-2020",19,"Asian","Kindergarten",86
+"2019-2020",19,"Black or African American","Kindergarten",302
+"2019-2020",19,"Hispanic/Latino","Kindergarten",9732
+"2019-2020",19,"Native Hawaiian/Other Pacific","Kindergarten",23
+"2019-2020",19,"Two or more races","Kindergarten",161
+"2019-2020",19,"White","Kindergarten",719
+"2019-2020",19,"American Indian or Alaska Nat","Grade 1",20
+"2019-2020",19,"Asian","Grade 1",77
+"2019-2020",19,"Black or African American","Grade 1",305
+"2019-2020",19,"Hispanic/Latino","Grade 1",10164
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 1",39
+"2019-2020",19,"Two or more races","Grade 1",155
+"2019-2020",19,"White","Grade 1",765
+"2019-2020",19,"American Indian or Alaska Nat","Grade 2",14
+"2019-2020",19,"Asian","Grade 2",75
+"2019-2020",19,"Black or African American","Grade 2",302
+"2019-2020",19,"Hispanic/Latino","Grade 2",10444
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 2",26
+"2019-2020",19,"Two or more races","Grade 2",149
+"2019-2020",19,"White","Grade 2",751
+"2019-2020",19,"American Indian or Alaska Nat","Grade 3",20
+"2019-2020",19,"Asian","Grade 3",71
+"2019-2020",19,"Black or African American","Grade 3",270
+"2019-2020",19,"Hispanic/Latino","Grade 3",10372
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 3",41
+"2019-2020",19,"Two or more races","Grade 3",139
+"2019-2020",19,"White","Grade 3",679
+"2019-2020",19,"American Indian or Alaska Nat","Grade 4",23
+"2019-2020",19,"Asian","Grade 4",79
+"2019-2020",19,"Black or African American","Grade 4",277
+"2019-2020",19,"Hispanic/Latino","Grade 4",10927
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 4",30
+"2019-2020",19,"Two or more races","Grade 4",140
+"2019-2020",19,"White","Grade 4",716
+"2019-2020",19,"American Indian or Alaska Nat","Grade 5",25
+"2019-2020",19,"Asian","Grade 5",77
+"2019-2020",19,"Black or African American","Grade 5",293
+"2019-2020",19,"Hispanic/Latino","Grade 5",11514
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 5",25
+"2019-2020",19,"Two or more races","Grade 5",126
+"2019-2020",19,"White","Grade 5",639
+"2019-2020",19,"American Indian or Alaska Nat","Grade 6",28
+"2019-2020",19,"Asian","Grade 6",84
+"2019-2020",19,"Black or African American","Grade 6",294
+"2019-2020",19,"Hispanic/Latino","Grade 6",11612
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 6",30
+"2019-2020",19,"Two or more races","Grade 6",143
+"2019-2020",19,"White","Grade 6",709
+"2019-2020",19,"American Indian or Alaska Nat","Grade 7",24
+"2019-2020",19,"Asian","Grade 7",91
+"2019-2020",19,"Black or African American","Grade 7",282
+"2019-2020",19,"Hispanic/Latino","Grade 7",12026
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 7",32
+"2019-2020",19,"Two or more races","Grade 7",121
+"2019-2020",19,"White","Grade 7",683
+"2019-2020",19,"American Indian or Alaska Nat","Grade 8",18
+"2019-2020",19,"Asian","Grade 8",86
+"2019-2020",19,"Black or African American","Grade 8",300
+"2019-2020",19,"Hispanic/Latino","Grade 8",12142
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 8",25
+"2019-2020",19,"Two or more races","Grade 8",107
+"2019-2020",19,"White","Grade 8",615
+"2019-2020",19,"American Indian or Alaska Nat","Grade 9",27
+"2019-2020",19,"Asian","Grade 9",96
+"2019-2020",19,"Black or African American","Grade 9",290
+"2019-2020",19,"Hispanic/Latino","Grade 9",14213
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 9",27
+"2019-2020",19,"Two or more races","Grade 9",109
+"2019-2020",19,"White","Grade 9",759
+"2019-2020",19,"American Indian or Alaska Nat","Grade 10",28
+"2019-2020",19,"Asian","Grade 10",88
+"2019-2020",19,"Black or African American","Grade 10",277
+"2019-2020",19,"Hispanic/Latino","Grade 10",13084
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 10",24
+"2019-2020",19,"Two or more races","Grade 10",89
+"2019-2020",19,"White","Grade 10",695
+"2019-2020",19,"American Indian or Alaska Nat","Grade 11",18
+"2019-2020",19,"Asian","Grade 11",91
+"2019-2020",19,"Black or African American","Grade 11",253
+"2019-2020",19,"Hispanic/Latino","Grade 11",12060
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 11",21
+"2019-2020",19,"Two or more races","Grade 11",70
+"2019-2020",19,"White","Grade 11",649
+"2019-2020",19,"American Indian or Alaska Nat","Grade 12",20
+"2019-2020",19,"Asian","Grade 12",87
+"2019-2020",19,"Black or African American","Grade 12",238
+"2019-2020",19,"Hispanic/Latino","Grade 12",11420
+"2019-2020",19,"Native Hawaiian/Other Pacific","Grade 12",20
+"2019-2020",19,"Two or more races","Grade 12",76
+"2019-2020",19,"White","Grade 12",605
+"2019-2020",20,"American Indian or Alaska Nat","Early Education",5
+"2019-2020",20,"Asian","Early Education",56
+"2019-2020",20,"Black or African American","Early Education",117
+"2019-2020",20,"Hispanic/Latino","Early Education",1627
+"2019-2020",20,"Native Hawaiian/Other Pacific","Early Education",1
+"2019-2020",20,"Two or more races","Early Education",56
+"2019-2020",20,"White","Early Education",630
+"2019-2020",20,"American Indian or Alaska Nat","Pre-kindergarten",38
+"2019-2020",20,"Asian","Pre-kindergarten",407
+"2019-2020",20,"Black or African American","Pre-kindergarten",1592
+"2019-2020",20,"Hispanic/Latino","Pre-kindergarten",17887
+"2019-2020",20,"Native Hawaiian/Other Pacific","Pre-kindergarten",30
+"2019-2020",20,"Two or more races","Pre-kindergarten",502
+"2019-2020",20,"White","Pre-kindergarten",2631
+"2019-2020",20,"American Indian or Alaska Nat","Kindergarten",73
+"2019-2020",20,"Asian","Kindergarten",840
+"2019-2020",20,"Black or African American","Kindergarten",2011
+"2019-2020",20,"Hispanic/Latino","Kindergarten",22657
+"2019-2020",20,"Native Hawaiian/Other Pacific","Kindergarten",47
+"2019-2020",20,"Two or more races","Kindergarten",926
+"2019-2020",20,"White","Kindergarten",7164
+"2019-2020",20,"American Indian or Alaska Nat","Grade 1",63
+"2019-2020",20,"Asian","Grade 1",826
+"2019-2020",20,"Black or African American","Grade 1",1902
+"2019-2020",20,"Hispanic/Latino","Grade 1",23082
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 1",43
+"2019-2020",20,"Two or more races","Grade 1",904
+"2019-2020",20,"White","Grade 1",7076
+"2019-2020",20,"American Indian or Alaska Nat","Grade 2",59
+"2019-2020",20,"Asian","Grade 2",836
+"2019-2020",20,"Black or African American","Grade 2",1977
+"2019-2020",20,"Hispanic/Latino","Grade 2",22963
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 2",38
+"2019-2020",20,"Two or more races","Grade 2",946
+"2019-2020",20,"White","Grade 2",7393
+"2019-2020",20,"American Indian or Alaska Nat","Grade 3",73
+"2019-2020",20,"Asian","Grade 3",833
+"2019-2020",20,"Black or African American","Grade 3",2200
+"2019-2020",20,"Hispanic/Latino","Grade 3",23162
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 3",36
+"2019-2020",20,"Two or more races","Grade 3",896
+"2019-2020",20,"White","Grade 3",7341
+"2019-2020",20,"American Indian or Alaska Nat","Grade 4",85
+"2019-2020",20,"Asian","Grade 4",776
+"2019-2020",20,"Black or African American","Grade 4",2114
+"2019-2020",20,"Hispanic/Latino","Grade 4",24349
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 4",59
+"2019-2020",20,"Two or more races","Grade 4",922
+"2019-2020",20,"White","Grade 4",7405
+"2019-2020",20,"American Indian or Alaska Nat","Grade 5",88
+"2019-2020",20,"Asian","Grade 5",824
+"2019-2020",20,"Black or African American","Grade 5",2249
+"2019-2020",20,"Hispanic/Latino","Grade 5",25499
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 5",56
+"2019-2020",20,"Two or more races","Grade 5",906
+"2019-2020",20,"White","Grade 5",7541
+"2019-2020",20,"American Indian or Alaska Nat","Grade 6",107
+"2019-2020",20,"Asian","Grade 6",818
+"2019-2020",20,"Black or African American","Grade 6",2243
+"2019-2020",20,"Hispanic/Latino","Grade 6",25853
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 6",52
+"2019-2020",20,"Two or more races","Grade 6",844
+"2019-2020",20,"White","Grade 6",7460
+"2019-2020",20,"American Indian or Alaska Nat","Grade 7",92
+"2019-2020",20,"Asian","Grade 7",736
+"2019-2020",20,"Black or African American","Grade 7",2214
+"2019-2020",20,"Hispanic/Latino","Grade 7",25614
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 7",55
+"2019-2020",20,"Two or more races","Grade 7",916
+"2019-2020",20,"White","Grade 7",7523
+"2019-2020",20,"American Indian or Alaska Nat","Grade 8",81
+"2019-2020",20,"Asian","Grade 8",709
+"2019-2020",20,"Black or African American","Grade 8",2096
+"2019-2020",20,"Hispanic/Latino","Grade 8",24759
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 8",64
+"2019-2020",20,"Two or more races","Grade 8",843
+"2019-2020",20,"White","Grade 8",7317
+"2019-2020",20,"American Indian or Alaska Nat","Grade 9",108
+"2019-2020",20,"Asian","Grade 9",780
+"2019-2020",20,"Black or African American","Grade 9",2526
+"2019-2020",20,"Hispanic/Latino","Grade 9",28217
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 9",62
+"2019-2020",20,"Two or more races","Grade 9",936
+"2019-2020",20,"White","Grade 9",8049
+"2019-2020",20,"American Indian or Alaska Nat","Grade 10",75
+"2019-2020",20,"Asian","Grade 10",762
+"2019-2020",20,"Black or African American","Grade 10",2268
+"2019-2020",20,"Hispanic/Latino","Grade 10",24523
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 10",63
+"2019-2020",20,"Two or more races","Grade 10",803
+"2019-2020",20,"White","Grade 10",7815
+"2019-2020",20,"American Indian or Alaska Nat","Grade 11",89
+"2019-2020",20,"Asian","Grade 11",713
+"2019-2020",20,"Black or African American","Grade 11",2093
+"2019-2020",20,"Hispanic/Latino","Grade 11",21918
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 11",67
+"2019-2020",20,"Two or more races","Grade 11",768
+"2019-2020",20,"White","Grade 11",7377
+"2019-2020",20,"American Indian or Alaska Nat","Grade 12",69
+"2019-2020",20,"Asian","Grade 12",681
+"2019-2020",20,"Black or African American","Grade 12",1984
+"2019-2020",20,"Hispanic/Latino","Grade 12",20582
+"2019-2020",20,"Native Hawaiian/Other Pacific","Grade 12",59
+"2019-2020",20,"Two or more races","Grade 12",654
+"2019-2020",20,"White","Grade 12",7101
+

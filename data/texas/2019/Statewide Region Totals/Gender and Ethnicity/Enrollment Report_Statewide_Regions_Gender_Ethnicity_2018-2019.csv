@@ -1,0 +1,286 @@
+T E X A S  E D U C A T I O N  A G E N C Y
+
+PEIMS Student Enrollment Data for 2018-2019
+
+"YEAR","REGION","ETHNICITY","GENDER","ENROLLMENT"
+"2018-2019",01,"American Indian or Alaska Nat","FEMALE",71
+"2018-2019",01,"American Indian or Alaska Nat","MALE",114
+"2018-2019",01,"Asian","FEMALE",904
+"2018-2019",01,"Asian","MALE",971
+"2018-2019",01,"Black or African American","FEMALE",1160
+"2018-2019",01,"Black or African American","MALE",1219
+"2018-2019",01,"Hispanic/Latino","FEMALE",207276
+"2018-2019",01,"Hispanic/Latino","MALE",216188
+"2018-2019",01,"Native Hawaiian/Other Pacific","FEMALE",38
+"2018-2019",01,"Native Hawaiian/Other Pacific","MALE",38
+"2018-2019",01,"Two or more races","FEMALE",310
+"2018-2019",01,"Two or more races","MALE",318
+"2018-2019",01,"White","FEMALE",3706
+"2018-2019",01,"White","MALE",3802
+"2018-2019",02,"American Indian or Alaska Nat","FEMALE",91
+"2018-2019",02,"American Indian or Alaska Nat","MALE",84
+"2018-2019",02,"Asian","FEMALE",616
+"2018-2019",02,"Asian","MALE",633
+"2018-2019",02,"Black or African American","FEMALE",1138
+"2018-2019",02,"Black or African American","MALE",1252
+"2018-2019",02,"Hispanic/Latino","FEMALE",37814
+"2018-2019",02,"Hispanic/Latino","MALE",40039
+"2018-2019",02,"Native Hawaiian/Other Pacific","FEMALE",45
+"2018-2019",02,"Native Hawaiian/Other Pacific","MALE",40
+"2018-2019",02,"Two or more races","FEMALE",597
+"2018-2019",02,"Two or more races","MALE",581
+"2018-2019",02,"White","FEMALE",9709
+"2018-2019",02,"White","MALE",10513
+"2018-2019",03,"American Indian or Alaska Nat","FEMALE",50
+"2018-2019",03,"American Indian or Alaska Nat","MALE",40
+"2018-2019",03,"Asian","FEMALE",310
+"2018-2019",03,"Asian","MALE",309
+"2018-2019",03,"Black or African American","FEMALE",2019
+"2018-2019",03,"Black or African American","MALE",2230
+"2018-2019",03,"Hispanic/Latino","FEMALE",14978
+"2018-2019",03,"Hispanic/Latino","MALE",15764
+"2018-2019",03,"Native Hawaiian/Other Pacific","FEMALE",9
+"2018-2019",03,"Native Hawaiian/Other Pacific","MALE",11
+"2018-2019",03,"Two or more races","FEMALE",423
+"2018-2019",03,"Two or more races","MALE",418
+"2018-2019",03,"White","FEMALE",8091
+"2018-2019",03,"White","MALE",8692
+"2018-2019",04,"American Indian or Alaska Nat","FEMALE",2477
+"2018-2019",04,"American Indian or Alaska Nat","MALE",2775
+"2018-2019",04,"Asian","FEMALE",41679
+"2018-2019",04,"Asian","MALE",44578
+"2018-2019",04,"Black or African American","FEMALE",107896
+"2018-2019",04,"Black or African American","MALE",112814
+"2018-2019",04,"Hispanic/Latino","FEMALE",298476
+"2018-2019",04,"Hispanic/Latino","MALE",311797
+"2018-2019",04,"Native Hawaiian/Other Pacific","FEMALE",751
+"2018-2019",04,"Native Hawaiian/Other Pacific","MALE",773
+"2018-2019",04,"Two or more races","FEMALE",12244
+"2018-2019",04,"Two or more races","MALE",12703
+"2018-2019",04,"White","FEMALE",122055
+"2018-2019",04,"White","MALE",130662
+"2018-2019",05,"American Indian or Alaska Nat","FEMALE",276
+"2018-2019",05,"American Indian or Alaska Nat","MALE",242
+"2018-2019",05,"Asian","FEMALE",867
+"2018-2019",05,"Asian","MALE",978
+"2018-2019",05,"Black or African American","FEMALE",10370
+"2018-2019",05,"Black or African American","MALE",10786
+"2018-2019",05,"Hispanic/Latino","FEMALE",9082
+"2018-2019",05,"Hispanic/Latino","MALE",9736
+"2018-2019",05,"Native Hawaiian/Other Pacific","FEMALE",26
+"2018-2019",05,"Native Hawaiian/Other Pacific","MALE",26
+"2018-2019",05,"Two or more races","FEMALE",1039
+"2018-2019",05,"Two or more races","MALE",1041
+"2018-2019",05,"White","FEMALE",19006
+"2018-2019",05,"White","MALE",20591
+"2018-2019",06,"American Indian or Alaska Nat","FEMALE",416
+"2018-2019",06,"American Indian or Alaska Nat","MALE",421
+"2018-2019",06,"Asian","FEMALE",2476
+"2018-2019",06,"Asian","MALE",2625
+"2018-2019",06,"Black or African American","FEMALE",10485
+"2018-2019",06,"Black or African American","MALE",10957
+"2018-2019",06,"Hispanic/Latino","FEMALE",36269
+"2018-2019",06,"Hispanic/Latino","MALE",37570
+"2018-2019",06,"Native Hawaiian/Other Pacific","FEMALE",119
+"2018-2019",06,"Native Hawaiian/Other Pacific","MALE",135
+"2018-2019",06,"Two or more races","FEMALE",2656
+"2018-2019",06,"Two or more races","MALE",2672
+"2018-2019",06,"White","FEMALE",45708
+"2018-2019",06,"White","MALE",48719
+"2018-2019",07,"American Indian or Alaska Nat","FEMALE",305
+"2018-2019",07,"American Indian or Alaska Nat","MALE",316
+"2018-2019",07,"Asian","FEMALE",812
+"2018-2019",07,"Asian","MALE",820
+"2018-2019",07,"Black or African American","FEMALE",13823
+"2018-2019",07,"Black or African American","MALE",14734
+"2018-2019",07,"Hispanic/Latino","FEMALE",24525
+"2018-2019",07,"Hispanic/Latino","MALE",25782
+"2018-2019",07,"Native Hawaiian/Other Pacific","FEMALE",54
+"2018-2019",07,"Native Hawaiian/Other Pacific","MALE",53
+"2018-2019",07,"Two or more races","FEMALE",3055
+"2018-2019",07,"Two or more races","MALE",3017
+"2018-2019",07,"White","FEMALE",41990
+"2018-2019",07,"White","MALE",44510
+"2018-2019",08,"American Indian or Alaska Nat","FEMALE",161
+"2018-2019",08,"American Indian or Alaska Nat","MALE",147
+"2018-2019",08,"Asian","FEMALE",232
+"2018-2019",08,"Asian","MALE",204
+"2018-2019",08,"Black or African American","FEMALE",5348
+"2018-2019",08,"Black or African American","MALE",5640
+"2018-2019",08,"Hispanic/Latino","FEMALE",6035
+"2018-2019",08,"Hispanic/Latino","MALE",6097
+"2018-2019",08,"Native Hawaiian/Other Pacific","FEMALE",18
+"2018-2019",08,"Native Hawaiian/Other Pacific","MALE",24
+"2018-2019",08,"Two or more races","FEMALE",1249
+"2018-2019",08,"Two or more races","MALE",1271
+"2018-2019",08,"White","FEMALE",14384
+"2018-2019",08,"White","MALE",15303
+"2018-2019",09,"American Indian or Alaska Nat","FEMALE",99
+"2018-2019",09,"American Indian or Alaska Nat","MALE",123
+"2018-2019",09,"Asian","FEMALE",271
+"2018-2019",09,"Asian","MALE",300
+"2018-2019",09,"Black or African American","FEMALE",1316
+"2018-2019",09,"Black or African American","MALE",1310
+"2018-2019",09,"Hispanic/Latino","FEMALE",5250
+"2018-2019",09,"Hispanic/Latino","MALE",5427
+"2018-2019",09,"Native Hawaiian/Other Pacific","FEMALE",18
+"2018-2019",09,"Native Hawaiian/Other Pacific","MALE",17
+"2018-2019",09,"Two or more races","FEMALE",871
+"2018-2019",09,"Two or more races","MALE",914
+"2018-2019",09,"White","FEMALE",10409
+"2018-2019",09,"White","MALE",11208
+"2018-2019",10,"American Indian or Alaska Nat","FEMALE",2670
+"2018-2019",10,"American Indian or Alaska Nat","MALE",2683
+"2018-2019",10,"Asian","FEMALE",34012
+"2018-2019",10,"Asian","MALE",35486
+"2018-2019",10,"Black or African American","FEMALE",78962
+"2018-2019",10,"Black or African American","MALE",82250
+"2018-2019",10,"Hispanic/Latino","FEMALE",184847
+"2018-2019",10,"Hispanic/Latino","MALE",193001
+"2018-2019",10,"Native Hawaiian/Other Pacific","FEMALE",463
+"2018-2019",10,"Native Hawaiian/Other Pacific","MALE",461
+"2018-2019",10,"Two or more races","FEMALE",11967
+"2018-2019",10,"Two or more races","MALE",12020
+"2018-2019",10,"White","FEMALE",114305
+"2018-2019",10,"White","MALE",121863
+"2018-2019",11,"American Indian or Alaska Nat","FEMALE",1194
+"2018-2019",11,"American Indian or Alaska Nat","MALE",1286
+"2018-2019",11,"Asian","FEMALE",14527
+"2018-2019",11,"Asian","MALE",15256
+"2018-2019",11,"Black or African American","FEMALE",43343
+"2018-2019",11,"Black or African American","MALE",45906
+"2018-2019",11,"Hispanic/Latino","FEMALE",105619
+"2018-2019",11,"Hispanic/Latino","MALE",110486
+"2018-2019",11,"Native Hawaiian/Other Pacific","FEMALE",854
+"2018-2019",11,"Native Hawaiian/Other Pacific","MALE",885
+"2018-2019",11,"Two or more races","FEMALE",9460
+"2018-2019",11,"Two or more races","MALE",9537
+"2018-2019",11,"White","FEMALE",113857
+"2018-2019",11,"White","MALE",121306
+"2018-2019",12,"American Indian or Alaska Nat","FEMALE",347
+"2018-2019",12,"American Indian or Alaska Nat","MALE",354
+"2018-2019",12,"Asian","FEMALE",1759
+"2018-2019",12,"Asian","MALE",1774
+"2018-2019",12,"Black or African American","FEMALE",17060
+"2018-2019",12,"Black or African American","MALE",17661
+"2018-2019",12,"Hispanic/Latino","FEMALE",29885
+"2018-2019",12,"Hispanic/Latino","MALE",31510
+"2018-2019",12,"Native Hawaiian/Other Pacific","FEMALE",765
+"2018-2019",12,"Native Hawaiian/Other Pacific","MALE",745
+"2018-2019",12,"Two or more races","FEMALE",4023
+"2018-2019",12,"Two or more races","MALE",4150
+"2018-2019",12,"White","FEMALE",31989
+"2018-2019",12,"White","MALE",34207
+"2018-2019",13,"American Indian or Alaska Nat","FEMALE",529
+"2018-2019",13,"American Indian or Alaska Nat","MALE",494
+"2018-2019",13,"Asian","FEMALE",11058
+"2018-2019",13,"Asian","MALE",11711
+"2018-2019",13,"Black or African American","FEMALE",16252
+"2018-2019",13,"Black or African American","MALE",16826
+"2018-2019",13,"Hispanic/Latino","FEMALE",96895
+"2018-2019",13,"Hispanic/Latino","MALE",101032
+"2018-2019",13,"Native Hawaiian/Other Pacific","FEMALE",225
+"2018-2019",13,"Native Hawaiian/Other Pacific","MALE",233
+"2018-2019",13,"Two or more races","FEMALE",6520
+"2018-2019",13,"Two or more races","MALE",6750
+"2018-2019",13,"White","FEMALE",69609
+"2018-2019",13,"White","MALE",74840
+"2018-2019",14,"American Indian or Alaska Nat","FEMALE",122
+"2018-2019",14,"American Indian or Alaska Nat","MALE",105
+"2018-2019",14,"Asian","FEMALE",675
+"2018-2019",14,"Asian","MALE",669
+"2018-2019",14,"Black or African American","FEMALE",2539
+"2018-2019",14,"Black or African American","MALE",2401
+"2018-2019",14,"Hispanic/Latino","FEMALE",10263
+"2018-2019",14,"Hispanic/Latino","MALE",10574
+"2018-2019",14,"Native Hawaiian/Other Pacific","FEMALE",26
+"2018-2019",14,"Native Hawaiian/Other Pacific","MALE",40
+"2018-2019",14,"Two or more races","FEMALE",949
+"2018-2019",14,"Two or more races","MALE",990
+"2018-2019",14,"White","FEMALE",13863
+"2018-2019",14,"White","MALE",14504
+"2018-2019",15,"American Indian or Alaska Nat","FEMALE",61
+"2018-2019",15,"American Indian or Alaska Nat","MALE",60
+"2018-2019",15,"Asian","FEMALE",174
+"2018-2019",15,"Asian","MALE",209
+"2018-2019",15,"Black or African American","FEMALE",694
+"2018-2019",15,"Black or African American","MALE",637
+"2018-2019",15,"Hispanic/Latino","FEMALE",14222
+"2018-2019",15,"Hispanic/Latino","MALE",14851
+"2018-2019",15,"Native Hawaiian/Other Pacific","FEMALE",13
+"2018-2019",15,"Native Hawaiian/Other Pacific","MALE",15
+"2018-2019",15,"Two or more races","FEMALE",463
+"2018-2019",15,"Two or more races","MALE",457
+"2018-2019",15,"White","FEMALE",8810
+"2018-2019",15,"White","MALE",9509
+"2018-2019",16,"American Indian or Alaska Nat","FEMALE",186
+"2018-2019",16,"American Indian or Alaska Nat","MALE",215
+"2018-2019",16,"Asian","FEMALE",1228
+"2018-2019",16,"Asian","MALE",1172
+"2018-2019",16,"Black or African American","FEMALE",2138
+"2018-2019",16,"Black or African American","MALE",2357
+"2018-2019",16,"Hispanic/Latino","FEMALE",19942
+"2018-2019",16,"Hispanic/Latino","MALE",20678
+"2018-2019",16,"Native Hawaiian/Other Pacific","FEMALE",37
+"2018-2019",16,"Native Hawaiian/Other Pacific","MALE",38
+"2018-2019",16,"Two or more races","FEMALE",957
+"2018-2019",16,"Two or more races","MALE",966
+"2018-2019",16,"White","FEMALE",16895
+"2018-2019",16,"White","MALE",18209
+"2018-2019",17,"American Indian or Alaska Nat","FEMALE",107
+"2018-2019",17,"American Indian or Alaska Nat","MALE",133
+"2018-2019",17,"Asian","FEMALE",478
+"2018-2019",17,"Asian","MALE",571
+"2018-2019",17,"Black or African American","FEMALE",2738
+"2018-2019",17,"Black or African American","MALE",2856
+"2018-2019",17,"Hispanic/Latino","FEMALE",23977
+"2018-2019",17,"Hispanic/Latino","MALE",25254
+"2018-2019",17,"Native Hawaiian/Other Pacific","FEMALE",22
+"2018-2019",17,"Native Hawaiian/Other Pacific","MALE",24
+"2018-2019",17,"Two or more races","FEMALE",730
+"2018-2019",17,"Two or more races","MALE",748
+"2018-2019",17,"White","FEMALE",13101
+"2018-2019",17,"White","MALE",13764
+"2018-2019",18,"American Indian or Alaska Nat","FEMALE",129
+"2018-2019",18,"American Indian or Alaska Nat","MALE",130
+"2018-2019",18,"Asian","FEMALE",572
+"2018-2019",18,"Asian","MALE",571
+"2018-2019",18,"Black or African American","FEMALE",1978
+"2018-2019",18,"Black or African American","MALE",1985
+"2018-2019",18,"Hispanic/Latino","FEMALE",31633
+"2018-2019",18,"Hispanic/Latino","MALE",33048
+"2018-2019",18,"Native Hawaiian/Other Pacific","FEMALE",56
+"2018-2019",18,"Native Hawaiian/Other Pacific","MALE",71
+"2018-2019",18,"Two or more races","FEMALE",618
+"2018-2019",18,"Two or more races","MALE",617
+"2018-2019",18,"White","FEMALE",10620
+"2018-2019",18,"White","MALE",11431
+"2018-2019",19,"American Indian or Alaska Nat","FEMALE",156
+"2018-2019",19,"American Indian or Alaska Nat","MALE",156
+"2018-2019",19,"Asian","FEMALE",562
+"2018-2019",19,"Asian","MALE",598
+"2018-2019",19,"Black or African American","FEMALE",1880
+"2018-2019",19,"Black or African American","MALE",2023
+"2018-2019",19,"Hispanic/Latino","FEMALE",77962
+"2018-2019",19,"Hispanic/Latino","MALE",81694
+"2018-2019",19,"Native Hawaiian/Other Pacific","FEMALE",188
+"2018-2019",19,"Native Hawaiian/Other Pacific","MALE",191
+"2018-2019",19,"Two or more races","FEMALE",746
+"2018-2019",19,"Two or more races","MALE",812
+"2018-2019",19,"White","FEMALE",4847
+"2018-2019",19,"White","MALE",5179
+"2018-2019",20,"American Indian or Alaska Nat","FEMALE",520
+"2018-2019",20,"American Indian or Alaska Nat","MALE",569
+"2018-2019",20,"Asian","FEMALE",5000
+"2018-2019",20,"Asian","MALE",5010
+"2018-2019",20,"Black or African American","FEMALE",13946
+"2018-2019",20,"Black or African American","MALE",14846
+"2018-2019",20,"Hispanic/Latino","FEMALE",160728
+"2018-2019",20,"Hispanic/Latino","MALE",168384
+"2018-2019",20,"Native Hawaiian/Other Pacific","FEMALE",382
+"2018-2019",20,"Native Hawaiian/Other Pacific","MALE",342
+"2018-2019",20,"Two or more races","FEMALE",5380
+"2018-2019",20,"Two or more races","MALE",5665
+"2018-2019",20,"White","FEMALE",47262
+"2018-2019",20,"White","MALE",51271
+
