@@ -1,0 +1,21 @@
+"Year","Gender Name","Ethnicity Name","Ethnicity Count"
+"2015-2016","Female","Black or African American",325893
+"2015-2016","Female","American Indian or Alaska Native",10152
+"2015-2016","Female","Asian",104045
+"2015-2016","Female","Hispanic",1352496
+"2015-2016","Female","Native Hawaiian/Other or Pacific Islander",3605
+"2015-2016","Female","Two or More Races",53733
+"2015-2016","Female","White",731068
+"2015-2016","Female","Total All Ethnicities",2580992
+"2015-2016","Male","Black or African American",342445
+"2015-2016","Male","American Indian or Alaska Native",10765
+"2015-2016","Male","Asian",109349
+"2015-2016","Male","Hispanic",1415251
+"2015-2016","Male","Native Hawaiian/Other or Pacific Islander",3801
+"2015-2016","Male","Two or More Races",55166
+"2015-2016","Male","White",781959
+"2015-2016","Male","Total All Ethnicities",2718736
+"2015-2016","Total Both Genders","Total All Ethnicities",5299728
+
+STUDENT COUNTS LESS THAN 5 BUT NOT 0 AND RELATED INFORMATION ARE MASKED WITH ""-9999999"" IN COMPLIANCE WITH FERPA.
+

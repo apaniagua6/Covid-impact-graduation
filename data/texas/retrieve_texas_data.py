@@ -11,6 +11,8 @@ directories:
 """
 import requests
 import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 class RetrieveTexasData:
     def __init__(self):
@@ -55,29 +57,35 @@ class RetrieveTexasData:
 
     def write_urls(self, urls_to_retrieve):
 
-        errors = [] # list of files that we couldn't write
+        processes = []
+        with ThreadPoolExecutor(max_workers=20) as executor:
+            for url in urls_to_retrieve:
+                processes.append(executor.submit(self.worker_write_request, url))
 
-        # Lets grab the urls and put them in our folder.
-        for folder_url in urls_to_retrieve:
-            try:
-                path, url = folder_url
-                print("Writing:", path, url)
-                dest_folder= "./" + path
-                if not os.path.exists(dest_folder):
-                    os.makedirs(dest_folder)  # create folder
+        for task in as_completed(processes):
+            print(task.result())
 
-                r = requests.get(url, allow_redirects=True)
-                filename = r.headers.get('content-disposition').split("\"")
-                name = filename[-2]
+    def worker_write_request(self, folder_url):
+        # writes one url to file.
+        # used as a worker. for a multi-threaded approach
+        try:
+            path, url = folder_url
+            print("Writing:", path, url)
+            dest_folder = "./" + path
+            if not os.path.exists(dest_folder):
+                os.makedirs(dest_folder)  # create folder
 
-                with open(dest_folder + name, 'wb') as f:
-                    f.write(r.content)
-            except:
-                errors.append(folder_url)
+            r = requests.get(url, allow_redirects=True)
+            filename = r.headers.get('content-disposition').split("\"")
+            name = filename[-2]
 
-        print("We had errors with the following files", errors)
+            mycontent = "\n".join(str(r.content, 'utf-8').split("\n")[4:])
 
-
+            with open(dest_folder + name, 'w') as f:
+                f.write(mycontent)
+                f.close()
+        except:
+            print("Error writing: ", folder_url)
 
 
 
@@ -102,7 +110,7 @@ assert datahelper.create_url("20", "ss","gs") == "https://rptsvr1.tea.texas.gov/
 
 # Downloads the Following Years:
 
-test_years = ["19", "20"]
+test_years = ["16","17", "18","19", "20"]
 test_select_summaries = ["ss", "sr", "so", "sd", "sc", "rr", "ro", "rd", "rc", "oo", "od", "oc", "id", "dd", "ic", "dc", "nc", "cc" ]
 test_select_grouping = ["e", "s", "g", "se", "gi", "gs"]
 
