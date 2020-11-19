@@ -17,7 +17,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 class RetrieveTexasData:
     def __init__(self):
 
-
         self.year_mapping = {"12":"2012", "13":"2013", "14":"2014", "15":"2015", "16":"2016", "17":"2017", "18":"2018", "19":"2019",  "20":"2020"}
         self.valid_summaries = {"ss": "Statewide Totals" , "sr": "Statewide Region Totals", "so": "Statewide County Totals",
 "sd": "Statewide District Totals", "sc":"Statewide Campus Totals", "rr": "Selected Regionwide Totals", "ro":"Selected Regionwide County Totals",
