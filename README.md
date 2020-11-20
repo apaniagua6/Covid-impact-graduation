@@ -93,7 +93,9 @@ A check next to a state represents that we obtained the high school enrollment r
 - [ ] Oregon	 (41)
 - [ ] Washington	(53)
 
+# Domain knowledge
 
+- https://nces.ed.gov/programs/dropout/intro.asp
 
 # Contribution Guidelines 
 These are general guidelines on how to make changes to this repository. 
