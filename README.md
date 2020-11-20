@@ -96,6 +96,7 @@ A check next to a state represents that we obtained the high school enrollment r
 # Domain knowledge
 
 - https://nces.ed.gov/programs/dropout/intro.asp
+- https://en.wikipedia.org/wiki/High_school_dropouts_in_the_United_States
 
 # Contribution Guidelines 
 These are general guidelines on how to make changes to this repository. 
