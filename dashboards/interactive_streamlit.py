@@ -51,3 +51,10 @@ st.sidebar.title("Compare With:")
 State_list = st.sidebar.selectbox(
     'state',
     ["California", "New York"])
+
+
+# Add a slider to the sidebar:
+add_slider = st.sidebar.slider(
+    'Select a range of values',
+    0, 12, (1, 4)
+)
