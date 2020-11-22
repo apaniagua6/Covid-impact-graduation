@@ -58,3 +58,10 @@ add_slider = st.sidebar.slider(
     'Select a range of values',
     0, 12, (1, 4)
 )
+
+
+# Add a slider to the sidebar:
+add_slider2 = st.sidebar.slider(
+    'Simulate number of cases',
+    0, 10000, (200, 1000)
+)

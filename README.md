@@ -7,6 +7,12 @@ High school dropout rate is defined as the percentage of 16- to 24-year-olds who
 
 
 
+# Template for State High school Enrollment 
+
+- Data Schema
+- State
+- etc
+
 ## Data Sets
 
 The following are the sources of the datasets that are used for our analysis. 
