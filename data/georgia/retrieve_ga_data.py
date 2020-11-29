@@ -106,6 +106,7 @@ assert datahelper.create_url("21", 1, "g") == "https://oraapp.doe.k12.ga.us/ows-
 test_years = ["12", "13", "14", "15", "16", "17", "18", "19", "20", "21"]
 test_select_summaries = ["so"]
 test_select_quarters = [1, 3]
+
 test_levels = ["se", "g", "d"]
 
 datahelper.download_data(test_years, test_select_summaries, test_select_quarters, test_levels)
