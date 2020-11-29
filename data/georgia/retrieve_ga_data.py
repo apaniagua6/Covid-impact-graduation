@@ -9,7 +9,6 @@ directories:
 
 /.year/summary/groupings/year_summary_groupings.csv
 """
-#https://oraapp.doe.k12.ga.us/ows-bin/owa/fte_pack_enrollgrade.download_allsys?p_fiscal_year=20211&p_system_id=ALL&p_report_level=ALLSYS
 import requests
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -21,7 +20,9 @@ class RetrieveGeorgiaData:
 
         self.year_mapping = {"12":"2012", "13":"2013", "14":"2014", "15":"2015", "16":"2016", "17":"2017", "18":"2018", "19":"2019",  "20":"2020",  "21":"2020"}
         self.valid_summaries = {"so": "Statewide County Totals"}
-        self.valid_levels = {"g": {"grouping":"Grade", "pack":"enrollgrade", "level":"ALLSYS"}, "e": {"grouping":"Ethnicity","pack":"ethnicsex_pub", "level":"LEA" } }
+        self.valid_levels = {"g": {"grouping":"Grade", "pack":"enrollgrade", "level":"ALLSYS"},
+                             "se": {"grouping":"Gender and Ethnicity","pack":"ethnicsex_pub", "level":"LEA" },
+                             "d": {"grouping": "Disability", "pack": "swd_enroll_pub", "level": "LEA"}}
 
         # self.valid_groupings = {"e": "Ethnicity", "s": "Gender", "g": "Grade", "se": "Gender and Ethnicity",
         #                      "gi": "Grade and Ethnicity", "gs": "Grade and Gender"}
@@ -105,6 +106,6 @@ assert datahelper.create_url("21", 1, "g") == "https://oraapp.doe.k12.ga.us/ows-
 test_years = ["12", "13", "14", "15", "16", "17", "18", "19", "20", "21"]
 test_select_summaries = ["so"]
 test_select_quarters = [1, 3]
-test_levels = ["e"]
+test_levels = ["se", "g", "d"]
 
 datahelper.download_data(test_years, test_select_summaries, test_select_quarters, test_levels)
