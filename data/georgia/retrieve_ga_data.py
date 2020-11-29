@@ -86,7 +86,6 @@ class RetrieveGeorgiaData:
 # Test Cases for create_url
 datahelper = RetrieveGeorgiaData()
 
-print(datahelper.create_url("21", 1))
 # assert to prevent regression issues.
 assert datahelper.create_url("21", 1) == "https://oraapp.doe.k12.ga.us/ows-bin/owa/" \
                                                 "fte_pack_enrollgrade.download_allsys?" \
