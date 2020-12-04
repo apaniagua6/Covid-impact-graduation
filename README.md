@@ -1,3 +1,6 @@
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apaniagua6/Covid-impact-graduation/HEAD)
+
+
 # Impact of COVID-19 on school graduation rates.
 
 
