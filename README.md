@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apaniagua6/binder-environment/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fapaniagua6%252FCovid-impact-graduation%26urlpath%3Dtree%252FCovid-impact-graduation%252F%26branch%3Dmain)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apaniagua6/binder-environment/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fapaniagua6%252FCovid-impact-graduation%26urlpath%3Dlab%252Ftree%252FCovid-impact-graduation%252F%26branch%3Dmain)
 
 
 # Impact of COVID-19 on school graduation rates.
