@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 .idea
 .vscode
+03-educationdata-dashboards/Instructional Spend By State Starting 1991.csv
+03-educationdata-dashboards/instructional_spend_state_starting_1991.parquet.gzip.cpgz
+03-educationdata-dashboards/instructional_spend_state_starting_1991.parquet.gzip.gz
