@@ -44,68 +44,15 @@ Census Bureau Regions. [See Map in PDF format](./readmefiles/census_regions.pdf)
 
 A check next to a state represents that we obtained the high school enrollment rate for that state. 
 
-
-## Northeast
-- [ ] Connecticut	(09)
-- [ ] Maine 	(23)
-- [ ] Massachusetts (25)
-- [ ] New Hampshire 	(33)
-- [ ] Rhode Island 	(44)
-- [ ] Vermont 	(50)
-- [ ] New Jersey	(34)
-- [ ] New York	(36)
-- [ ] Pennsylvania	(42)
-## Midwest
-- [ ] Indiana (18)
-- [ ] Illinois (17)
-- [ ] Michigan	(26)
-- [ ] Ohio (	39)
-- [ ] Wisconsin	(55)
-- [ ] Iowa	 (19) 	 
-- [ ] Nebraska	(31)
-- [ ] Kansas 	(20) 
-- [ ] North Dakota	(38)
-- [ ] Minnesota	(27) 
-- [ ] South Dakota	(46)
-- [ ] Missouri	(29)
-
-## South
-- [ ] Delaware	(10)
-- [ ] District of Columbia	(11)
-- [ ] Florida 	(12)
-- [ ] Georgia	(13)
-- [ ] Maryland 	(24)
-- [ ] North Carolina (37)
-- [ ] South Carolina (45)
-- [ ] Virginia (51)
-- [ ] West Virginia	 (54)
-- [ ] Alabama	(01)
-- [ ] Mississippi	(28)
-- [ ] Tennessee	(47)
-- [ ] Arkansas	(05)
-- [ ] Louisiana	(22)
-- [ ] Oklahoma	(40)
-- [x] Texas	 (48)
-
-## West
-- [ ] Arizona	 ( 04)
-- [ ] Colorado	(08)
-- [ ] Idaho	 (16)
-- [ ] New Mexico	(35)
-- [ ] Montana	(30)
-- [ ] Utah	 (49)
-- [ ] Nevada (32)
-- [ ] Wyoming (56)
-- [ ] Alaska 	(02)
-- [ ] California	(06)
-- [ ] Hawaii	 (15)
-- [ ] Oregon	 (41)
-- [ ] Washington	(53)
-
 # Domain knowledge
 
 - https://nces.ed.gov/programs/dropout/intro.asp
 - https://en.wikipedia.org/wiki/High_school_dropouts_in_the_United_States
+
+
+# Machine Learning 
+
+- https://trepo.tuni.fi/bitstream/handle/10024/101646/GRADU-1498472565.pdf?sequence=1 - Predicting student outcome
 
 # Contribution Guidelines 
 These are general guidelines on how to make changes to this repository. 
